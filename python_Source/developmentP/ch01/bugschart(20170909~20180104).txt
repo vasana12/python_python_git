@@ -1,0 +1,707 @@
+20170909,1,우원재,시차 (We Are) (Feat. 로꼬 & GRAY)
+20170909,2,선미,가시나
+20170909,3,윤종신,좋니
+20170909,4,10cm(십센치),폰서트
+20170909,5,Wanna One(워너원),에너제틱 (Energetic)
+20170909,6,현아,베베 (BABE)
+20170909,7,프라이머리(Primary),드라마 (Feat. 김성규)
+20170909,8,헤이즈(HEIZE),비도 오고 그래서 (Feat. 신용재)
+20170909,9,행주(Hangzoo),Red Sun (Feat. ZICO, Swings)
+20170909,10,아이유(IU),밤편지
+20170909,11,박재범(Jay Park),REBORN
+20170909,12,Red Velvet (레드벨벳),빨간 맛 (Red Flavor)
+20170909,13,박원,all of my life
+20170909,14,EXO,Power
+20170909,15,우원재,MOVE (Feat. Bizzy)
+20170909,16,BLACKPINK,마지막처럼
+20170909,17,정세운,JUST U (PROD. GroovyRoom)
+20170909,18,황치열,매일 듣는 노래 (A Daily Song)
+20170909,19,스탠딩 에그(Standing Egg),오늘 밤은 (with JISIM)
+20170909,20,넉살(Nucksal),필라멘트 (Feat. BSK A.K.A 김범수)
+20170909,21,10cm(십센치),HELP
+20170909,22,넉살(Nucksal),N분의 1 (Feat. 다이나믹듀오)
+20170909,23,프라이머리(Primary),Right? (Feat. 소유)
+20170909,24,윤아(YOONA),바람이 불면 (When The Wind Blows)
+20170909,25,DAY6 (데이식스),I Loved You
+20170909,26,행주(Hangzoo),SEARCH (Feat. 카더가든)
+20170909,27,볼빨간사춘기,남이 될 수 있을까 
+20170909,28,버즈(Buzz),사랑하지 않은 것처럼
+20170909,29,행주(Hangzoo),요즘것들 (Feat. ZICO, DEAN)
+20170909,30,헤이즈(HEIZE),널 너무 모르고
+20170909,31,악동뮤지션(AKMU),DINOSAUR
+20170909,32,WINNER,LOVE ME LOVE ME
+20170909,33,지코(Zico),Artist
+20170909,34,Ed Sheeran(에드 시런),Shape Of You
+20170909,35,여자친구(GFRIEND),귀를 기울이면 (LOVE WHISPER)
+20170909,36,킬라그램(Killagramz),어디 (Feat. DEAN, ZICO)
+20170909,37,소녀시대 (GIRLS' GENERATION),Holiday
+20170909,38,Taylor Swift(테일러 스위프트),Look What You Made Me Do
+20170909,39,그루비룸 (GroovyRoom),Sunday (feat. 헤이즈, 박재범)
+20170909,40,아이유(IU),팔레트 (Feat. G-DRAGON)
+20170909,41,우원재,또 (Feat. Tiger JK, Bizzy, 마샬(MRSHLL))
+20170909,42,헤이즈(HEIZE),너와 함께한 시간 속에서
+20170909,43,청하,Why Don’t You Know (Feat. 넉살)
+20170909,44,Wanna One(워너원),활활 (Burn It Up)
+20170909,45,10cm(십센치),pet
+20170909,46,볼빨간사춘기,처음부터 너와 나
+20170909,47,문문(MoonMoon),비행운
+20170909,48,Maroon 5(마룬 파이브),What Lovers Do (feat. SZA)
+20170909,49,프라이머리(Primary),마중 (Feat. 산들 (B1A4))
+20170909,50,태양,WAKE ME UP
+20170909,51,G-DRAGON,무제(無題) (Untitled, 2014)
+20170909,52,에일리(Ailee),첫눈처럼 너에게 가겠다
+20170909,53,Apink (에이핑크),FIVE
+20170909,54,넉살(Nucksal),부르는게 값이야 (Feat. 개코, 던밀스)
+20170909,55,아이유(IU),사랑이 잘 (With 오혁)
+20170909,56,Junoflo(주노플로),비틀어 (Twisted) (Feat. 김효은, CHANGMO)
+20170909,57,WINNER,ISLAND
+20170909,58,BLACKPINK,불장난
+20170909,59,프라이머리(Primary),툭 (Feat. 양요섭)
+20170909,60,SURAN (수란),오늘 취하면 (Feat.창모) (Prod. SUGA)
+20170909,61,WINNER,REALLY REALLY
+20170909,62,The Chainsmokers(체인스모커스),Closer (feat. Halsey)
+20170909,63,Wanna One(워너원),Wanna Be (My Baby)
+20170909,64,마마무(Mamamoo),나로 말할 것 같으면 (Yes I am)
+20170909,65,행주(Hangzoo),bestdriverZ (Feat. Zion.T, DEAN)
+20170909,66,Hoody (후디),한강 (HANGANG)
+20170909,67,조우찬,VVIP (Feat. Sik-K, 개코)
+20170909,68,지코(Zico),FANXY CHILD (Feat. FANXY CHILD)
+20170909,69,아이오아이(I.O.I),소나기
+20170909,70,국민의 아들,NEVER
+20170909,71,EXO,Ko Ko Bop
+20170909,72,10cm(십센치),Everything
+20170909,73,정승환,너였다면
+20170909,74,넉살(Nucksal),막이 내려도 (Feat. 개코)
+20170909,75,VMC,티키타카 (Feat. Deepflow, 우탄, 넉살, ODEE)
+20170909,76,10cm(십센치),별자리
+20170909,77,악동뮤지션(AKMU),MY DARLING
+20170909,78,DEAN(딘),D (half moon) (Feat. 개코)
+20170909,79,효린,BLUE MOON (Prod. GroovyRoom)
+20170909,80,우원재,진자 (ZINZA) (Feat. YDG, 수란)
+20170909,81,Bruno Mars(브루노 마스),That's What I Like
+20170909,82,마크툽(Maktub),Marry Me
+20170909,83,아이유(IU),이 지금
+20170909,84,TWICE (트와이스),SIGNAL
+20170909,85,볼빨간사춘기,좋다고 말해
+20170909,86,Charlie Puth(찰리 푸스),Attention
+20170909,87,헤이즈(HEIZE),돌아오지마 (Feat. 용준형 of 비스트)
+20170909,88,싸이 (PSY),New Face
+20170909,89,박재범(Jay Park),All I Wanna Do (K) (Feat. Hoody, Loco)
+20170909,90,혁오 (HYUKOH),TOMBOY
+20170909,91,볼빨간사춘기,우주를 줄게
+20170909,92,볼빨간사춘기,나만 안되는 연애
+20170909,93,태양,DARLING
+20170909,94,소유 (SOYOU),제주도의 푸른 밤
+20170909,95,아이유(IU),이런 엔딩
+20170909,96,한동근,미치고 싶다
+20170909,97,먼데이 키즈(Monday Kiz),누군가를 떠나 보낸다는 건
+20170909,98,프라이머리(Primary),~42 (feat. 샘김 (SAM KIM), 에스나 (eSNa))
+20170909,99,EXO,부메랑 (Boomerang)
+20170909,100,비와이(BewhY),Red Carpet
+--------------------------------------------------
+20170910,1,우원재,시차 (We Are) (Feat. 로꼬 & GRAY)
+20170910,2,선미,가시나
+20170910,3,Sam Smith(샘 스미스),Too Good At Goodbyes
+20170910,4,윤종신,좋니
+20170910,5,10cm(십센치),폰서트
+20170910,6,현아,베베 (BABE)
+20170910,7,헤이즈(HEIZE),비도 오고 그래서 (Feat. 신용재)
+20170910,8,Wanna One(워너원),에너제틱 (Energetic)
+20170910,9,아이유(IU),밤편지
+20170910,10,Red Velvet (레드벨벳),빨간 맛 (Red Flavor)
+20170910,11,프라이머리(Primary),드라마 (Feat. 김성규)
+20170910,12,행주(Hangzoo),Red Sun (Feat. ZICO, Swings)
+20170910,13,박원,all of my life
+20170910,14,EXO,Power
+20170910,15,BLACKPINK,마지막처럼
+20170910,16,황치열,매일 듣는 노래 (A Daily Song)
+20170910,17,정세운,JUST U (PROD. GroovyRoom)
+20170910,18,정은지,마니또
+20170910,19,넉살(Nucksal),N분의 1 (Feat. 다이나믹듀오)
+20170910,20,버즈(Buzz),사랑하지 않은 것처럼
+20170910,21,넉살(Nucksal),필라멘트 (Feat. BSK A.K.A 김범수)
+20170910,22,10cm(십센치),HELP
+20170910,23,지코(Zico),Artist
+20170910,24,프라이머리(Primary),Right? (Feat. 소유)
+20170910,25,우원재,MOVE (Feat. Bizzy)
+20170910,26,볼빨간사춘기,남이 될 수 있을까 
+20170910,27,행주(Hangzoo),SEARCH (Feat. 카더가든)
+20170910,28,Ed Sheeran(에드 시런),Shape Of You
+20170910,29,헤이즈(HEIZE),널 너무 모르고
+20170910,30,행주(Hangzoo),요즘것들 (Feat. ZICO, DEAN)
+20170910,31,박재범(Jay Park),REBORN
+20170910,32,여자친구(GFRIEND),귀를 기울이면 (LOVE WHISPER)
+20170910,33,악동뮤지션(AKMU),DINOSAUR
+20170910,34,킬라그램(Killagramz),어디 (Feat. DEAN, ZICO)
+20170910,35,WINNER,LOVE ME LOVE ME
+20170910,36,Taylor Swift(테일러 스위프트),Look What You Made Me Do
+20170910,37,G-DRAGON,무제(無題) (Untitled, 2014)
+20170910,38,소녀시대 (GIRLS' GENERATION),Holiday
+20170910,39,DAY6 (데이식스),I Loved You
+20170910,40,아이유(IU),팔레트 (Feat. G-DRAGON)
+20170910,41,청하,Why Don’t You Know (Feat. 넉살)
+20170910,42,10cm(십센치),pet
+20170910,43,스탠딩 에그(Standing Egg),오늘 밤은 (with JISIM)
+20170910,44,Maroon 5(마룬 파이브),What Lovers Do (feat. SZA)
+20170910,45,볼빨간사춘기,처음부터 너와 나
+20170910,46,그루비룸 (GroovyRoom),Sunday (feat. 헤이즈, 박재범)
+20170910,47,우원재,또 (Feat. Tiger JK, Bizzy, 마샬(MRSHLL))
+20170910,48,아이유(IU),사랑이 잘 (With 오혁)
+20170910,49,헤이즈(HEIZE),너와 함께한 시간 속에서
+20170910,50,태양,WAKE ME UP
+20170910,51,잔나비,She (Hidden Track No.V 1월 선정곡)
+20170910,52,에일리(Ailee),첫눈처럼 너에게 가겠다
+20170910,53,Wanna One(워너원),활활 (Burn It Up)
+20170910,54,프라이머리(Primary),마중 (Feat. 산들 (B1A4))
+20170910,55,SURAN (수란),오늘 취하면 (Feat.창모) (Prod. SUGA)
+20170910,56,WINNER,REALLY REALLY
+20170910,57,문문(MoonMoon),비행운
+20170910,58,BLACKPINK,불장난
+20170910,59,윤아(YOONA),바람이 불면 (When The Wind Blows)
+20170910,60,지코(Zico),FANXY CHILD (Feat. FANXY CHILD)
+20170910,61,태양,DARLING
+20170910,62,Wanna One(워너원),Wanna Be (My Baby)
+20170910,63,The Chainsmokers(체인스모커스),Closer (feat. Halsey)
+20170910,64,Hoody (후디),한강 (HANGANG)
+20170910,65,국민의 아들,NEVER
+20170910,66,10cm(십센치),Everything
+20170910,67,DEAN(딘),D (half moon) (Feat. 개코)
+20170910,68,효린,BLUE MOON (Prod. GroovyRoom)
+20170910,69,10cm(십센치),별자리
+20170910,70,마마무(Mamamoo),나로 말할 것 같으면 (Yes I am)
+20170910,71,Apink (에이핑크),FIVE
+20170910,72,볼빨간사춘기,우주를 줄게
+20170910,73,볼빨간사춘기,좋다고 말해
+20170910,74,볼빨간사춘기,나만 안되는 연애
+20170910,75,Bruno Mars(브루노 마스),That's What I Like
+20170910,76,넉살(Nucksal),부르는게 값이야 (Feat. 개코, 던밀스)
+20170910,77,프라이머리(Primary),툭 (Feat. 양요섭)
+20170910,78,아이유(IU),이 지금
+20170910,79,헤이즈(HEIZE),돌아오지마 (Feat. 용준형 of 비스트)
+20170910,80,The Chainsmokers(체인스모커스),Something Just Like This
+20170910,81,정승환,너였다면
+20170910,82,아이오아이(I.O.I),소나기
+20170910,83,EXO,Ko Ko Bop
+20170910,84,박재범(Jay Park),All I Wanna Do (K) (Feat. Hoody, Loco)
+20170910,85,싸이 (PSY),New Face
+20170910,86,마크툽(Maktub),Marry Me
+20170910,87,Junoflo(주노플로),비틀어 (Twisted) (Feat. 김효은, CHANGMO)
+20170910,88,혁오 (HYUKOH),TOMBOY
+20170910,89,WINNER,ISLAND
+20170910,90,Charlie Puth(찰리 푸스),Attention
+20170910,91,조우찬,VVIP (Feat. Sik-K, 개코)
+20170910,92,TWICE (트와이스),SIGNAL
+20170910,93,아이유(IU),이런 엔딩
+20170910,94,행주(Hangzoo),bestdriverZ (Feat. Zion.T, DEAN)
+20170910,95,프라이머리(Primary),~42 (feat. 샘김 (SAM KIM), 에스나 (eSNa))
+20170910,96,한동근,미치고 싶다
+20170910,97,우원재,진자 (ZINZA) (Feat. YDG, 수란)
+20170910,98,악동뮤지션(AKMU),MY DARLING
+20170910,99,악동뮤지션(AKMU),오랜 날 오랜 밤
+20170910,100,넉살(Nucksal),막이 내려도 (Feat. 개코)
+--------------------------------------------------
+20170911,1,우원재,시차 (We Are) (Feat. 로꼬 & GRAY)
+20170911,2,선미,가시나
+20170911,3,Sam Smith(샘 스미스),Too Good At Goodbyes
+20170911,4,윤종신,좋니
+20170911,5,10cm(십센치),폰서트
+20170911,6,헤이즈(HEIZE),비도 오고 그래서 (Feat. 신용재)
+20170911,7,아이유(IU),밤편지
+20170911,8,현아,베베 (BABE)
+20170911,9,박원,all of my life
+20170911,10,Wanna One(워너원),에너제틱 (Energetic)
+20170911,11,프라이머리(Primary),드라마 (Feat. 김성규)
+20170911,12,Red Velvet (레드벨벳),빨간 맛 (Red Flavor)
+20170911,13,행주(Hangzoo),Red Sun (Feat. ZICO, Swings)
+20170911,14,황치열,매일 듣는 노래 (A Daily Song)
+20170911,15,BLACKPINK,마지막처럼
+20170911,16,정세운,JUST U (PROD. GroovyRoom)
+20170911,17,EXO,Power
+20170911,18,10cm(십센치),HELP
+20170911,19,넉살(Nucksal),N분의 1 (Feat. 다이나믹듀오)
+20170911,20,볼빨간사춘기,남이 될 수 있을까 
+20170911,21,헤이즈(HEIZE),널 너무 모르고
+20170911,22,Ed Sheeran(에드 시런),Shape Of You
+20170911,23,프라이머리(Primary),Right? (Feat. 소유)
+20170911,24,넉살(Nucksal),필라멘트 (Feat. BSK A.K.A 김범수)
+20170911,25,태양,DARLING
+20170911,26,지코(Zico),Artist
+20170911,27,우원재,MOVE (Feat. Bizzy)
+20170911,28,버즈(Buzz),사랑하지 않은 것처럼
+20170911,29,행주(Hangzoo),요즘것들 (Feat. ZICO, DEAN)
+20170911,30,Taylor Swift(테일러 스위프트),Look What You Made Me Do
+20170911,31,박재범(Jay Park),REBORN
+20170911,32,악동뮤지션(AKMU),DINOSAUR
+20170911,33,행주(Hangzoo),SEARCH (Feat. 카더가든)
+20170911,34,태양,WAKE ME UP
+20170911,35,여자친구(GFRIEND),귀를 기울이면 (LOVE WHISPER)
+20170911,36,킬라그램(Killagramz),어디 (Feat. DEAN, ZICO)
+20170911,37,스탠딩 에그(Standing Egg),오늘 밤은 (with JISIM)
+20170911,38,DAY6 (데이식스),I Loved You
+20170911,39,WINNER,LOVE ME LOVE ME
+20170911,40,아이유(IU),팔레트 (Feat. G-DRAGON)
+20170911,41,G-DRAGON,무제(無題) (Untitled, 2014)
+20170911,42,청하,Why Don’t You Know (Feat. 넉살)
+20170911,43,문문(MoonMoon),비행운
+20170911,44,에일리(Ailee),첫눈처럼 너에게 가겠다
+20170911,45,정은지,마니또
+20170911,46,Maroon 5(마룬 파이브),What Lovers Do (feat. SZA)
+20170911,47,볼빨간사춘기,처음부터 너와 나
+20170911,48,우원재,또 (Feat. Tiger JK, Bizzy, 마샬(MRSHLL))
+20170911,49,소녀시대 (GIRLS' GENERATION),Holiday
+20170911,50,그루비룸 (GroovyRoom),Sunday (feat. 헤이즈, 박재범)
+20170911,51,아이유(IU),사랑이 잘 (With 오혁)
+20170911,52,DEAN(딘),D (half moon) (Feat. 개코)
+20170911,53,10cm(십센치),pet
+20170911,54,헤이즈(HEIZE),너와 함께한 시간 속에서
+20170911,55,잔나비,She (Hidden Track No.V 1월 선정곡)
+20170911,56,SURAN (수란),오늘 취하면 (Feat.창모) (Prod. SUGA)
+20170911,57,Wanna One(워너원),활활 (Burn It Up)
+20170911,58,The Chainsmokers(체인스모커스),Closer (feat. Halsey)
+20170911,59,WINNER,REALLY REALLY
+20170911,60,국민의 아들,NEVER
+20170911,61,효린,BLUE MOON (Prod. GroovyRoom)
+20170911,62,아이유(IU),이 지금
+20170911,63,지코(Zico),FANXY CHILD (Feat. FANXY CHILD)
+20170911,64,Wanna One(워너원),Wanna Be (My Baby)
+20170911,65,프라이머리(Primary),마중 (Feat. 산들 (B1A4))
+20170911,66,The Chainsmokers(체인스모커스),Something Just Like This
+20170911,67,10cm(십센치),Everything
+20170911,68,아이유(IU),이런 엔딩
+20170911,69,Charlie Puth(찰리 푸스),Attention
+20170911,70,볼빨간사춘기,좋다고 말해
+20170911,71,볼빨간사춘기,우주를 줄게
+20170911,72,볼빨간사춘기,나만 안되는 연애
+20170911,73,BLACKPINK,불장난
+20170911,74,헤이즈(HEIZE),돌아오지마 (Feat. 용준형 of 비스트)
+20170911,75,Bruno Mars(브루노 마스),That's What I Like
+20170911,76,프라이머리(Primary),툭 (Feat. 양요섭)
+20170911,77,아이오아이(I.O.I),소나기
+20170911,78,EXO,Ko Ko Bop
+20170911,79,마크툽(Maktub),Marry Me
+20170911,80,박재범(Jay Park),All I Wanna Do (K) (Feat. Hoody, Loco)
+20170911,81,한동근,미치고 싶다
+20170911,82,WINNER,ISLAND
+20170911,83,TWICE (트와이스),SIGNAL
+20170911,84,Hoody (후디),한강 (HANGANG)
+20170911,85,정승환,너였다면
+20170911,86,혁오 (HYUKOH),TOMBOY
+20170911,87,넉살(Nucksal),부르는게 값이야 (Feat. 개코, 던밀스)
+20170911,88,Junoflo(주노플로),비틀어 (Twisted) (Feat. 김효은, CHANGMO)
+20170911,89,마마무(Mamamoo),나로 말할 것 같으면 (Yes I am)
+20170911,90,싸이 (PSY),New Face
+20170911,91,프라이머리(Primary),~42 (feat. 샘김 (SAM KIM), 에스나 (eSNa))
+20170911,92,우원재,진자 (ZINZA) (Feat. YDG, 수란)
+20170911,93,조우찬,VVIP (Feat. Sik-K, 개코)
+20170911,94,Apink (에이핑크),FIVE
+20170911,95,윤아(YOONA),바람이 불면 (When The Wind Blows)
+20170911,96,악동뮤지션(AKMU),오랜 날 오랜 밤
+20170911,97,행주(Hangzoo),bestdriverZ (Feat. Zion.T, DEAN)
+20170911,98,넉살(Nucksal),막이 내려도 (Feat. 개코)
+20170911,99,PRODUCE 101(프로듀스 101),나야 나 (PICK ME)
+20170911,100,악동뮤지션(AKMU),MY DARLING
+--------------------------------------------------
+20170912,1,우원재,시차 (We Are) (Feat. 로꼬 & GRAY)
+20170912,2,선미,가시나
+20170912,3,윤종신,좋니
+20170912,4,Sam Smith(샘 스미스),Too Good At Goodbyes
+20170912,5,10cm(십센치),폰서트
+20170912,6,현아,베베 (BABE)
+20170912,7,헤이즈(HEIZE),비도 오고 그래서 (Feat. 신용재)
+20170912,8,아이유(IU),밤편지
+20170912,9,박원,all of my life
+20170912,10,Wanna One(워너원),에너제틱 (Energetic)
+20170912,11,프라이머리(Primary),드라마 (Feat. 김성규)
+20170912,12,Red Velvet (레드벨벳),빨간 맛 (Red Flavor)
+20170912,13,행주(Hangzoo),Red Sun (Feat. ZICO, Swings)
+20170912,14,황치열,매일 듣는 노래 (A Daily Song)
+20170912,15,정세운,JUST U (PROD. GroovyRoom)
+20170912,16,EXO,Power
+20170912,17,BLACKPINK,마지막처럼
+20170912,18,10cm(십센치),HELP
+20170912,19,헤이즈(HEIZE),널 너무 모르고
+20170912,20,볼빨간사춘기,남이 될 수 있을까 
+20170912,21,버즈(Buzz),사랑하지 않은 것처럼
+20170912,22,넉살(Nucksal),N분의 1 (Feat. 다이나믹듀오)
+20170912,23,프라이머리(Primary),Right? (Feat. 소유)
+20170912,24,넉살(Nucksal),필라멘트 (Feat. BSK A.K.A 김범수)
+20170912,25,Ed Sheeran(에드 시런),Shape Of You
+20170912,26,우원재,MOVE (Feat. Bizzy)
+20170912,27,행주(Hangzoo),요즘것들 (Feat. ZICO, DEAN)
+20170912,28,박재범(Jay Park),REBORN
+20170912,29,지코(Zico),Artist
+20170912,30,Taylor Swift(테일러 스위프트),Look What You Made Me Do
+20170912,31,여자친구(GFRIEND),귀를 기울이면 (LOVE WHISPER)
+20170912,32,WINNER,LOVE ME LOVE ME
+20170912,33,악동뮤지션(AKMU),DINOSAUR
+20170912,34,행주(Hangzoo),SEARCH (Feat. 카더가든)
+20170912,35,DAY6 (데이식스),I Loved You
+20170912,36,태양,DARLING
+20170912,37,킬라그램(Killagramz),어디 (Feat. DEAN, ZICO)
+20170912,38,Maroon 5(마룬 파이브),What Lovers Do (feat. SZA)
+20170912,39,청하,Why Don’t You Know (Feat. 넉살)
+20170912,40,태양,WAKE ME UP
+20170912,41,아이유(IU),팔레트 (Feat. G-DRAGON)
+20170912,42,볼빨간사춘기,처음부터 너와 나
+20170912,43,문문(MoonMoon),비행운
+20170912,44,에일리(Ailee),첫눈처럼 너에게 가겠다
+20170912,45,소녀시대 (GIRLS' GENERATION),Holiday
+20170912,46,G-DRAGON,무제(無題) (Untitled, 2014)
+20170912,47,그루비룸 (GroovyRoom),Sunday (feat. 헤이즈, 박재범)
+20170912,48,10cm(십센치),pet
+20170912,49,The Chainsmokers(체인스모커스),Closer (feat. Halsey)
+20170912,50,우원재,또 (Feat. Tiger JK, Bizzy, 마샬(MRSHLL))
+20170912,51,헤이즈(HEIZE),너와 함께한 시간 속에서
+20170912,52,아이유(IU),사랑이 잘 (With 오혁)
+20170912,53,스탠딩 에그(Standing Egg),오늘 밤은 (with JISIM)
+20170912,54,DEAN(딘),D (half moon) (Feat. 개코)
+20170912,55,EXO,Ko Ko Bop
+20170912,56,슈가볼(Sugarbowl),예외
+20170912,57,WINNER,ISLAND
+20170912,58,WINNER,REALLY REALLY
+20170912,59,The Chainsmokers(체인스모커스),Something Just Like This
+20170912,60,아이유(IU),이 지금
+20170912,61,Wanna One(워너원),활활 (Burn It Up)
+20170912,62,SURAN (수란),오늘 취하면 (Feat.창모) (Prod. SUGA)
+20170912,63,아이유(IU),이런 엔딩
+20170912,64,헤이즈(HEIZE),돌아오지마 (Feat. 용준형 of 비스트)
+20170912,65,국민의 아들,NEVER
+20170912,66,BLACKPINK,불장난
+20170912,67,우원재,진자 (ZINZA) (Feat. YDG, 수란)
+20170912,68,Hoody (후디),한강 (HANGANG)
+20170912,69,프라이머리(Primary),마중 (Feat. 산들 (B1A4))
+20170912,70,아이오아이(I.O.I),소나기
+20170912,71,볼빨간사춘기,좋다고 말해
+20170912,72,Bruno Mars(브루노 마스),That's What I Like
+20170912,73,지코(Zico),FANXY CHILD (Feat. FANXY CHILD)
+20170912,74,볼빨간사춘기,나만 안되는 연애
+20170912,75,싸이 (PSY),New Face
+20170912,76,마마무(Mamamoo),나로 말할 것 같으면 (Yes I am)
+20170912,77,혁오 (HYUKOH),TOMBOY
+20170912,78,Charlie Puth(찰리 푸스),Attention
+20170912,79,넉살(Nucksal),부르는게 값이야 (Feat. 개코, 던밀스)
+20170912,80,Wanna One(워너원),Wanna Be (My Baby)
+20170912,81,정승환,너였다면
+20170912,82,볼빨간사춘기,우주를 줄게
+20170912,83,효린,BLUE MOON (Prod. GroovyRoom)
+20170912,84,10cm(십센치),Everything
+20170912,85,조우찬,VVIP (Feat. Sik-K, 개코)
+20170912,86,Junoflo(주노플로),비틀어 (Twisted) (Feat. 김효은, CHANGMO)
+20170912,87,박재범(Jay Park),All I Wanna Do (K) (Feat. Hoody, Loco)
+20170912,88,악동뮤지션(AKMU),오랜 날 오랜 밤
+20170912,89,행주(Hangzoo),bestdriverZ (Feat. Zion.T, DEAN)
+20170912,90,한동근,미치고 싶다
+20170912,91,마크툽(Maktub),Marry Me
+20170912,92,프라이머리(Primary),~42 (feat. 샘김 (SAM KIM), 에스나 (eSNa))
+20170912,93,프라이머리(Primary),툭 (Feat. 양요섭)
+20170912,94,TWICE (트와이스),SIGNAL
+20170912,95,정은지,마니또
+20170912,96,준호,CANVAS
+20170912,97,Apink (에이핑크),FIVE
+20170912,98,악동뮤지션(AKMU),MY DARLING
+20170912,99,잔나비,She (Hidden Track No.V 1월 선정곡)
+20170912,100,10cm(십센치),별자리
+--------------------------------------------------
+20170913,1,우원재,시차 (We Are) (Feat. 로꼬 & GRAY)
+20170913,2,선미,가시나
+20170913,3,윤종신,좋니
+20170913,4,Sam Smith(샘 스미스),Too Good At Goodbyes
+20170913,5,10cm(십센치),폰서트
+20170913,6,현아,베베 (BABE)
+20170913,7,스무살,걔 말고
+20170913,8,박원,all of my life
+20170913,9,헤이즈(HEIZE),비도 오고 그래서 (Feat. 신용재)
+20170913,10,Wanna One(워너원),에너제틱 (Energetic)
+20170913,11,아이유(IU),밤편지
+20170913,12,프라이머리(Primary),드라마 (Feat. 김성규)
+20170913,13,행주(Hangzoo),Red Sun (Feat. ZICO, Swings)
+20170913,14,Red Velvet (레드벨벳),빨간 맛 (Red Flavor)
+20170913,15,정세운,JUST U (PROD. GroovyRoom)
+20170913,16,커피소년,첫정이라 못 떼요
+20170913,17,BLACKPINK,마지막처럼
+20170913,18,볼빨간사춘기,남이 될 수 있을까 
+20170913,19,황치열,매일 듣는 노래 (A Daily Song)
+20170913,20,10cm(십센치),HELP
+20170913,21,헤이즈(HEIZE),널 너무 모르고
+20170913,22,Ed Sheeran(에드 시런),Shape Of You
+20170913,23,EXO,Power
+20170913,24,버즈(Buzz),사랑하지 않은 것처럼
+20170913,25,2BIC(투빅),그 와중에
+20170913,26,넉살(Nucksal),N분의 1 (Feat. 다이나믹듀오)
+20170913,27,프라이머리(Primary),Right? (Feat. 소유)
+20170913,28,여자친구(GFRIEND),귀를 기울이면 (LOVE WHISPER)
+20170913,29,Taylor Swift(테일러 스위프트),Look What You Made Me Do
+20170913,30,넉살(Nucksal),필라멘트 (Feat. BSK A.K.A 김범수)
+20170913,31,지코(Zico),Artist
+20170913,32,행주(Hangzoo),요즘것들 (Feat. ZICO, DEAN)
+20170913,33,Maroon 5(마룬 파이브),What Lovers Do (feat. SZA)
+20170913,34,행주(Hangzoo),SEARCH (Feat. 카더가든)
+20170913,35,WINNER,LOVE ME LOVE ME
+20170913,36,우원재,MOVE (Feat. Bizzy)
+20170913,37,The Chainsmokers(체인스모커스),Closer (feat. Halsey)
+20170913,38,악동뮤지션(AKMU),DINOSAUR
+20170913,39,박재범(Jay Park),REBORN
+20170913,40,청하,Why Don’t You Know (Feat. 넉살)
+20170913,41,아이유(IU),팔레트 (Feat. G-DRAGON)
+20170913,42,킬라그램(Killagramz),어디 (Feat. DEAN, ZICO)
+20170913,43,문문(MoonMoon),비행운
+20170913,44,소녀시대 (GIRLS' GENERATION),Holiday
+20170913,45,태양,WAKE ME UP
+20170913,46,우원재,또 (Feat. Tiger JK, Bizzy, 마샬(MRSHLL))
+20170913,47,볼빨간사춘기,처음부터 너와 나
+20170913,48,G-DRAGON,무제(無題) (Untitled, 2014)
+20170913,49,그루비룸 (GroovyRoom),Sunday (feat. 헤이즈, 박재범)
+20170913,50,태양,DARLING
+20170913,51,DAY6 (데이식스),I Loved You
+20170913,52,아이유(IU),사랑이 잘 (With 오혁)
+20170913,53,헤이즈(HEIZE),너와 함께한 시간 속에서
+20170913,54,10cm(십센치),pet
+20170913,55,Wanna One(워너원),활활 (Burn It Up)
+20170913,56,The Chainsmokers(체인스모커스),Something Just Like This
+20170913,57,Wanna One(워너원),Wanna Be (My Baby)
+20170913,58,에일리(Ailee),첫눈처럼 너에게 가겠다
+20170913,59,프라이머리(Primary),마중 (Feat. 산들 (B1A4))
+20170913,60,WINNER,ISLAND
+20170913,61,WINNER,REALLY REALLY
+20170913,62,SURAN (수란),오늘 취하면 (Feat.창모) (Prod. SUGA)
+20170913,63,Hoody (후디),한강 (HANGANG)
+20170913,64,지코(Zico),FANXY CHILD (Feat. FANXY CHILD)
+20170913,65,Charlie Puth(찰리 푸스),Attention
+20170913,66,볼빨간사춘기,좋다고 말해
+20170913,67,아이유(IU),이 지금
+20170913,68,한동근,미치고 싶다
+20170913,69,아이오아이(I.O.I),소나기
+20170913,70,볼빨간사춘기,나만 안되는 연애
+20170913,71,정승환,너였다면
+20170913,72,10cm(십센치),Everything
+20170913,73,아이유(IU),이런 엔딩
+20170913,74,DEAN(딘),D (half moon) (Feat. 개코)
+20170913,75,스탠딩 에그(Standing Egg),오늘 밤은 (with JISIM)
+20170913,76,BLACKPINK,불장난
+20170913,77,Bruno Mars(브루노 마스),That's What I Like
+20170913,78,마마무(Mamamoo),나로 말할 것 같으면 (Yes I am)
+20170913,79,마크툽(Maktub),Marry Me
+20170913,80,TWICE (트와이스),SIGNAL
+20170913,81,헤이즈(HEIZE),돌아오지마 (Feat. 용준형 of 비스트)
+20170913,82,조우찬,VVIP (Feat. Sik-K, 개코)
+20170913,83,Apink (에이핑크),FIVE
+20170913,84,EXO,Ko Ko Bop
+20170913,85,프라이머리(Primary),툭 (Feat. 양요섭)
+20170913,86,국민의 아들,NEVER
+20170913,87,볼빨간사춘기,우주를 줄게
+20170913,88,혁오 (HYUKOH),TOMBOY
+20170913,89,효린,BLUE MOON (Prod. GroovyRoom)
+20170913,90,싸이 (PSY),New Face
+20170913,91,프라이머리(Primary),~42 (feat. 샘김 (SAM KIM), 에스나 (eSNa))
+20170913,92,넉살(Nucksal),부르는게 값이야 (Feat. 개코, 던밀스)
+20170913,93,박재범(Jay Park),All I Wanna Do (K) (Feat. Hoody, Loco)
+20170913,94,악동뮤지션(AKMU),MY DARLING
+20170913,95,Junoflo(주노플로),비틀어 (Twisted) (Feat. 김효은, CHANGMO)
+20170913,96,우원재,진자 (ZINZA) (Feat. YDG, 수란)
+20170913,97,영비(Young B),아침에 (Feat. Bryn)
+20170913,98,박원,노력
+20170913,99,정은지,마니또
+20170913,100,악동뮤지션(AKMU),오랜 날 오랜 밤
+--------------------------------------------------
+20170914,1,여자친구(GFRIEND),여름비 (SUMMER RAIN)
+20170914,2,우원재,시차 (We Are) (Feat. 로꼬 & GRAY)
+20170914,3,선미,가시나
+20170914,4,윤종신,좋니
+20170914,5,스무살,걔 말고
+20170914,6,Sam Smith(샘 스미스),Too Good At Goodbyes
+20170914,7,10cm(십센치),폰서트
+20170914,8,여자친구(GFRIEND),RAINBOW
+20170914,9,아이유(IU),밤편지
+20170914,10,현아,베베 (BABE)
+20170914,11,헤이즈(HEIZE),비도 오고 그래서 (Feat. 신용재)
+20170914,12,Wanna One(워너원),에너제틱 (Energetic)
+20170914,13,박원,all of my life
+20170914,14,Red Velvet (레드벨벳),빨간 맛 (Red Flavor)
+20170914,15,프라이머리(Primary),드라마 (Feat. 김성규)
+20170914,16,행주(Hangzoo),Red Sun (Feat. ZICO, Swings)
+20170914,17,BLACKPINK,마지막처럼
+20170914,18,버즈(Buzz),사랑하지 않은 것처럼
+20170914,19,황치열,매일 듣는 노래 (A Daily Song)
+20170914,20,볼빨간사춘기,남이 될 수 있을까 
+20170914,21,Ed Sheeran(에드 시런),Shape Of You
+20170914,22,정세운,JUST U (PROD. GroovyRoom)
+20170914,23,Taylor Swift(테일러 스위프트),Look What You Made Me Do
+20170914,24,헤이즈(HEIZE),널 너무 모르고
+20170914,25,10cm(십센치),HELP
+20170914,26,넉살(Nucksal),N분의 1 (Feat. 다이나믹듀오)
+20170914,27,EXO,Power
+20170914,28,프라이머리(Primary),Right? (Feat. 소유)
+20170914,29,여자친구(GFRIEND),귀를 기울이면 (LOVE WHISPER)
+20170914,30,지코(Zico),Artist
+20170914,31,행주(Hangzoo),요즘것들 (Feat. ZICO, DEAN)
+20170914,32,아이유(IU),팔레트 (Feat. G-DRAGON)
+20170914,33,WINNER,LOVE ME LOVE ME
+20170914,34,커피소년,첫정이라 못 떼요
+20170914,35,Maroon 5(마룬 파이브),What Lovers Do (feat. SZA)
+20170914,36,넉살(Nucksal),필라멘트 (Feat. BSK A.K.A 김범수)
+20170914,37,악동뮤지션(AKMU),DINOSAUR
+20170914,38,청하,Why Don’t You Know (Feat. 넉살)
+20170914,39,우원재,MOVE (Feat. Bizzy)
+20170914,40,10cm(십센치),pet
+20170914,41,킬라그램(Killagramz),어디 (Feat. DEAN, ZICO)
+20170914,42,G-DRAGON,무제(無題) (Untitled, 2014)
+20170914,43,볼빨간사춘기,처음부터 너와 나
+20170914,44,문문(MoonMoon),비행운
+20170914,45,박재범(Jay Park),REBORN
+20170914,46,행주(Hangzoo),SEARCH (Feat. 카더가든)
+20170914,47,The Chainsmokers(체인스모커스),Closer (feat. Halsey)
+20170914,48,Wanna One(워너원),활활 (Burn It Up)
+20170914,49,에일리(Ailee),첫눈처럼 너에게 가겠다
+20170914,50,소녀시대 (GIRLS' GENERATION),Holiday
+20170914,51,헤이즈(HEIZE),너와 함께한 시간 속에서
+20170914,52,아이유(IU),사랑이 잘 (With 오혁)
+20170914,53,그루비룸 (GroovyRoom),Sunday (feat. 헤이즈, 박재범)
+20170914,54,태양,DARLING
+20170914,55,아이유(IU),이런 엔딩
+20170914,56,Wanna One(워너원),Wanna Be (My Baby)
+20170914,57,SURAN (수란),오늘 취하면 (Feat.창모) (Prod. SUGA)
+20170914,58,태양,WAKE ME UP
+20170914,59,국민의 아들,NEVER
+20170914,60,DAY6 (데이식스),I Loved You
+20170914,61,WINNER,REALLY REALLY
+20170914,62,우원재,또 (Feat. Tiger JK, Bizzy, 마샬(MRSHLL))
+20170914,63,BLACKPINK,불장난
+20170914,64,DEAN(딘),D (half moon) (Feat. 개코)
+20170914,65,아이유(IU),이 지금
+20170914,66,한동근,미치고 싶다
+20170914,67,The Chainsmokers(체인스모커스),Something Just Like This
+20170914,68,볼빨간사춘기,좋다고 말해
+20170914,69,마마무(Mamamoo),나로 말할 것 같으면 (Yes I am)
+20170914,70,Charlie Puth(찰리 푸스),Attention
+20170914,71,Bruno Mars(브루노 마스),That's What I Like
+20170914,72,정승환,너였다면
+20170914,73,Hoody (후디),한강 (HANGANG)
+20170914,74,아이오아이(I.O.I),소나기
+20170914,75,지코(Zico),FANXY CHILD (Feat. FANXY CHILD)
+20170914,76,마크툽(Maktub),Marry Me
+20170914,77,프라이머리(Primary),마중 (Feat. 산들 (B1A4))
+20170914,78,TWICE (트와이스),SIGNAL
+20170914,79,볼빨간사춘기,나만 안되는 연애
+20170914,80,2BIC(투빅),그 와중에
+20170914,81,프라이머리(Primary),툭 (Feat. 양요섭)
+20170914,82,효린,BLUE MOON (Prod. GroovyRoom)
+20170914,83,볼빨간사춘기,우주를 줄게
+20170914,84,헤이즈(HEIZE),돌아오지마 (Feat. 용준형 of 비스트)
+20170914,85,10cm(십센치),Everything
+20170914,86,싸이 (PSY),New Face
+20170914,87,EXO,Ko Ko Bop
+20170914,88,혁오 (HYUKOH),TOMBOY
+20170914,89,스탠딩 에그(Standing Egg),오늘 밤은 (with JISIM)
+20170914,90,WINNER,ISLAND
+20170914,91,조우찬,VVIP (Feat. Sik-K, 개코)
+20170914,92,악동뮤지션(AKMU),오랜 날 오랜 밤
+20170914,93,박재범(Jay Park),All I Wanna Do (K) (Feat. Hoody, Loco)
+20170914,94,Apink (에이핑크),FIVE
+20170914,95,Junoflo(주노플로),비틀어 (Twisted) (Feat. 김효은, CHANGMO)
+20170914,96,프라이머리(Primary),~42 (feat. 샘김 (SAM KIM), 에스나 (eSNa))
+20170914,97,악동뮤지션(AKMU),MY DARLING
+20170914,98,넉살(Nucksal),부르는게 값이야 (Feat. 개코, 던밀스)
+20170914,99,방탄소년단,봄날
+20170914,100,영비(Young B),아침에 (Feat. Bryn)
+--------------------------------------------------
+20170915,1,우원재,시차 (We Are) (Feat. 로꼬 & GRAY)
+20170915,2,선미,가시나
+20170915,3,윤종신,좋니
+20170915,4,BOBBY,사랑해
+20170915,5,여자친구(GFRIEND),여름비 (SUMMER RAIN)
+20170915,6,10cm(십센치),폰서트
+20170915,7,Sam Smith(샘 스미스),Too Good At Goodbyes
+20170915,8,스무살,걔 말고
+20170915,9,BOBBY,RUNAWAY
+20170915,10,헤이즈(HEIZE),비도 오고 그래서 (Feat. 신용재)
+20170915,11,박원,all of my life
+20170915,12,아이유(IU),밤편지
+20170915,13,현아,베베 (BABE)
+20170915,14,Wanna One(워너원),에너제틱 (Energetic)
+20170915,15,Red Velvet (레드벨벳),빨간 맛 (Red Flavor)
+20170915,16,행주(Hangzoo),Red Sun (Feat. ZICO, Swings)
+20170915,17,프라이머리(Primary),드라마 (Feat. 김성규)
+20170915,18,황치열,매일 듣는 노래 (A Daily Song)
+20170915,19,BLACKPINK,마지막처럼
+20170915,20,정세운,JUST U (PROD. GroovyRoom)
+20170915,21,볼빨간사춘기,남이 될 수 있을까 
+20170915,22,헤이즈(HEIZE),널 너무 모르고
+20170915,23,BOBBY,다른 세상 사람
+20170915,24,지코(Zico),Artist
+20170915,25,버즈(Buzz),사랑하지 않은 것처럼
+20170915,26,넉살(Nucksal),N분의 1 (Feat. 다이나믹듀오)
+20170915,27,Ed Sheeran(에드 시런),Shape Of You
+20170915,28,EXO,Power
+20170915,29,BOBBY,텐데
+20170915,30,10cm(십센치),HELP
+20170915,31,행주(Hangzoo),요즘것들 (Feat. ZICO, DEAN)
+20170915,32,여자친구(GFRIEND),귀를 기울이면 (LOVE WHISPER)
+20170915,33,넉살(Nucksal),필라멘트 (Feat. BSK A.K.A 김범수)
+20170915,34,Taylor Swift(테일러 스위프트),Look What You Made Me Do
+20170915,35,우원재,MOVE (Feat. Bizzy)
+20170915,36,프라이머리(Primary),Right? (Feat. 소유)
+20170915,37,여자친구(GFRIEND),RAINBOW
+20170915,38,BOBBY,IN LOVE
+20170915,39,행주(Hangzoo),SEARCH (Feat. 카더가든)
+20170915,40,악동뮤지션(AKMU),DINOSAUR
+20170915,41,킬라그램(Killagramz),어디 (Feat. DEAN, ZICO)
+20170915,42,청하,Why Don’t You Know (Feat. 넉살)
+20170915,43,아이유(IU),팔레트 (Feat. G-DRAGON)
+20170915,44,WINNER,LOVE ME LOVE ME
+20170915,45,볼빨간사춘기,처음부터 너와 나
+20170915,46,G-DRAGON,무제(無題) (Untitled, 2014)
+20170915,47,BOBBY,UP (Feat. MINO)
+20170915,48,Maroon 5(마룬 파이브),What Lovers Do (feat. SZA)
+20170915,49,BOBBY,SECRET (Feat. DK, KATIE)
+20170915,50,에일리(Ailee),첫눈처럼 너에게 가겠다
+20170915,51,문문(MoonMoon),비행운
+20170915,52,아이유(IU),사랑이 잘 (With 오혁)
+20170915,53,소녀시대 (GIRLS' GENERATION),Holiday
+20170915,54,그루비룸 (GroovyRoom),Sunday (feat. 헤이즈, 박재범)
+20170915,55,The Chainsmokers(체인스모커스),Closer (feat. Halsey)
+20170915,56,박재범(Jay Park),REBORN
+20170915,57,BOBBY,수영해
+20170915,58,WINNER,REALLY REALLY
+20170915,59,Wanna One(워너원),활활 (Burn It Up)
+20170915,60,10cm(십센치),pet
+20170915,61,SURAN (수란),오늘 취하면 (Feat.창모) (Prod. SUGA)
+20170915,62,정승환,너였다면
+20170915,63,BOBBY,내게 기대
+20170915,64,The Chainsmokers(체인스모커스),Something Just Like This
+20170915,65,아이유(IU),이 지금
+20170915,66,태양,DARLING
+20170915,67,태양,WAKE ME UP
+20170915,68,국민의 아들,NEVER
+20170915,69,지코(Zico),FANXY CHILD (Feat. FANXY CHILD)
+20170915,70,우원재,또 (Feat. Tiger JK, Bizzy, 마샬(MRSHLL))
+20170915,71,DAY6 (데이식스),I Loved You
+20170915,72,BOBBY,FIREWORK
+20170915,73,볼빨간사춘기,좋다고 말해
+20170915,74,Wanna One(워너원),Wanna Be (My Baby)
+20170915,75,마크툽(Maktub),Marry Me
+20170915,76,헤이즈(HEIZE),너와 함께한 시간 속에서
+20170915,77,박재범(Jay Park),All I Wanna Do (K) (Feat. Hoody, Loco)
+20170915,78,아이유(IU),이런 엔딩
+20170915,79,아이오아이(I.O.I),소나기
+20170915,80,볼빨간사춘기,우주를 줄게
+20170915,81,DEAN(딘),D (half moon) (Feat. 개코)
+20170915,82,EXO,Ko Ko Bop
+20170915,83,BLACKPINK,불장난
+20170915,84,볼빨간사춘기,나만 안되는 연애
+20170915,85,헤이즈(HEIZE),돌아오지마 (Feat. 용준형 of 비스트)
+20170915,86,프라이머리(Primary),마중 (Feat. 산들 (B1A4))
+20170915,87,Hoody (후디),한강 (HANGANG)
+20170915,88,Bruno Mars(브루노 마스),That's What I Like
+20170915,89,혁오 (HYUKOH),TOMBOY
+20170915,90,넉살(Nucksal),부르는게 값이야 (Feat. 개코, 던밀스)
+20170915,91,WINNER,ISLAND
+20170915,92,한동근,미치고 싶다
+20170915,93,효린,BLUE MOON (Prod. GroovyRoom)
+20170915,94,Charlie Puth(찰리 푸스),Attention
+20170915,95,싸이 (PSY),New Face
+20170915,96,TWICE (트와이스),SIGNAL
+20170915,97,Apink (에이핑크),FIVE
+20170915,98,악동뮤지션(AKMU),오랜 날 오랜 밤
+20170915,99,조우찬,VVIP (Feat. Sik-K, 개코)
+20170915,100,마마무(Mamamoo),나로 말할 것 같으면 (Yes I am)
+--------------------------------------------------

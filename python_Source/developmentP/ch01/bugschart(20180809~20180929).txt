@@ -1,0 +1,5252 @@
+20180809,1,Red Velvet (레드벨벳),Power Up
+20180809,2,숀(SHAUN),Way Back Home
+20180809,3,TWICE (트와이스),Dance The Night Away
+20180809,4,지코(Zico),SoulMate (Feat. 아이유)
+20180809,5,iKON,죽겠다 (KILLING ME)
+20180809,6,마마무(Mamamoo),너나 해 (Egotistic)
+20180809,7,BLACKPINK,뚜두뚜두 (DDU-DU DDU-DU)
+20180809,8,Apink (에이핑크),1도 없어
+20180809,9,청하,Love U
+20180809,10,승리,셋 셀테니 (1, 2, 3!)
+20180809,11,BLACKPINK,Forever Young
+20180809,12,여자친구(GFRIEND),여름여름해 (Sunny Summer)
+20180809,13,Red Velvet (레드벨벳),한 여름의 크리스마스 (With You)
+20180809,14,볼빨간사춘기,여행
+20180809,15,Red Velvet (레드벨벳),Blue Lemonade
+20180809,16,폴킴(Paul Kim),모든 날, 모든 순간 (Every day, Every Moment)
+20180809,17,크러쉬(Crush),Cereal (Feat. ZICO)
+20180809,18,멜로망스(MeloMance),동화
+20180809,19,비투비,너 없인 안 된다
+20180809,20,개리,태양 (feat.챈슬러)
+20180809,21,멜로망스(MeloMance),좋은 날
+20180809,22,모모랜드(MOMOLAND),BAAM
+20180809,23,닐로(Nil_O),지나오다
+20180809,24,효린,바다보러갈래 (SEE SEA)
+20180809,25,여자친구(GFRIEND),밤 (Time for the moon night)
+20180809,26,Red Velvet (레드벨벳),Hit That Drum
+20180809,27,다비치,마치 우린 없었던 사이 (Prod. 정키)
+20180809,28,볼빨간사춘기,Dejavu
+20180809,29,로꼬,주지마
+20180809,30,기리보이,flex (Prod. By 기리보이)
+20180809,31,iKON,사랑을 했다 (LOVE SCENARIO)
+20180809,32,벤,열애중
+20180809,33,Red Velvet (레드벨벳),Mr. E
+20180809,34,Red Velvet (레드벨벳),빨간 맛 (Red Flavor)
+20180809,35,(여자)아이들,LATATA
+20180809,36,청하,Roller Coaster
+20180809,37,방탄소년단,FAKE LOVE
+20180809,38,Fitz & The Tantrums,Handclap
+20180809,39,Charlie Puth(찰리 푸스),Done For Me
+20180809,40,Camila Cabello(카밀라 카베요),Havana (feat. Young Thug)
+20180809,41,TWICE (트와이스),What is Love?
+20180809,42,세븐틴(Seventeen),어쩌나
+20180809,43,로이킴,그때 헤어지면 돼
+20180809,44,양다일,미안해
+20180809,45,Ed Sheeran(에드 시런),Shape Of You
+20180809,46,BLACKPINK,마지막처럼
+20180809,47,Red Velvet (레드벨벳),Mosquito
+20180809,48,에이오에이(AOA),빙글뱅글 (Bingle Bangle)
+20180809,49,폴킴(Paul Kim),비
+20180809,50,장덕철,지각
+20180809,51,모모랜드(MOMOLAND),뿜뿜
+20180809,52,Marshmello(마시멜로),FRIENDS
+20180809,53,Sia(시아),Chandelier
+20180809,54,멜로망스(MeloMance),선물
+20180809,55,Troye Sivan(트로이 시반),Youth
+20180809,56,이수현,소리
+20180809,57,Imagine Dragons(이매진 드래곤스),Thunder
+20180809,58,마마무(Mamamoo),별이 빛나는 밤
+20180809,59,장덕철,그날처럼
+20180809,60,HAON(김하온),붕붕 (Feat. 식케이) (Prod. GroovyRoom)
+20180809,61,멜로망스(MeloMance),You
+20180809,62,비투비-블루,비가 내리면
+20180809,63,김나영,그대만 보여서
+20180809,64,용준형,소나기 (Feat. 10cm)
+20180809,65,아이유(IU),밤편지
+20180809,66,윤미래,You & Me (Feat. 주노플로)
+20180809,67,Red Velvet (레드벨벳),Bad Boy
+20180809,68,우원재,시차 (We Are) (Feat. 로꼬 & GRAY)
+20180809,69,방탄소년단,전하지 못한 진심 (Feat. Steve Aoki)
+20180809,70,에일리(Ailee),첫눈처럼 너에게 가겠다
+20180809,71,펜타곤,빛나리
+20180809,72,닐로(Nil_O),넋두리
+20180809,73,정인,위로
+20180809,74,마마무(Mamamoo),장마 (Rainy Season)
+20180809,75,오반 (OVAN),불행 (Feat. 빈첸 (VINXEN))
+20180809,76,BLACKPINK,Really
+20180809,77,10cm(십센치),폰서트
+20180809,78,WINNER,REALLY REALLY
+20180809,79,방탄소년단,봄날
+20180809,80,멜로망스(MeloMance),욕심
+20180809,81,Sondia,어른
+20180809,82,BIGBANG,꽃 길
+20180809,83,방탄소년단,DNA
+20180809,84,먼데이 키즈(Monday Kiz),가을 안부
+20180809,85,린(LYn),LOVE
+20180809,86,Ariana Grande(아리아나 그란데),N/A
+20180809,87,Shawn Mendes(션 멘데스),There's Nothing Holdin' Me Back
+20180809,88,사이먼 도미닉,귀가본능 (feat. JINBO the superfreak)
+20180809,89,이수,My Way
+20180809,90,트리플 H (현아, 펜타곤 (후이, 이던)),RETRO FUTURE
+20180809,91,펀치 (Punch),이 밤의 끝
+20180809,92,헤이즈(HEIZE),비도 오고 그래서 (Feat. 신용재)
+20180809,93,크러쉬(Crush),잊을만하면
+20180809,94,양다일,그해 여름
+20180809,95,박효신,그 날 (Original Ver.)
+20180809,96,크러쉬(Crush),Chill (Feat. Sik-K)
+20180809,97,Red Velvet (레드벨벳),(Bonus Track) Bad Boy (English Ver.)
+20180809,98,DJ Khaled(디제이 칼리드),No Brainer (feat. Justin Bieber, Chance the Rapper & Quavo)
+20180809,99,BLACKPINK,See U Later
+20180809,100,거미,질투나
+--------------------------------------------------
+20180810,1,Red Velvet (레드벨벳),Power Up
+20180810,2,숀(SHAUN),Way Back Home
+20180810,3,폴킴(Paul Kim),휴가
+20180810,4,지코(Zico),SoulMate (Feat. 아이유)
+20180810,5,TWICE (트와이스),Dance The Night Away
+20180810,6,마마무(Mamamoo),너나 해 (Egotistic)
+20180810,7,iKON,죽겠다 (KILLING ME)
+20180810,8,BLACKPINK,뚜두뚜두 (DDU-DU DDU-DU)
+20180810,9,Apink (에이핑크),1도 없어
+20180810,10,청하,Love U
+20180810,11,승리,셋 셀테니 (1, 2, 3!)
+20180810,12,BLACKPINK,Forever Young
+20180810,13,폴킴(Paul Kim),모든 날, 모든 순간 (Every day, Every Moment)
+20180810,14,여자친구(GFRIEND),여름여름해 (Sunny Summer)
+20180810,15,볼빨간사춘기,여행
+20180810,16,Red Velvet (레드벨벳),한 여름의 크리스마스 (With You)
+20180810,17,크러쉬(Crush),Cereal (Feat. ZICO)
+20180810,18,Red Velvet (레드벨벳),Blue Lemonade
+20180810,19,닐로(Nil_O),지나오다
+20180810,20,멜로망스(MeloMance),동화
+20180810,21,모모랜드(MOMOLAND),BAAM
+20180810,22,효린,바다보러갈래 (SEE SEA)
+20180810,23,비투비,너 없인 안 된다
+20180810,24,iKON,사랑을 했다 (LOVE SCENARIO)
+20180810,25,여자친구(GFRIEND),밤 (Time for the moon night)
+20180810,26,볼빨간사춘기,Dejavu
+20180810,27,다비치,마치 우린 없었던 사이 (Prod. 정키)
+20180810,28,로꼬,주지마
+20180810,29,벤,열애중
+20180810,30,기리보이,flex (Prod. By 기리보이)
+20180810,31,멜로망스(MeloMance),좋은 날
+20180810,32,Charlie Puth(찰리 푸스),Done For Me
+20180810,33,청하,Roller Coaster
+20180810,34,Red Velvet (레드벨벳),빨간 맛 (Red Flavor)
+20180810,35,Red Velvet (레드벨벳),Hit That Drum
+20180810,36,폴킴(Paul Kim),비
+20180810,37,세븐틴(Seventeen),어쩌나
+20180810,38,(여자)아이들,LATATA
+20180810,39,에이오에이(AOA),빙글뱅글 (Bingle Bangle)
+20180810,40,개리,태양 (feat.챈슬러)
+20180810,41,양다일,미안해
+20180810,42,Red Velvet (레드벨벳),Mr. E
+20180810,43,로이킴,그때 헤어지면 돼
+20180810,44,방탄소년단,FAKE LOVE
+20180810,45,멜로망스(MeloMance),You
+20180810,46,TWICE (트와이스),What is Love?
+20180810,47,Camila Cabello(카밀라 카베요),Havana (feat. Young Thug)
+20180810,48,Sia(시아),Chandelier
+20180810,49,Fitz & The Tantrums,Handclap
+20180810,50,HAON(김하온),붕붕 (Feat. 식케이) (Prod. GroovyRoom)
+20180810,51,닐로(Nil_O),넋두리
+20180810,52,펜타곤,빛나리
+20180810,53,모모랜드(MOMOLAND),뿜뿜
+20180810,54,Red Velvet (레드벨벳),Mosquito
+20180810,55,Marshmello(마시멜로),FRIENDS
+20180810,56,아이유(IU),밤편지
+20180810,57,윤종신,MR.REAL
+20180810,58,장덕철,지각
+20180810,59,멜로망스(MeloMance),선물
+20180810,60,용준형,소나기 (Feat. 10cm)
+20180810,61,Imagine Dragons(이매진 드래곤스),Thunder
+20180810,62,Troye Sivan(트로이 시반),Youth
+20180810,63,10cm(십센치),폰서트
+20180810,64,유성은,끌어안아줘 (Feat. 정일훈 of BTOB)
+20180810,65,Ed Sheeran(에드 시런),Shape Of You
+20180810,66,다이아(DIA),우우 (Woowoo)
+20180810,67,방탄소년단,전하지 못한 진심 (Feat. Steve Aoki)
+20180810,68,마마무(Mamamoo),장마 (Rainy Season)
+20180810,69,장덕철,그날처럼
+20180810,70,오반 (OVAN),불행 (Feat. 빈첸 (VINXEN))
+20180810,71,마마무(Mamamoo),별이 빛나는 밤
+20180810,72,이수,My Way
+20180810,73,BLACKPINK,마지막처럼
+20180810,74,Sondia,어른
+20180810,75,이수현,소리
+20180810,76,먼데이 키즈(Monday Kiz),가을 안부
+20180810,77,DJ Khaled(디제이 칼리드),No Brainer (feat. Justin Bieber, Chance the Rapper & Quavo)
+20180810,78,사이먼 도미닉,귀가본능 (feat. JINBO the superfreak)
+20180810,79,트리플 H (현아, 펜타곤 (후이, 이던)),RETRO FUTURE
+20180810,80,Red Velvet (레드벨벳),Bad Boy
+20180810,81,린(LYn),LOVE
+20180810,82,방탄소년단,DNA
+20180810,83,비투비-블루,비가 내리면
+20180810,84,윤미래,You & Me (Feat. 주노플로)
+20180810,85,방탄소년단,봄날
+20180810,86,펀치 (Punch),이 밤의 끝
+20180810,87,헤이즈(HEIZE),비도 오고 그래서 (Feat. 신용재)
+20180810,88,김나영,그대만 보여서
+20180810,89,박효신,그 날 (Original Ver.)
+20180810,90,Ariana Grande(아리아나 그란데),N/A
+20180810,91,크러쉬(Crush),Chill (Feat. Sik-K)
+20180810,92,우원재,시차 (We Are) (Feat. 로꼬 & GRAY)
+20180810,93,에일리(Ailee),첫눈처럼 너에게 가겠다
+20180810,94,Drake(드레이크),In My Feelings
+20180810,95,Shawn Mendes(션 멘데스),There's Nothing Holdin' Me Back
+20180810,96,양다일,그해 여름
+20180810,97,DEAN(딘),instagram
+20180810,98,크러쉬(Crush),잊을만하면
+20180810,99,멜로망스(MeloMance),욕심
+20180810,100,BLACKPINK,Really
+--------------------------------------------------
+20180811,1,태연 (TAEYEON),Page 0
+20180811,2,Red Velvet (레드벨벳),Power Up
+20180811,3,숀(SHAUN),Way Back Home
+20180811,4,지코(Zico),SoulMate (Feat. 아이유)
+20180811,5,TWICE (트와이스),Dance The Night Away
+20180811,6,BLACKPINK,뚜두뚜두 (DDU-DU DDU-DU)
+20180811,7,iKON,죽겠다 (KILLING ME)
+20180811,8,마마무(Mamamoo),너나 해 (Egotistic)
+20180811,9,Apink (에이핑크),1도 없어
+20180811,10,청하,Love U
+20180811,11,승리,셋 셀테니 (1, 2, 3!)
+20180811,12,폴킴(Paul Kim),휴가
+20180811,13,BLACKPINK,Forever Young
+20180811,14,폴킴(Paul Kim),모든 날, 모든 순간 (Every day, Every Moment)
+20180811,15,볼빨간사춘기,여행
+20180811,16,여자친구(GFRIEND),여름여름해 (Sunny Summer)
+20180811,17,멜로망스(MeloMance),동화
+20180811,18,Red Velvet (레드벨벳),한 여름의 크리스마스 (With You)
+20180811,19,모모랜드(MOMOLAND),BAAM
+20180811,20,닐로(Nil_O),지나오다
+20180811,21,크러쉬(Crush),Cereal (Feat. ZICO)
+20180811,22,비투비,너 없인 안 된다
+20180811,23,Red Velvet (레드벨벳),Blue Lemonade
+20180811,24,iKON,사랑을 했다 (LOVE SCENARIO)
+20180811,25,효린,바다보러갈래 (SEE SEA)
+20180811,26,다비치,마치 우린 없었던 사이 (Prod. 정키)
+20180811,27,볼빨간사춘기,Dejavu
+20180811,28,벤,열애중
+20180811,29,로꼬,주지마
+20180811,30,Charlie Puth(찰리 푸스),Done For Me
+20180811,31,여자친구(GFRIEND),밤 (Time for the moon night)
+20180811,32,(여자)아이들,LATATA
+20180811,33,Camila Cabello(카밀라 카베요),Havana (feat. Young Thug)
+20180811,34,청하,Roller Coaster
+20180811,35,멜로망스(MeloMance),You
+20180811,36,모모랜드(MOMOLAND),뿜뿜
+20180811,37,세븐틴(Seventeen),어쩌나
+20180811,38,양다일,미안해
+20180811,39,방탄소년단,FAKE LOVE
+20180811,40,Red Velvet (레드벨벳),Hit That Drum
+20180811,41,폴킴(Paul Kim),비
+20180811,42,TWICE (트와이스),What is Love?
+20180811,43,마마무(Mamamoo),별이 빛나는 밤
+20180811,44,에이오에이(AOA),빙글뱅글 (Bingle Bangle)
+20180811,45,Red Velvet (레드벨벳),Mr. E
+20180811,46,Fitz & The Tantrums,Handclap
+20180811,47,Marshmello(마시멜로),FRIENDS
+20180811,48,멜로망스(MeloMance),좋은 날
+20180811,49,멜로망스(MeloMance),선물
+20180811,50,HAON(김하온),붕붕 (Feat. 식케이) (Prod. GroovyRoom)
+20180811,51,BLACKPINK,마지막처럼
+20180811,52,닐로(Nil_O),넋두리
+20180811,53,로이킴,그때 헤어지면 돼
+20180811,54,Troye Sivan(트로이 시반),Youth
+20180811,55,Red Velvet (레드벨벳),빨간 맛 (Red Flavor)
+20180811,56,장덕철,지각
+20180811,57,장덕철,그날처럼
+20180811,58,Sia(시아),Chandelier
+20180811,59,오반 (OVAN),불행 (Feat. 빈첸 (VINXEN))
+20180811,60,기리보이,flex (Prod. By 기리보이)
+20180811,61,펜타곤,빛나리
+20180811,62,개리,태양 (feat.챈슬러)
+20180811,63,김나영,그대만 보여서
+20180811,64,방탄소년단,전하지 못한 진심 (Feat. Steve Aoki)
+20180811,65,Ed Sheeran(에드 시런),Shape Of You
+20180811,66,윤미래,You & Me (Feat. 주노플로)
+20180811,67,BLACKPINK,Really
+20180811,68,Shawn Mendes(션 멘데스),There's Nothing Holdin' Me Back
+20180811,69,BIGBANG,꽃 길
+20180811,70,이수,My Way
+20180811,71,Imagine Dragons(이매진 드래곤스),Thunder
+20180811,72,용준형,소나기 (Feat. 10cm)
+20180811,73,먼데이 키즈(Monday Kiz),가을 안부
+20180811,74,방탄소년단,봄날
+20180811,75,Red Velvet (레드벨벳),Mosquito
+20180811,76,Red Velvet (레드벨벳),Bad Boy
+20180811,77,트리플 H (현아, 펜타곤 (후이, 이던)),RETRO FUTURE
+20180811,78,에일리(Ailee),첫눈처럼 너에게 가겠다
+20180811,79,방탄소년단,DNA
+20180811,80,DJ Khaled(디제이 칼리드),No Brainer (feat. Justin Bieber, Chance the Rapper & Quavo)
+20180811,81,BLACKPINK,See U Later
+20180811,82,린(LYn),LOVE
+20180811,83,크러쉬(Crush),잊을만하면
+20180811,84,아이유(IU),밤편지
+20180811,85,Sondia,어른
+20180811,86,우원재,시차 (We Are) (Feat. 로꼬 & GRAY)
+20180811,87,마마무(Mamamoo),장마 (Rainy Season)
+20180811,88,펀치 (Punch),이 밤의 끝
+20180811,89,비투비-블루,비가 내리면
+20180811,90,헤이즈(HEIZE),비도 오고 그래서 (Feat. 신용재)
+20180811,91,박효신,그 날 (Original Ver.)
+20180811,92,멜로망스(MeloMance),욕심
+20180811,93,이수현,소리
+20180811,94,사이먼 도미닉,귀가본능 (feat. JINBO the superfreak)
+20180811,95,거미,질투나
+20180811,96,WINNER,REALLY REALLY
+20180811,97,10cm(십센치),폰서트
+20180811,98,Drake(드레이크),In My Feelings
+20180811,99,Ariana Grande(아리아나 그란데),N/A
+20180811,100,다이아(DIA),우우 (Woowoo)
+--------------------------------------------------
+20180812,1,Red Velvet (레드벨벳),Power Up
+20180812,2,태연 (TAEYEON),Page 0
+20180812,3,숀(SHAUN),Way Back Home
+20180812,4,TWICE (트와이스),Dance The Night Away
+20180812,5,지코(Zico),SoulMate (Feat. 아이유)
+20180812,6,마마무(Mamamoo),너나 해 (Egotistic)
+20180812,7,BLACKPINK,뚜두뚜두 (DDU-DU DDU-DU)
+20180812,8,iKON,죽겠다 (KILLING ME)
+20180812,9,Apink (에이핑크),1도 없어
+20180812,10,청하,Love U
+20180812,11,승리,셋 셀테니 (1, 2, 3!)
+20180812,12,BLACKPINK,Forever Young
+20180812,13,여자친구(GFRIEND),여름여름해 (Sunny Summer)
+20180812,14,볼빨간사춘기,여행
+20180812,15,폴킴(Paul Kim),모든 날, 모든 순간 (Every day, Every Moment)
+20180812,16,폴킴(Paul Kim),휴가
+20180812,17,크러쉬(Crush),Cereal (Feat. ZICO)
+20180812,18,멜로망스(MeloMance),동화
+20180812,19,Red Velvet (레드벨벳),한 여름의 크리스마스 (With You)
+20180812,20,모모랜드(MOMOLAND),BAAM
+20180812,21,다비치,마치 우린 없었던 사이 (Prod. 정키)
+20180812,22,여자친구(GFRIEND),밤 (Time for the moon night)
+20180812,23,닐로(Nil_O),지나오다
+20180812,24,효린,바다보러갈래 (SEE SEA)
+20180812,25,벤,열애중
+20180812,26,볼빨간사춘기,Dejavu
+20180812,27,비투비,너 없인 안 된다
+20180812,28,iKON,사랑을 했다 (LOVE SCENARIO)
+20180812,29,Red Velvet (레드벨벳),Blue Lemonade
+20180812,30,(여자)아이들,LATATA
+20180812,31,Camila Cabello(카밀라 카베요),Havana (feat. Young Thug)
+20180812,32,멜로망스(MeloMance),좋은 날
+20180812,33,Charlie Puth(찰리 푸스),Done For Me
+20180812,34,기리보이,flex (Prod. By 기리보이)
+20180812,35,Fitz & The Tantrums,Handclap
+20180812,36,양다일,미안해
+20180812,37,로꼬,주지마
+20180812,38,Imagine Dragons(이매진 드래곤스),Thunder
+20180812,39,방탄소년단,FAKE LOVE
+20180812,40,Red Velvet (레드벨벳),빨간 맛 (Red Flavor)
+20180812,41,에이오에이(AOA),빙글뱅글 (Bingle Bangle)
+20180812,42,청하,Roller Coaster
+20180812,43,마마무(Mamamoo),별이 빛나는 밤
+20180812,44,세븐틴(Seventeen),어쩌나
+20180812,45,로이킴,그때 헤어지면 돼
+20180812,46,Ed Sheeran(에드 시런),Shape Of You
+20180812,47,모모랜드(MOMOLAND),뿜뿜
+20180812,48,닐로(Nil_O),넋두리
+20180812,49,멜로망스(MeloMance),선물
+20180812,50,멜로망스(MeloMance),You
+20180812,51,TWICE (트와이스),What is Love?
+20180812,52,HAON(김하온),붕붕 (Feat. 식케이) (Prod. GroovyRoom)
+20180812,53,폴킴(Paul Kim),비
+20180812,54,Sia(시아),Chandelier
+20180812,55,이수현,소리
+20180812,56,브레이브걸스(Brave Girls),롤린 (New Version)
+20180812,57,Troye Sivan(트로이 시반),Youth
+20180812,58,DJ Khaled(디제이 칼리드),No Brainer (feat. Justin Bieber, Chance the Rapper & Quavo)
+20180812,59,장덕철,그날처럼
+20180812,60,마마무(Mamamoo),장마 (Rainy Season)
+20180812,61,아이유(IU),밤편지
+20180812,62,먼데이 키즈(Monday Kiz),가을 안부
+20180812,63,사이먼 도미닉,귀가본능 (feat. JINBO the superfreak)
+20180812,64,오반 (OVAN),불행 (Feat. 빈첸 (VINXEN))
+20180812,65,이수,My Way
+20180812,66,Marshmello(마시멜로),FRIENDS
+20180812,67,장덕철,지각
+20180812,68,Sondia,어른
+20180812,69,용준형,소나기 (Feat. 10cm)
+20180812,70,헤이즈(HEIZE),비도 오고 그래서 (Feat. 신용재)
+20180812,71,윤미래,You & Me (Feat. 주노플로)
+20180812,72,Red Velvet (레드벨벳),Hit That Drum
+20180812,73,BIGBANG,꽃 길
+20180812,74,펜타곤,빛나리
+20180812,75,BLACKPINK,마지막처럼
+20180812,76,우원재,시차 (We Are) (Feat. 로꼬 & GRAY)
+20180812,77,10cm(십센치),폰서트
+20180812,78,Red Velvet (레드벨벳),Bad Boy
+20180812,79,개리,태양 (feat.챈슬러)
+20180812,80,Red Velvet (레드벨벳),Mr. E
+20180812,81,비투비-블루,비가 내리면
+20180812,82,에일리(Ailee),첫눈처럼 너에게 가겠다
+20180812,83,김나영,그대만 보여서
+20180812,84,펀치 (Punch),이 밤의 끝
+20180812,85,크러쉬(Crush),잊을만하면
+20180812,86,방탄소년단,전하지 못한 진심 (Feat. Steve Aoki)
+20180812,87,BLACKPINK,Really
+20180812,88,WINNER,REALLY REALLY
+20180812,89,트리플 H (현아, 펜타곤 (후이, 이던)),RETRO FUTURE
+20180812,90,방탄소년단,DNA
+20180812,91,박효신,그 날 (Original Ver.)
+20180812,92,린(LYn),LOVE
+20180812,93,Red Velvet (레드벨벳),Mosquito
+20180812,94,방탄소년단,봄날
+20180812,95,Shawn Mendes(션 멘데스),There's Nothing Holdin' Me Back
+20180812,96,거미,질투나
+20180812,97,벤,첫날밤
+20180812,98,Ariana Grande(아리아나 그란데),N/A
+20180812,99,멜로망스(MeloMance),욕심
+20180812,100,Drake(드레이크),In My Feelings
+--------------------------------------------------
+20180813,1,Red Velvet (레드벨벳),Power Up
+20180813,2,태연 (TAEYEON),Page 0
+20180813,3,숀(SHAUN),Way Back Home
+20180813,4,지코(Zico),SoulMate (Feat. 아이유)
+20180813,5,TWICE (트와이스),Dance The Night Away
+20180813,6,마마무(Mamamoo),너나 해 (Egotistic)
+20180813,7,iKON,죽겠다 (KILLING ME)
+20180813,8,BLACKPINK,뚜두뚜두 (DDU-DU DDU-DU)
+20180813,9,Apink (에이핑크),1도 없어
+20180813,10,청하,Love U
+20180813,11,승리,셋 셀테니 (1, 2, 3!)
+20180813,12,BLACKPINK,Forever Young
+20180813,13,폴킴(Paul Kim),모든 날, 모든 순간 (Every day, Every Moment)
+20180813,14,볼빨간사춘기,여행
+20180813,15,멜로망스(MeloMance),동화
+20180813,16,폴킴(Paul Kim),휴가
+20180813,17,여자친구(GFRIEND),여름여름해 (Sunny Summer)
+20180813,18,크러쉬(Crush),Cereal (Feat. ZICO)
+20180813,19,Red Velvet (레드벨벳),한 여름의 크리스마스 (With You)
+20180813,20,모모랜드(MOMOLAND),BAAM
+20180813,21,닐로(Nil_O),지나오다
+20180813,22,비투비,너 없인 안 된다
+20180813,23,효린,바다보러갈래 (SEE SEA)
+20180813,24,멜로망스(MeloMance),좋은 날
+20180813,25,Charlie Puth(찰리 푸스),Done For Me
+20180813,26,벤,열애중
+20180813,27,볼빨간사춘기,Dejavu
+20180813,28,다비치,마치 우린 없었던 사이 (Prod. 정키)
+20180813,29,로꼬,주지마
+20180813,30,Red Velvet (레드벨벳),Blue Lemonade
+20180813,31,여자친구(GFRIEND),밤 (Time for the moon night)
+20180813,32,Fitz & The Tantrums,Handclap
+20180813,33,(여자)아이들,LATATA
+20180813,34,폴킴(Paul Kim),비
+20180813,35,양다일,미안해
+20180813,36,에이오에이(AOA),빙글뱅글 (Bingle Bangle)
+20180813,37,하현상,바람이 되어
+20180813,38,세븐틴(Seventeen),어쩌나
+20180813,39,방탄소년단,FAKE LOVE
+20180813,40,iKON,사랑을 했다 (LOVE SCENARIO)
+20180813,41,Camila Cabello(카밀라 카베요),Havana (feat. Young Thug)
+20180813,42,기리보이,flex (Prod. By 기리보이)
+20180813,43,Red Velvet (레드벨벳),빨간 맛 (Red Flavor)
+20180813,44,Troye Sivan(트로이 시반),Youth
+20180813,45,청하,Roller Coaster
+20180813,46,이수현,소리
+20180813,47,모모랜드(MOMOLAND),뿜뿜
+20180813,48,로이킴,그때 헤어지면 돼
+20180813,49,Marshmello(마시멜로),FRIENDS
+20180813,50,HAON(김하온),붕붕 (Feat. 식케이) (Prod. GroovyRoom)
+20180813,51,Imagine Dragons(이매진 드래곤스),Thunder
+20180813,52,마마무(Mamamoo),별이 빛나는 밤
+20180813,53,멜로망스(MeloMance),선물
+20180813,54,TWICE (트와이스),What is Love?
+20180813,55,펜타곤,빛나리
+20180813,56,1415,SURFER
+20180813,57,Sia(시아),Chandelier
+20180813,58,장덕철,그날처럼
+20180813,59,방탄소년단,전하지 못한 진심 (Feat. Steve Aoki)
+20180813,60,장덕철,지각
+20180813,61,멜로망스(MeloMance),You
+20180813,62,아이유(IU),밤편지
+20180813,63,김나영,그대만 보여서
+20180813,64,Red Velvet (레드벨벳),Mr. E
+20180813,65,오반 (OVAN),불행 (Feat. 빈첸 (VINXEN))
+20180813,66,Ed Sheeran(에드 시런),Shape Of You
+20180813,67,윤미래,You & Me (Feat. 주노플로)
+20180813,68,용준형,소나기 (Feat. 10cm)
+20180813,69,마마무(Mamamoo),장마 (Rainy Season)
+20180813,70,Red Velvet (레드벨벳),Hit That Drum
+20180813,71,Red Velvet (레드벨벳),Bad Boy
+20180813,72,BLACKPINK,마지막처럼
+20180813,73,Shawn Mendes(션 멘데스),There's Nothing Holdin' Me Back
+20180813,74,헤이즈(HEIZE),비도 오고 그래서 (Feat. 신용재)
+20180813,75,크러쉬(Crush),잊을만하면
+20180813,76,먼데이 키즈(Monday Kiz),가을 안부
+20180813,77,DJ Khaled(디제이 칼리드),No Brainer (feat. Justin Bieber, Chance the Rapper & Quavo)
+20180813,78,에일리(Ailee),첫눈처럼 너에게 가겠다
+20180813,79,BLACKPINK,Really
+20180813,80,BIGBANG,꽃 길
+20180813,81,펀치 (Punch),이 밤의 끝
+20180813,82,Sondia,어른
+20180813,83,사이먼 도미닉,귀가본능 (feat. JINBO the superfreak)
+20180813,84,닐로(Nil_O),넋두리
+20180813,85,10cm(십센치),폰서트
+20180813,86,린(LYn),LOVE
+20180813,87,Ariana Grande(아리아나 그란데),N/A
+20180813,88,개리,태양 (feat.챈슬러)
+20180813,89,트리플 H (현아, 펜타곤 (후이, 이던)),RETRO FUTURE
+20180813,90,박효신,그 날 (Original Ver.)
+20180813,91,이수,My Way
+20180813,92,방탄소년단,DNA
+20180813,93,멜로망스(MeloMance),욕심
+20180813,94,방탄소년단,봄날
+20180813,95,브레이브걸스(Brave Girls),롤린 (New Version)
+20180813,96,Red Velvet (레드벨벳),Mosquito
+20180813,97,BLACKPINK,See U Later
+20180813,98,우원재,시차 (We Are) (Feat. 로꼬 & GRAY)
+20180813,99,거미,질투나
+20180813,100,비투비-블루,비가 내리면
+--------------------------------------------------
+20180814,1,Red Velvet (레드벨벳),Power Up
+20180814,2,세븐틴(Seventeen),A-TEEN
+20180814,3,숀(SHAUN),Way Back Home
+20180814,4,태연 (TAEYEON),Page 0
+20180814,5,지코(Zico),SoulMate (Feat. 아이유)
+20180814,6,TWICE (트와이스),Dance The Night Away
+20180814,7,마마무(Mamamoo),너나 해 (Egotistic)
+20180814,8,iKON,죽겠다 (KILLING ME)
+20180814,9,BLACKPINK,뚜두뚜두 (DDU-DU DDU-DU)
+20180814,10,청하,Love U
+20180814,11,Apink (에이핑크),1도 없어
+20180814,12,박원,이방인
+20180814,13,BLACKPINK,Forever Young
+20180814,14,승리,셋 셀테니 (1, 2, 3!)
+20180814,15,여자친구(GFRIEND),여름여름해 (Sunny Summer)
+20180814,16,볼빨간사춘기,여행
+20180814,17,폴킴(Paul Kim),모든 날, 모든 순간 (Every day, Every Moment)
+20180814,18,폴킴(Paul Kim),휴가
+20180814,19,멜로망스(MeloMance),동화
+20180814,20,Red Velvet (레드벨벳),한 여름의 크리스마스 (With You)
+20180814,21,크러쉬(Crush),Cereal (Feat. ZICO)
+20180814,22,닐로(Nil_O),지나오다
+20180814,23,모모랜드(MOMOLAND),BAAM
+20180814,24,비투비,너 없인 안 된다
+20180814,25,벤,열애중
+20180814,26,멜로망스(MeloMance),좋은 날
+20180814,27,(여자)아이들,LATATA
+20180814,28,볼빨간사춘기,Dejavu
+20180814,29,여자친구(GFRIEND),밤 (Time for the moon night)
+20180814,30,Red Velvet (레드벨벳),Blue Lemonade
+20180814,31,다비치,마치 우린 없었던 사이 (Prod. 정키)
+20180814,32,Charlie Puth(찰리 푸스),Done For Me
+20180814,33,iKON,사랑을 했다 (LOVE SCENARIO)
+20180814,34,로꼬,주지마
+20180814,35,효린,바다보러갈래 (SEE SEA)
+20180814,36,세븐틴(Seventeen),어쩌나
+20180814,37,Camila Cabello(카밀라 카베요),Havana (feat. Young Thug)
+20180814,38,잔나비,Good Boy Twist
+20180814,39,Fitz & The Tantrums,Handclap
+20180814,40,폴킴(Paul Kim),비
+20180814,41,양다일,미안해
+20180814,42,방탄소년단,FAKE LOVE
+20180814,43,모모랜드(MOMOLAND),뿜뿜
+20180814,44,청하,Roller Coaster
+20180814,45,Red Velvet (레드벨벳),빨간 맛 (Red Flavor)
+20180814,46,에이오에이(AOA),빙글뱅글 (Bingle Bangle)
+20180814,47,Troye Sivan(트로이 시반),Youth
+20180814,48,이수현,소리
+20180814,49,멜로망스(MeloMance),You
+20180814,50,Sia(시아),Chandelier
+20180814,51,TWICE (트와이스),What is Love?
+20180814,52,DJ Khaled(디제이 칼리드),No Brainer (feat. Justin Bieber, Chance the Rapper & Quavo)
+20180814,53,먼데이 키즈(Monday Kiz),가을 안부
+20180814,54,Marshmello(마시멜로),FRIENDS
+20180814,55,Imagine Dragons(이매진 드래곤스),Thunder
+20180814,56,로이킴,그때 헤어지면 돼
+20180814,57,마마무(Mamamoo),별이 빛나는 밤
+20180814,58,방탄소년단,전하지 못한 진심 (Feat. Steve Aoki)
+20180814,59,기리보이,flex (Prod. By 기리보이)
+20180814,60,이수,My Way
+20180814,61,멜로망스(MeloMance),선물
+20180814,62,김나영,그대만 보여서
+20180814,63,하현상,바람이 되어
+20180814,64,Ed Sheeran(에드 시런),Shape Of You
+20180814,65,펜타곤,빛나리
+20180814,66,장덕철,그날처럼
+20180814,67,Red Velvet (레드벨벳),Bad Boy
+20180814,68,HAON(김하온),붕붕 (Feat. 식케이) (Prod. GroovyRoom)
+20180814,69,아이유(IU),밤편지
+20180814,70,마마무(Mamamoo),장마 (Rainy Season)
+20180814,71,Red Velvet (레드벨벳),Hit That Drum
+20180814,72,비투비-블루,비가 내리면
+20180814,73,펀치 (Punch),이 밤의 끝
+20180814,74,닐로(Nil_O),넋두리
+20180814,75,장덕철,지각
+20180814,76,오반 (OVAN),불행 (Feat. 빈첸 (VINXEN))
+20180814,77,개리,태양 (feat.챈슬러)
+20180814,78,우원재,시차 (We Are) (Feat. 로꼬 & GRAY)
+20180814,79,Shawn Mendes(션 멘데스),There's Nothing Holdin' Me Back
+20180814,80,용준형,소나기 (Feat. 10cm)
+20180814,81,WINNER,REALLY REALLY
+20180814,82,BLACKPINK,마지막처럼
+20180814,83,방탄소년단,DNA
+20180814,84,헤이즈(HEIZE),비도 오고 그래서 (Feat. 신용재)
+20180814,85,BIGBANG,꽃 길
+20180814,86,멜로망스(MeloMance),욕심
+20180814,87,트리플 H (현아, 펜타곤 (후이, 이던)),RETRO FUTURE
+20180814,88,Red Velvet (레드벨벳),Mr. E
+20180814,89,Ariana Grande(아리아나 그란데),N/A
+20180814,90,에일리(Ailee),첫눈처럼 너에게 가겠다
+20180814,91,사이먼 도미닉,귀가본능 (feat. JINBO the superfreak)
+20180814,92,크러쉬(Crush),잊을만하면
+20180814,93,린(LYn),LOVE
+20180814,94,10cm(십센치),폰서트
+20180814,95,BLACKPINK,Really
+20180814,96,방탄소년단,봄날
+20180814,97,BLACKPINK,See U Later
+20180814,98,Drake(드레이크),In My Feelings
+20180814,99,윤미래,You & Me (Feat. 주노플로)
+20180814,100,Sondia,어른
+--------------------------------------------------
+20180815,1,(여자)아이들,한(一)
+20180815,2,Red Velvet (레드벨벳),Power Up
+20180815,3,숀(SHAUN),Way Back Home
+20180815,4,태연 (TAEYEON),Page 0
+20180815,5,TWICE (트와이스),Dance The Night Away
+20180815,6,지코(Zico),SoulMate (Feat. 아이유)
+20180815,7,마마무(Mamamoo),너나 해 (Egotistic)
+20180815,8,세븐틴(Seventeen),A-TEEN
+20180815,9,BLACKPINK,뚜두뚜두 (DDU-DU DDU-DU)
+20180815,10,iKON,죽겠다 (KILLING ME)
+20180815,11,승리,셋 셀테니 (1, 2, 3!)
+20180815,12,Apink (에이핑크),1도 없어
+20180815,13,청하,Love U
+20180815,14,BLACKPINK,Forever Young
+20180815,15,폴킴(Paul Kim),모든 날, 모든 순간 (Every day, Every Moment)
+20180815,16,여자친구(GFRIEND),여름여름해 (Sunny Summer)
+20180815,17,볼빨간사춘기,여행
+20180815,18,폴킴(Paul Kim),휴가
+20180815,19,(여자)아이들,LATATA
+20180815,20,크러쉬(Crush),Cereal (Feat. ZICO)
+20180815,21,멜로망스(MeloMance),동화
+20180815,22,벤,열애중
+20180815,23,박원,이방인
+20180815,24,모모랜드(MOMOLAND),BAAM
+20180815,25,Red Velvet (레드벨벳),한 여름의 크리스마스 (With You)
+20180815,26,닐로(Nil_O),지나오다
+20180815,27,비투비,너 없인 안 된다
+20180815,28,여자친구(GFRIEND),밤 (Time for the moon night)
+20180815,29,멜로망스(MeloMance),좋은 날
+20180815,30,효린,바다보러갈래 (SEE SEA)
+20180815,31,iKON,사랑을 했다 (LOVE SCENARIO)
+20180815,32,Camila Cabello(카밀라 카베요),Havana (feat. Young Thug)
+20180815,33,로꼬,주지마
+20180815,34,볼빨간사춘기,Dejavu
+20180815,35,Red Velvet (레드벨벳),Blue Lemonade
+20180815,36,Charlie Puth(찰리 푸스),Done For Me
+20180815,37,폴킴(Paul Kim),비
+20180815,38,다비치,마치 우린 없었던 사이 (Prod. 정키)
+20180815,39,방탄소년단,FAKE LOVE
+20180815,40,모모랜드(MOMOLAND),뿜뿜
+20180815,41,Fitz & The Tantrums,Handclap
+20180815,42,세븐틴(Seventeen),어쩌나
+20180815,43,TWICE (트와이스),What is Love?
+20180815,44,이수현,소리
+20180815,45,Red Velvet (레드벨벳),빨간 맛 (Red Flavor)
+20180815,46,양다일,미안해
+20180815,47,로이킴,그때 헤어지면 돼
+20180815,48,에이오에이(AOA),빙글뱅글 (Bingle Bangle)
+20180815,49,Imagine Dragons(이매진 드래곤스),Thunder
+20180815,50,Ed Sheeran(에드 시런),Shape Of You
+20180815,51,청하,Roller Coaster
+20180815,52,HAON(김하온),붕붕 (Feat. 식케이) (Prod. GroovyRoom)
+20180815,53,닐로(Nil_O),넋두리
+20180815,54,마마무(Mamamoo),별이 빛나는 밤
+20180815,55,아이유(IU),밤편지
+20180815,56,기리보이,flex (Prod. By 기리보이)
+20180815,57,멜로망스(MeloMance),선물
+20180815,58,Red Velvet (레드벨벳),Bad Boy
+20180815,59,이수,My Way
+20180815,60,펜타곤,빛나리
+20180815,61,Troye Sivan(트로이 시반),Youth
+20180815,62,멜로망스(MeloMance),You
+20180815,63,장덕철,그날처럼
+20180815,64,Sia(시아),Chandelier
+20180815,65,MXM (BRANDNEWBOYS),YA YA YA
+20180815,66,헤이즈(HEIZE),비도 오고 그래서 (Feat. 신용재)
+20180815,67,장덕철,지각
+20180815,68,Ariana Grande(아리아나 그란데),N/A
+20180815,69,DJ Khaled(디제이 칼리드),No Brainer (feat. Justin Bieber, Chance the Rapper & Quavo)
+20180815,70,오반 (OVAN),불행 (Feat. 빈첸 (VINXEN))
+20180815,71,Sondia,어른
+20180815,72,BLACKPINK,마지막처럼
+20180815,73,방탄소년단,DNA
+20180815,74,박효신,그 날 (Original Ver.)
+20180815,75,BLACKPINK,Really
+20180815,76,방탄소년단,전하지 못한 진심 (Feat. Steve Aoki)
+20180815,77,Marshmello(마시멜로),FRIENDS
+20180815,78,Red Velvet (레드벨벳),Hit That Drum
+20180815,79,윤미래,You & Me (Feat. 주노플로)
+20180815,80,10cm(십센치),폰서트
+20180815,81,에일리(Ailee),첫눈처럼 너에게 가겠다
+20180815,82,용준형,소나기 (Feat. 10cm)
+20180815,83,방탄소년단,봄날
+20180815,84,WINNER,REALLY REALLY
+20180815,85,펀치 (Punch),이 밤의 끝
+20180815,86,먼데이 키즈(Monday Kiz),가을 안부
+20180815,87,우원재,시차 (We Are) (Feat. 로꼬 & GRAY)
+20180815,88,마마무(Mamamoo),장마 (Rainy Season)
+20180815,89,Drake(드레이크),In My Feelings
+20180815,90,사이먼 도미닉,귀가본능 (feat. JINBO the superfreak)
+20180815,91,Shawn Mendes(션 멘데스),There's Nothing Holdin' Me Back
+20180815,92,개리,태양 (feat.챈슬러)
+20180815,93,김나영,그대만 보여서
+20180815,94,린(LYn),LOVE
+20180815,95,BIGBANG,꽃 길
+20180815,96,트리플 H (현아, 펜타곤 (후이, 이던)),RETRO FUTURE
+20180815,97,Red Velvet (레드벨벳),Mr. E
+20180815,98,크러쉬(Crush),잊을만하면
+20180815,99,멜로망스(MeloMance),욕심
+20180815,100,하현상,바람이 되어
+--------------------------------------------------
+20180816,1,(여자)아이들,한(一)
+20180816,2,Red Velvet (레드벨벳),Power Up
+20180816,3,숀(SHAUN),Way Back Home
+20180816,4,TWICE (트와이스),Dance The Night Away
+20180816,5,태연 (TAEYEON),Page 0
+20180816,6,지코(Zico),SoulMate (Feat. 아이유)
+20180816,7,마마무(Mamamoo),너나 해 (Egotistic)
+20180816,8,세븐틴(Seventeen),A-TEEN
+20180816,9,BLACKPINK,뚜두뚜두 (DDU-DU DDU-DU)
+20180816,10,iKON,죽겠다 (KILLING ME)
+20180816,11,Apink (에이핑크),1도 없어
+20180816,12,BLACKPINK,Forever Young
+20180816,13,청하,Love U
+20180816,14,폴킴(Paul Kim),모든 날, 모든 순간 (Every day, Every Moment)
+20180816,15,승리,셋 셀테니 (1, 2, 3!)
+20180816,16,여자친구(GFRIEND),여름여름해 (Sunny Summer)
+20180816,17,페노메코(PENOMECO),COCO BOTTLE
+20180816,18,볼빨간사춘기,여행
+20180816,19,멜로망스(MeloMance),동화
+20180816,20,벤,열애중
+20180816,21,크러쉬(Crush),Cereal (Feat. ZICO)
+20180816,22,닐로(Nil_O),지나오다
+20180816,23,모모랜드(MOMOLAND),BAAM
+20180816,24,Charlie Puth(찰리 푸스),Done For Me
+20180816,25,비투비,너 없인 안 된다
+20180816,26,(여자)아이들,LATATA
+20180816,27,폴킴(Paul Kim),휴가
+20180816,28,효린,바다보러갈래 (SEE SEA)
+20180816,29,다비치,마치 우린 없었던 사이 (Prod. 정키)
+20180816,30,iKON,사랑을 했다 (LOVE SCENARIO)
+20180816,31,Red Velvet (레드벨벳),한 여름의 크리스마스 (With You)
+20180816,32,방탄소년단,FAKE LOVE
+20180816,33,멜로망스(MeloMance),좋은 날
+20180816,34,Fitz & The Tantrums,Handclap
+20180816,35,양다일,미안해
+20180816,36,여자친구(GFRIEND),밤 (Time for the moon night)
+20180816,37,에이오에이(AOA),빙글뱅글 (Bingle Bangle)
+20180816,38,로꼬,주지마
+20180816,39,Troye Sivan(트로이 시반),Youth
+20180816,40,세븐틴(Seventeen),어쩌나
+20180816,41,Imagine Dragons(이매진 드래곤스),Thunder
+20180816,42,기리보이,flex (Prod. By 기리보이)
+20180816,43,폴킴(Paul Kim),비
+20180816,44,청하,Roller Coaster
+20180816,45,볼빨간사춘기,Dejavu
+20180816,46,HAON(김하온),붕붕 (Feat. 식케이) (Prod. GroovyRoom)
+20180816,47,Camila Cabello(카밀라 카베요),Havana (feat. Young Thug)
+20180816,48,Sia(시아),Chandelier
+20180816,49,펜타곤,빛나리
+20180816,50,마마무(Mamamoo),별이 빛나는 밤
+20180816,51,박원,이방인
+20180816,52,멜로망스(MeloMance),You
+20180816,53,로이킴,그때 헤어지면 돼
+20180816,54,10cm(십센치),폰서트
+20180816,55,닐로(Nil_O),넋두리
+20180816,56,BLACKPINK,마지막처럼
+20180816,57,이수현,소리
+20180816,58,TWICE (트와이스),What is Love?
+20180816,59,Marshmello(마시멜로),FRIENDS
+20180816,60,아이유(IU),밤편지
+20180816,61,방탄소년단,전하지 못한 진심 (Feat. Steve Aoki)
+20180816,62,Red Velvet (레드벨벳),빨간 맛 (Red Flavor)
+20180816,63,모모랜드(MOMOLAND),뿜뿜
+20180816,64,장덕철,그날처럼
+20180816,65,오반 (OVAN),불행 (Feat. 빈첸 (VINXEN))
+20180816,66,먼데이 키즈(Monday Kiz),가을 안부
+20180816,67,Red Velvet (레드벨벳),Bad Boy
+20180816,68,장덕철,지각
+20180816,69,멜로망스(MeloMance),선물
+20180816,70,Red Velvet (레드벨벳),Blue Lemonade
+20180816,71,Ed Sheeran(에드 시런),Shape Of You
+20180816,72,DJ Khaled(디제이 칼리드),No Brainer (feat. Justin Bieber, Chance the Rapper & Quavo)
+20180816,73,펀치 (Punch),이 밤의 끝
+20180816,74,Ariana Grande(아리아나 그란데),N/A
+20180816,75,에일리(Ailee),첫눈처럼 너에게 가겠다
+20180816,76,마마무(Mamamoo),장마 (Rainy Season)
+20180816,77,윤미래,You & Me (Feat. 주노플로)
+20180816,78,헤이즈(HEIZE),비도 오고 그래서 (Feat. 신용재)
+20180816,79,BIGBANG,꽃 길
+20180816,80,Sondia,어른
+20180816,81,김나영,그대만 보여서
+20180816,82,방탄소년단,DNA
+20180816,83,용준형,소나기 (Feat. 10cm)
+20180816,84,이수,My Way
+20180816,85,방탄소년단,봄날
+20180816,86,켄(Ken),늦은 후회
+20180816,87,Shawn Mendes(션 멘데스),There's Nothing Holdin' Me Back
+20180816,88,WINNER,REALLY REALLY
+20180816,89,크러쉬(Crush),잊을만하면
+20180816,90,우원재,시차 (We Are) (Feat. 로꼬 & GRAY)
+20180816,91,BLACKPINK,Really
+20180816,92,Drake(드레이크),In My Feelings
+20180816,93,비투비-블루,비가 내리면
+20180816,94,거미,질투나
+20180816,95,BLACKPINK,See U Later
+20180816,96,사이먼 도미닉,귀가본능 (feat. JINBO the superfreak)
+20180816,97,개리,태양 (feat.챈슬러)
+20180816,98,린(LYn),LOVE
+20180816,99,Red Velvet (레드벨벳),Hit That Drum
+20180816,100,멜로망스(MeloMance),욕심
+--------------------------------------------------
+20180817,1,(여자)아이들,한(一)
+20180817,2,Red Velvet (레드벨벳),Power Up
+20180817,3,효린,BAE
+20180817,4,숀(SHAUN),Way Back Home
+20180817,5,TWICE (트와이스),Dance The Night Away
+20180817,6,마마무(Mamamoo),너나 해 (Egotistic)
+20180817,7,태연 (TAEYEON),Page 0
+20180817,8,지코(Zico),SoulMate (Feat. 아이유)
+20180817,9,BLACKPINK,뚜두뚜두 (DDU-DU DDU-DU)
+20180817,10,iKON,죽겠다 (KILLING ME)
+20180817,11,Apink (에이핑크),1도 없어
+20180817,12,세븐틴(Seventeen),A-TEEN
+20180817,13,청하,Love U
+20180817,14,승리,셋 셀테니 (1, 2, 3!)
+20180817,15,BLACKPINK,Forever Young
+20180817,16,폴킴(Paul Kim),모든 날, 모든 순간 (Every day, Every Moment)
+20180817,17,여자친구(GFRIEND),여름여름해 (Sunny Summer)
+20180817,18,볼빨간사춘기,여행
+20180817,19,멜로망스(MeloMance),동화
+20180817,20,비투비,너 없인 안 된다
+20180817,21,벤,열애중
+20180817,22,(여자)아이들,LATATA
+20180817,23,닐로(Nil_O),지나오다
+20180817,24,크러쉬(Crush),Cereal (Feat. ZICO)
+20180817,25,모모랜드(MOMOLAND),BAAM
+20180817,26,폴킴(Paul Kim),휴가
+20180817,27,Charlie Puth(찰리 푸스),Done For Me
+20180817,28,Red Velvet (레드벨벳),한 여름의 크리스마스 (With You)
+20180817,29,효린,바다보러갈래 (SEE SEA)
+20180817,30,볼빨간사춘기,Dejavu
+20180817,31,다비치,마치 우린 없었던 사이 (Prod. 정키)
+20180817,32,iKON,사랑을 했다 (LOVE SCENARIO)
+20180817,33,여자친구(GFRIEND),밤 (Time for the moon night)
+20180817,34,양다일,미안해
+20180817,35,멜로망스(MeloMance),좋은 날
+20180817,36,Red Velvet (레드벨벳),빨간 맛 (Red Flavor)
+20180817,37,로꼬,주지마
+20180817,38,Fitz & The Tantrums,Handclap
+20180817,39,로이킴,그때 헤어지면 돼
+20180817,40,폴킴(Paul Kim),비
+20180817,41,Camila Cabello(카밀라 카베요),Havana (feat. Young Thug)
+20180817,42,페노메코(PENOMECO),COCO BOTTLE
+20180817,43,세븐틴(Seventeen),어쩌나
+20180817,44,방탄소년단,FAKE LOVE
+20180817,45,청하,Roller Coaster
+20180817,46,모모랜드(MOMOLAND),뿜뿜
+20180817,47,Red Velvet (레드벨벳),Blue Lemonade
+20180817,48,박원,이방인
+20180817,49,기리보이,flex (Prod. By 기리보이)
+20180817,50,에이오에이(AOA),빙글뱅글 (Bingle Bangle)
+20180817,51,마마무(Mamamoo),별이 빛나는 밤
+20180817,52,Troye Sivan(트로이 시반),Youth
+20180817,53,장덕철,그날처럼
+20180817,54,마마무(Mamamoo),장마 (Rainy Season)
+20180817,55,Sia(시아),Chandelier
+20180817,56,멜로망스(MeloMance),You
+20180817,57,TWICE (트와이스),What is Love?
+20180817,58,Ed Sheeran(에드 시런),Shape Of You
+20180817,59,멜로망스(MeloMance),선물
+20180817,60,이수,My Way
+20180817,61,Imagine Dragons(이매진 드래곤스),Thunder
+20180817,62,이수현,소리
+20180817,63,HAON(김하온),붕붕 (Feat. 식케이) (Prod. GroovyRoom)
+20180817,64,닐로(Nil_O),넋두리
+20180817,65,아이유(IU),밤편지
+20180817,66,장덕철,지각
+20180817,67,용준형,소나기 (Feat. 10cm)
+20180817,68,존 박(John Park),Let Me Stay
+20180817,69,사이먼 도미닉,귀가본능 (feat. JINBO the superfreak)
+20180817,70,오반 (OVAN),불행 (Feat. 빈첸 (VINXEN))
+20180817,71,펜타곤,빛나리
+20180817,72,10cm(십센치),폰서트
+20180817,73,코드 쿤스트,BLESS (Feat. 로꼬 & 우원재)
+20180817,74,에일리(Ailee),첫눈처럼 너에게 가겠다
+20180817,75,Marshmello(마시멜로),FRIENDS
+20180817,76,방탄소년단,전하지 못한 진심 (Feat. Steve Aoki)
+20180817,77,WINNER,REALLY REALLY
+20180817,78,Sondia,어른
+20180817,79,DJ Khaled(디제이 칼리드),No Brainer (feat. Justin Bieber, Chance the Rapper & Quavo)
+20180817,80,Red Velvet (레드벨벳),Bad Boy
+20180817,81,SUPER JUNIOR-D&E (동해&은혁),머리부터 발끝까지 (‘Bout you)
+20180817,82,BLACKPINK,마지막처럼
+20180817,83,BIGBANG,꽃 길
+20180817,84,윤미래,You & Me (Feat. 주노플로)
+20180817,85,Ariana Grande(아리아나 그란데),N/A
+20180817,86,먼데이 키즈(Monday Kiz),가을 안부
+20180817,87,헤이즈(HEIZE),비도 오고 그래서 (Feat. 신용재)
+20180817,88,Drake(드레이크),In My Feelings
+20180817,89,Red Velvet (레드벨벳),Hit That Drum
+20180817,90,우원재,시차 (We Are) (Feat. 로꼬 & GRAY)
+20180817,91,김나영,그대만 보여서
+20180817,92,린(LYn),LOVE
+20180817,93,트리플 H (현아, 펜타곤 (후이, 이던)),RETRO FUTURE
+20180817,94,방탄소년단,봄날
+20180817,95,크러쉬(Crush),잊을만하면
+20180817,96,방탄소년단,DNA
+20180817,97,개리,태양 (feat.챈슬러)
+20180817,98,펀치 (Punch),이 밤의 끝
+20180817,99,Shawn Mendes(션 멘데스),There's Nothing Holdin' Me Back
+20180817,100,박효신,그 날 (Original Ver.)
+--------------------------------------------------
+20180818,1,(여자)아이들,한(一)
+20180818,2,Red Velvet (레드벨벳),Power Up
+20180818,3,숀(SHAUN),Way Back Home
+20180818,4,TWICE (트와이스),Dance The Night Away
+20180818,5,마마무(Mamamoo),너나 해 (Egotistic)
+20180818,6,BLACKPINK,뚜두뚜두 (DDU-DU DDU-DU)
+20180818,7,효린,BAE
+20180818,8,지코(Zico),SoulMate (Feat. 아이유)
+20180818,9,태연 (TAEYEON),Page 0
+20180818,10,iKON,죽겠다 (KILLING ME)
+20180818,11,Apink (에이핑크),1도 없어
+20180818,12,승리,셋 셀테니 (1, 2, 3!)
+20180818,13,폴킴(Paul Kim),모든 날, 모든 순간 (Every day, Every Moment)
+20180818,14,BLACKPINK,Forever Young
+20180818,15,세븐틴(Seventeen),A-TEEN
+20180818,16,청하,Love U
+20180818,17,볼빨간사춘기,여행
+20180818,18,벤,열애중
+20180818,19,여자친구(GFRIEND),여름여름해 (Sunny Summer)
+20180818,20,멜로망스(MeloMance),동화
+20180818,21,모모랜드(MOMOLAND),BAAM
+20180818,22,크러쉬(Crush),Cereal (Feat. ZICO)
+20180818,23,(여자)아이들,LATATA
+20180818,24,닐로(Nil_O),지나오다
+20180818,25,비투비,너 없인 안 된다
+20180818,26,방탄소년단,FAKE LOVE
+20180818,27,효린,바다보러갈래 (SEE SEA)
+20180818,28,여자친구(GFRIEND),밤 (Time for the moon night)
+20180818,29,로꼬,주지마
+20180818,30,다비치,마치 우린 없었던 사이 (Prod. 정키)
+20180818,31,Charlie Puth(찰리 푸스),Done For Me
+20180818,32,폴킴(Paul Kim),휴가
+20180818,33,폴킴(Paul Kim),비
+20180818,34,iKON,사랑을 했다 (LOVE SCENARIO)
+20180818,35,Red Velvet (레드벨벳),한 여름의 크리스마스 (With You)
+20180818,36,양다일,미안해
+20180818,37,Fitz & The Tantrums,Handclap
+20180818,38,Camila Cabello(카밀라 카베요),Havana (feat. Young Thug)
+20180818,39,에이오에이(AOA),빙글뱅글 (Bingle Bangle)
+20180818,40,TWICE (트와이스),What is Love?
+20180818,41,Red Velvet (레드벨벳),Blue Lemonade
+20180818,42,모모랜드(MOMOLAND),뿜뿜
+20180818,43,기리보이,flex (Prod. By 기리보이)
+20180818,44,멜로망스(MeloMance),You
+20180818,45,볼빨간사춘기,Dejavu
+20180818,46,Ed Sheeran(에드 시런),Shape Of You
+20180818,47,닐로(Nil_O),넋두리
+20180818,48,청하,Roller Coaster
+20180818,49,Red Velvet (레드벨벳),빨간 맛 (Red Flavor)
+20180818,50,Marshmello(마시멜로),FRIENDS
+20180818,51,로이킴,그때 헤어지면 돼
+20180818,52,Troye Sivan(트로이 시반),Youth
+20180818,53,장덕철,그날처럼
+20180818,54,방탄소년단,DNA
+20180818,55,멜로망스(MeloMance),좋은 날
+20180818,56,에일리(Ailee),첫눈처럼 너에게 가겠다
+20180818,57,장덕철,지각
+20180818,58,Red Velvet (레드벨벳),Bad Boy
+20180818,59,페노메코(PENOMECO),COCO BOTTLE
+20180818,60,BLACKPINK,마지막처럼
+20180818,61,Sia(시아),Chandelier
+20180818,62,펀치 (Punch),이 밤의 끝
+20180818,63,DJ Khaled(디제이 칼리드),No Brainer (feat. Justin Bieber, Chance the Rapper & Quavo)
+20180818,64,세븐틴(Seventeen),어쩌나
+20180818,65,방탄소년단,전하지 못한 진심 (Feat. Steve Aoki)
+20180818,66,린(LYn),LOVE
+20180818,67,이수,My Way
+20180818,68,Shawn Mendes(션 멘데스),There's Nothing Holdin' Me Back
+20180818,69,먼데이 키즈(Monday Kiz),가을 안부
+20180818,70,Imagine Dragons(이매진 드래곤스),Thunder
+20180818,71,용준형,소나기 (Feat. 10cm)
+20180818,72,마마무(Mamamoo),별이 빛나는 밤
+20180818,73,아이유(IU),밤편지
+20180818,74,HAON(김하온),붕붕 (Feat. 식케이) (Prod. GroovyRoom)
+20180818,75,멜로망스(MeloMance),선물
+20180818,76,오반 (OVAN),불행 (Feat. 빈첸 (VINXEN))
+20180818,77,사이먼 도미닉,귀가본능 (feat. JINBO the superfreak)
+20180818,78,Sondia,어른
+20180818,79,헤이즈(HEIZE),비도 오고 그래서 (Feat. 신용재)
+20180818,80,펜타곤,빛나리
+20180818,81,BIGBANG,꽃 길
+20180818,82,BLACKPINK,Really
+20180818,83,박원,이방인
+20180818,84,윤미래,You & Me (Feat. 주노플로)
+20180818,85,이수현,소리
+20180818,86,방탄소년단,봄날
+20180818,87,10cm(십센치),폰서트
+20180818,88,우원재,시차 (We Are) (Feat. 로꼬 & GRAY)
+20180818,89,Drake(드레이크),In My Feelings
+20180818,90,Ariana Grande(아리아나 그란데),breathin
+20180818,91,김나영,그대만 보여서
+20180818,92,크러쉬(Crush),잊을만하면
+20180818,93,Red Velvet (레드벨벳),Hit That Drum
+20180818,94,마마무(Mamamoo),장마 (Rainy Season)
+20180818,95,거미,질투나
+20180818,96,멜로망스(MeloMance),욕심
+20180818,97,박효신,그 날 (Original Ver.)
+20180818,98,트리플 H (현아, 펜타곤 (후이, 이던)),RETRO FUTURE
+20180818,99,개리,태양 (feat.챈슬러)
+20180818,100,WINNER,REALLY REALLY
+--------------------------------------------------
+20180819,1,(여자)아이들,한(一)
+20180819,2,국.슈 (국프의 핫이슈),Rumor
+20180819,3,Red Velvet (레드벨벳),Power Up
+20180819,4,숀(SHAUN),Way Back Home
+20180819,5,기억 조작단,너에게 닿기를 (To reach you)
+20180819,6,TWICE (트와이스),Dance The Night Away
+20180819,7,SummerWish,1000%
+20180819,8,BLACKPINK,뚜두뚜두 (DDU-DU DDU-DU)
+20180819,9,러브포션,Rollin' Rollin'
+20180819,10,마마무(Mamamoo),너나 해 (Egotistic)
+20180819,11,지코(Zico),SoulMate (Feat. 아이유)
+20180819,12,새벽한시,IAM
+20180819,13,약속,다시 만나 (See you again)
+20180819,14,iKON,죽겠다 (KILLING ME)
+20180819,15,Apink (에이핑크),1도 없어
+20180819,16,태연 (TAEYEON),Page 0
+20180819,17,BLACKPINK,Forever Young
+20180819,18,효린,BAE
+20180819,19,청하,Love U
+20180819,20,승리,셋 셀테니 (1, 2, 3!)
+20180819,21,폴킴(Paul Kim),모든 날, 모든 순간 (Every day, Every Moment)
+20180819,22,볼빨간사춘기,여행
+20180819,23,세븐틴(Seventeen),A-TEEN
+20180819,24,벤,열애중
+20180819,25,여자친구(GFRIEND),여름여름해 (Sunny Summer)
+20180819,26,모모랜드(MOMOLAND),BAAM
+20180819,27,닐로(Nil_O),지나오다
+20180819,28,(여자)아이들,LATATA
+20180819,29,멜로망스(MeloMance),동화
+20180819,30,크러쉬(Crush),Cereal (Feat. ZICO)
+20180819,31,비투비,너 없인 안 된다
+20180819,32,다비치,마치 우린 없었던 사이 (Prod. 정키)
+20180819,33,여자친구(GFRIEND),밤 (Time for the moon night)
+20180819,34,효린,바다보러갈래 (SEE SEA)
+20180819,35,로꼬,주지마
+20180819,36,Charlie Puth(찰리 푸스),Done For Me
+20180819,37,Fitz & The Tantrums,Handclap
+20180819,38,폴킴(Paul Kim),휴가
+20180819,39,iKON,사랑을 했다 (LOVE SCENARIO)
+20180819,40,양다일,미안해
+20180819,41,Camila Cabello(카밀라 카베요),Havana (feat. Young Thug)
+20180819,42,모모랜드(MOMOLAND),뿜뿜
+20180819,43,청하,Roller Coaster
+20180819,44,볼빨간사춘기,Dejavu
+20180819,45,기리보이,flex (Prod. By 기리보이)
+20180819,46,방탄소년단,FAKE LOVE
+20180819,47,폴킴(Paul Kim),비
+20180819,48,Imagine Dragons(이매진 드래곤스),Thunder
+20180819,49,Ed Sheeran(에드 시런),Shape Of You
+20180819,50,에이오에이(AOA),빙글뱅글 (Bingle Bangle)
+20180819,51,방탄소년단,전하지 못한 진심 (Feat. Steve Aoki)
+20180819,52,Red Velvet (레드벨벳),빨간 맛 (Red Flavor)
+20180819,53,Sia(시아),Chandelier
+20180819,54,장덕철,그날처럼
+20180819,55,세븐틴(Seventeen),어쩌나
+20180819,56,마마무(Mamamoo),별이 빛나는 밤
+20180819,57,오반 (OVAN),불행 (Feat. 빈첸 (VINXEN))
+20180819,58,멜로망스(MeloMance),You
+20180819,59,닐로(Nil_O),넋두리
+20180819,60,로이킴,그때 헤어지면 돼
+20180819,61,Marshmello(마시멜로),FRIENDS
+20180819,62,TWICE (트와이스),What is Love?
+20180819,63,멜로망스(MeloMance),선물
+20180819,64,Red Velvet (레드벨벳),한 여름의 크리스마스 (With You)
+20180819,65,멜로망스(MeloMance),좋은 날
+20180819,66,HAON(김하온),붕붕 (Feat. 식케이) (Prod. GroovyRoom)
+20180819,67,아이유(IU),밤편지
+20180819,68,Troye Sivan(트로이 시반),Youth
+20180819,69,Red Velvet (레드벨벳),Blue Lemonade
+20180819,70,이수,My Way
+20180819,71,김나영,그대만 보여서
+20180819,72,DJ Khaled(디제이 칼리드),No Brainer (feat. Justin Bieber, Chance the Rapper & Quavo)
+20180819,73,장덕철,지각
+20180819,74,용준형,소나기 (Feat. 10cm)
+20180819,75,BIGBANG,꽃 길
+20180819,76,펜타곤,빛나리
+20180819,77,방탄소년단,봄날
+20180819,78,Shawn Mendes(션 멘데스),There's Nothing Holdin' Me Back
+20180819,79,마마무(Mamamoo),장마 (Rainy Season)
+20180819,80,BLACKPINK,마지막처럼
+20180819,81,먼데이 키즈(Monday Kiz),가을 안부
+20180819,82,이수현,소리
+20180819,83,에일리(Ailee),첫눈처럼 너에게 가겠다
+20180819,84,박원,이방인
+20180819,85,방탄소년단,DNA
+20180819,86,린(LYn),LOVE
+20180819,87,10cm(십센치),폰서트
+20180819,88,WINNER,REALLY REALLY
+20180819,89,크러쉬(Crush),잊을만하면
+20180819,90,Sondia,어른
+20180819,91,Red Velvet (레드벨벳),Bad Boy
+20180819,92,우원재,시차 (We Are) (Feat. 로꼬 & GRAY)
+20180819,93,사이먼 도미닉,귀가본능 (feat. JINBO the superfreak)
+20180819,94,펀치 (Punch),이 밤의 끝
+20180819,95,거미,질투나
+20180819,96,BLACKPINK,Really
+20180819,97,멜로망스(MeloMance),욕심
+20180819,98,헤이즈(HEIZE),비도 오고 그래서 (Feat. 신용재)
+20180819,99,윤미래,You & Me (Feat. 주노플로)
+20180819,100,개리,태양 (feat.챈슬러)
+--------------------------------------------------
+20180820,1,(여자)아이들,한(一)
+20180820,2,Red Velvet (레드벨벳),Power Up
+20180820,3,국.슈 (국프의 핫이슈),Rumor
+20180820,4,숀(SHAUN),Way Back Home
+20180820,5,TWICE (트와이스),Dance The Night Away
+20180820,6,마마무(Mamamoo),너나 해 (Egotistic)
+20180820,7,BLACKPINK,뚜두뚜두 (DDU-DU DDU-DU)
+20180820,8,지코(Zico),SoulMate (Feat. 아이유)
+20180820,9,기억 조작단,너에게 닿기를 (To reach you)
+20180820,10,태연 (TAEYEON),Page 0
+20180820,11,SummerWish,1000%
+20180820,12,iKON,죽겠다 (KILLING ME)
+20180820,13,폴킴(Paul Kim),모든 날, 모든 순간 (Every day, Every Moment)
+20180820,14,러브포션,Rollin' Rollin'
+20180820,15,Apink (에이핑크),1도 없어
+20180820,16,오존(O3ohn),Shine Your Star (Prod. by ZICO)
+20180820,17,BLACKPINK,Forever Young
+20180820,18,효린,BAE
+20180820,19,청하,Love U
+20180820,20,양희은,늘 그대
+20180820,21,새벽한시,IAM
+20180820,22,약속,다시 만나 (See you again)
+20180820,23,벤,열애중
+20180820,24,승리,셋 셀테니 (1, 2, 3!)
+20180820,25,볼빨간사춘기,여행
+20180820,26,멜로망스(MeloMance),동화
+20180820,27,닐로(Nil_O),지나오다
+20180820,28,세븐틴(Seventeen),A-TEEN
+20180820,29,멜로망스(MeloMance),좋은 날
+20180820,30,여자친구(GFRIEND),여름여름해 (Sunny Summer)
+20180820,31,(여자)아이들,LATATA
+20180820,32,크러쉬(Crush),Cereal (Feat. ZICO)
+20180820,33,비투비,너 없인 안 된다
+20180820,34,폴킴(Paul Kim),휴가
+20180820,35,로꼬,주지마
+20180820,36,모모랜드(MOMOLAND),BAAM
+20180820,37,양희은,사랑 그 쓸쓸함에 대하여
+20180820,38,iKON,사랑을 했다 (LOVE SCENARIO)
+20180820,39,Charlie Puth(찰리 푸스),Done For Me
+20180820,40,여자친구(GFRIEND),밤 (Time for the moon night)
+20180820,41,Fitz & The Tantrums,Handclap
+20180820,42,폴킴(Paul Kim),비
+20180820,43,기리보이,flex (Prod. By 기리보이)
+20180820,44,Camila Cabello(카밀라 카베요),Havana (feat. Young Thug)
+20180820,45,다비치,마치 우린 없었던 사이 (Prod. 정키)
+20180820,46,방탄소년단,FAKE LOVE
+20180820,47,이수현,소리
+20180820,48,효린,바다보러갈래 (SEE SEA)
+20180820,49,양다일,미안해
+20180820,50,청하,Roller Coaster
+20180820,51,볼빨간사춘기,Dejavu
+20180820,52,멜로망스(MeloMance),선물
+20180820,53,멜로망스(MeloMance),You
+20180820,54,장덕철,그날처럼
+20180820,55,박원,이방인
+20180820,56,로이킴,그때 헤어지면 돼
+20180820,57,Troye Sivan(트로이 시반),Youth
+20180820,58,닐로(Nil_O),넋두리
+20180820,59,DJ Khaled(디제이 칼리드),No Brainer (feat. Justin Bieber, Chance the Rapper & Quavo)
+20180820,60,TWICE (트와이스),What is Love?
+20180820,61,Imagine Dragons(이매진 드래곤스),Thunder
+20180820,62,Ed Sheeran(에드 시런),Shape Of You
+20180820,63,Sia(시아),Chandelier
+20180820,64,에이오에이(AOA),빙글뱅글 (Bingle Bangle)
+20180820,65,세븐틴(Seventeen),어쩌나
+20180820,66,아이유(IU),밤편지
+20180820,67,장덕철,지각
+20180820,68,모모랜드(MOMOLAND),뿜뿜
+20180820,69,방탄소년단,전하지 못한 진심 (Feat. Steve Aoki)
+20180820,70,마마무(Mamamoo),별이 빛나는 밤
+20180820,71,Red Velvet (레드벨벳),빨간 맛 (Red Flavor)
+20180820,72,오반 (OVAN),불행 (Feat. 빈첸 (VINXEN))
+20180820,73,Red Velvet (레드벨벳),한 여름의 크리스마스 (With You)
+20180820,74,HAON(김하온),붕붕 (Feat. 식케이) (Prod. GroovyRoom)
+20180820,75,펜타곤,빛나리
+20180820,76,우원재,시차 (We Are) (Feat. 로꼬 & GRAY)
+20180820,77,용준형,소나기 (Feat. 10cm)
+20180820,78,Marshmello(마시멜로),FRIENDS
+20180820,79,Shawn Mendes(션 멘데스),There's Nothing Holdin' Me Back
+20180820,80,Drake(드레이크),In My Feelings
+20180820,81,BLACKPINK,마지막처럼
+20180820,82,Red Velvet (레드벨벳),Bad Boy
+20180820,83,먼데이 키즈(Monday Kiz),가을 안부
+20180820,84,이수,My Way
+20180820,85,방탄소년단,DNA
+20180820,86,10cm(십센치),폰서트
+20180820,87,BIGBANG,꽃 길
+20180820,88,펀치 (Punch),이 밤의 끝
+20180820,89,마마무(Mamamoo),장마 (Rainy Season)
+20180820,90,Red Velvet (레드벨벳),Blue Lemonade
+20180820,91,방탄소년단,봄날
+20180820,92,사이먼 도미닉,귀가본능 (feat. JINBO the superfreak)
+20180820,93,윤미래,You & Me (Feat. 주노플로)
+20180820,94,김나영,그대만 보여서
+20180820,95,에일리(Ailee),첫눈처럼 너에게 가겠다
+20180820,96,헤이즈(HEIZE),비도 오고 그래서 (Feat. 신용재)
+20180820,97,WINNER,REALLY REALLY
+20180820,98,크러쉬(Crush),잊을만하면
+20180820,99,박효신,그 날 (Original Ver.)
+20180820,100,멜로망스(MeloMance),욕심
+--------------------------------------------------
+20180821,1,(여자)아이들,한(一)
+20180821,2,Red Velvet (레드벨벳),Power Up
+20180821,3,숀(SHAUN),Way Back Home
+20180821,4,국.슈 (국프의 핫이슈),Rumor
+20180821,5,TWICE (트와이스),Dance The Night Away
+20180821,6,마마무(Mamamoo),너나 해 (Egotistic)
+20180821,7,지코(Zico),SoulMate (Feat. 아이유)
+20180821,8,BLACKPINK,뚜두뚜두 (DDU-DU DDU-DU)
+20180821,9,기억 조작단,너에게 닿기를 (To reach you)
+20180821,10,벤,미워도 다시 한 번
+20180821,11,iKON,죽겠다 (KILLING ME)
+20180821,12,태연 (TAEYEON),Page 0
+20180821,13,Apink (에이핑크),1도 없어
+20180821,14,승리,셋 셀테니 (1, 2, 3!)
+20180821,15,BLACKPINK,Forever Young
+20180821,16,SummerWish,1000%
+20180821,17,청하,Love U
+20180821,18,러브포션,Rollin' Rollin'
+20180821,19,폴킴(Paul Kim),모든 날, 모든 순간 (Every day, Every Moment)
+20180821,20,벤,열애중
+20180821,21,효린,BAE
+20180821,22,세븐틴(Seventeen),A-TEEN
+20180821,23,약속,다시 만나 (See you again)
+20180821,24,새벽한시,IAM
+20180821,25,볼빨간사춘기,여행
+20180821,26,멜로망스(MeloMance),동화
+20180821,27,모모랜드(MOMOLAND),BAAM
+20180821,28,닐로(Nil_O),지나오다
+20180821,29,여자친구(GFRIEND),여름여름해 (Sunny Summer)
+20180821,30,(여자)아이들,LATATA
+20180821,31,양희은,늘 그대
+20180821,32,비투비,너 없인 안 된다
+20180821,33,양다일,미안해
+20180821,34,크러쉬(Crush),Cereal (Feat. ZICO)
+20180821,35,멜로망스(MeloMance),좋은 날
+20180821,36,폴킴(Paul Kim),비
+20180821,37,오존(O3ohn),Shine Your Star (Prod. by ZICO)
+20180821,38,Charlie Puth(찰리 푸스),Done For Me
+20180821,39,로꼬,주지마
+20180821,40,iKON,사랑을 했다 (LOVE SCENARIO)
+20180821,41,pH-1,Cupid (Feat. PENOMECO)
+20180821,42,이달의 소녀,Hi High
+20180821,43,효린,바다보러갈래 (SEE SEA)
+20180821,44,Fitz & The Tantrums,Handclap
+20180821,45,Camila Cabello(카밀라 카베요),Havana (feat. Young Thug)
+20180821,46,방탄소년단,FAKE LOVE
+20180821,47,다비치,마치 우린 없었던 사이 (Prod. 정키)
+20180821,48,기리보이,flex (Prod. By 기리보이)
+20180821,49,박원,이방인
+20180821,50,DJ Khaled(디제이 칼리드),No Brainer (feat. Justin Bieber, Chance the Rapper & Quavo)
+20180821,51,폴킴(Paul Kim),휴가
+20180821,52,닐로(Nil_O),넋두리
+20180821,53,청하,Roller Coaster
+20180821,54,여자친구(GFRIEND),밤 (Time for the moon night)
+20180821,55,Ed Sheeran(에드 시런),Shape Of You
+20180821,56,TWICE (트와이스),What is Love?
+20180821,57,세븐틴(Seventeen),어쩌나
+20180821,58,로이킴,그때 헤어지면 돼
+20180821,59,장덕철,그날처럼
+20180821,60,오반 (OVAN),불행 (Feat. 빈첸 (VINXEN))
+20180821,61,Imagine Dragons(이매진 드래곤스),Thunder
+20180821,62,Red Velvet (레드벨벳),빨간 맛 (Red Flavor)
+20180821,63,이수현,소리
+20180821,64,멜로망스(MeloMance),You
+20180821,65,Troye Sivan(트로이 시반),Youth
+20180821,66,HAON(김하온),붕붕 (Feat. 식케이) (Prod. GroovyRoom)
+20180821,67,방탄소년단,전하지 못한 진심 (Feat. Steve Aoki)
+20180821,68,볼빨간사춘기,Dejavu
+20180821,69,모모랜드(MOMOLAND),뿜뿜
+20180821,70,멜로망스(MeloMance),선물
+20180821,71,아이유(IU),밤편지
+20180821,72,에이오에이(AOA),빙글뱅글 (Bingle Bangle)
+20180821,73,Red Velvet (레드벨벳),Bad Boy
+20180821,74,에일리(Ailee),첫눈처럼 너에게 가겠다
+20180821,75,Sia(시아),Chandelier
+20180821,76,마마무(Mamamoo),별이 빛나는 밤
+20180821,77,용준형,소나기 (Feat. 10cm)
+20180821,78,우원재,시차 (We Are) (Feat. 로꼬 & GRAY)
+20180821,79,장덕철,지각
+20180821,80,헤이즈(HEIZE),비도 오고 그래서 (Feat. 신용재)
+20180821,81,김나영,그대만 보여서
+20180821,82,Red Velvet (레드벨벳),Blue Lemonade
+20180821,83,BLACKPINK,마지막처럼
+20180821,84,이수,My Way
+20180821,85,펜타곤,빛나리
+20180821,86,먼데이 키즈(Monday Kiz),가을 안부
+20180821,87,Red Velvet (레드벨벳),한 여름의 크리스마스 (With You)
+20180821,88,WINNER,REALLY REALLY
+20180821,89,박효신,그 날 (Original Ver.)
+20180821,90,BLACKPINK,Really
+20180821,91,방탄소년단,DNA
+20180821,92,10cm(십센치),폰서트
+20180821,93,펀치 (Punch),이 밤의 끝
+20180821,94,마마무(Mamamoo),장마 (Rainy Season)
+20180821,95,BIGBANG,꽃 길
+20180821,96,윤미래,You & Me (Feat. 주노플로)
+20180821,97,Sondia,어른
+20180821,98,사이먼 도미닉,귀가본능 (feat. JINBO the superfreak)
+20180821,99,Marshmello(마시멜로),FRIENDS
+20180821,100,린(LYn),LOVE
+--------------------------------------------------
+20180822,1,(여자)아이들,한(一)
+20180822,2,Red Velvet (레드벨벳),Power Up
+20180822,3,숀(SHAUN),Way Back Home
+20180822,4,국.슈 (국프의 핫이슈),Rumor
+20180822,5,TWICE (트와이스),Dance The Night Away
+20180822,6,마마무(Mamamoo),너나 해 (Egotistic)
+20180822,7,BLACKPINK,뚜두뚜두 (DDU-DU DDU-DU)
+20180822,8,지코(Zico),SoulMate (Feat. 아이유)
+20180822,9,개코(Gaeko),Vacation (Feat. SOLE)
+20180822,10,태연 (TAEYEON),Page 0
+20180822,11,iKON,죽겠다 (KILLING ME)
+20180822,12,Apink (에이핑크),1도 없어
+20180822,13,기억 조작단,너에게 닿기를 (To reach you)
+20180822,14,오반 (OVAN),스무살이 왜이리 능글맞아 (Feat. 숀 (SHAUN))
+20180822,15,청하,Love U
+20180822,16,BLACKPINK,Forever Young
+20180822,17,승리,셋 셀테니 (1, 2, 3!)
+20180822,18,폴킴(Paul Kim),모든 날, 모든 순간 (Every day, Every Moment)
+20180822,19,볼빨간사춘기,여행
+20180822,20,세븐틴(Seventeen),A-TEEN
+20180822,21,SummerWish,1000%
+20180822,22,벤,열애중
+20180822,23,러브포션,Rollin' Rollin'
+20180822,24,효린,BAE
+20180822,25,여자친구(GFRIEND),여름여름해 (Sunny Summer)
+20180822,26,닐로(Nil_O),지나오다
+20180822,27,멜로망스(MeloMance),동화
+20180822,28,(여자)아이들,LATATA
+20180822,29,모모랜드(MOMOLAND),BAAM
+20180822,30,벤,미워도 다시 한 번
+20180822,31,약속,다시 만나 (See you again)
+20180822,32,새벽한시,IAM
+20180822,33,비투비,너 없인 안 된다
+20180822,34,멜로망스(MeloMance),좋은 날
+20180822,35,Charlie Puth(찰리 푸스),Done For Me
+20180822,36,크러쉬(Crush),Cereal (Feat. ZICO)
+20180822,37,여자친구(GFRIEND),밤 (Time for the moon night)
+20180822,38,폴킴(Paul Kim),비
+20180822,39,양다일,미안해
+20180822,40,iKON,사랑을 했다 (LOVE SCENARIO)
+20180822,41,로꼬,주지마
+20180822,42,효린,바다보러갈래 (SEE SEA)
+20180822,43,폴킴(Paul Kim),휴가
+20180822,44,멜로망스(MeloMance),You
+20180822,45,다비치,마치 우린 없었던 사이 (Prod. 정키)
+20180822,46,기리보이,flex (Prod. By 기리보이)
+20180822,47,장덕철,그날처럼
+20180822,48,Troye Sivan(트로이 시반),Youth
+20180822,49,Red Velvet (레드벨벳),한 여름의 크리스마스 (With You)
+20180822,50,방탄소년단,FAKE LOVE
+20180822,51,아이유(IU),밤편지
+20180822,52,오반 (OVAN),불행 (Feat. 빈첸 (VINXEN))
+20180822,53,로이킴,그때 헤어지면 돼
+20180822,54,청하,Roller Coaster
+20180822,55,Camila Cabello(카밀라 카베요),Havana (feat. Young Thug)
+20180822,56,Fitz & The Tantrums,Handclap
+20180822,57,닐로(Nil_O),넋두리
+20180822,58,Sia(시아),Chandelier
+20180822,59,볼빨간사춘기,Dejavu
+20180822,60,Red Velvet (레드벨벳),빨간 맛 (Red Flavor)
+20180822,61,Lucia(심규선),내 맘 속의 눈물
+20180822,62,세븐틴(Seventeen),어쩌나
+20180822,63,HAON(김하온),붕붕 (Feat. 식케이) (Prod. GroovyRoom)
+20180822,64,멜로망스(MeloMance),선물
+20180822,65,TWICE (트와이스),What is Love?
+20180822,66,박원,이방인
+20180822,67,Ed Sheeran(에드 시런),Shape Of You
+20180822,68,Imagine Dragons(이매진 드래곤스),Thunder
+20180822,69,용준형,소나기 (Feat. 10cm)
+20180822,70,이수,My Way
+20180822,71,이수현,소리
+20180822,72,모모랜드(MOMOLAND),뿜뿜
+20180822,73,Red Velvet (레드벨벳),Bad Boy
+20180822,74,마마무(Mamamoo),별이 빛나는 밤
+20180822,75,pH-1,Cupid (Feat. PENOMECO)
+20180822,76,10cm(십센치),폰서트
+20180822,77,방탄소년단,DNA
+20180822,78,장덕철,지각
+20180822,79,Red Velvet (레드벨벳),Blue Lemonade
+20180822,80,먼데이 키즈(Monday Kiz),가을 안부
+20180822,81,DJ Khaled(디제이 칼리드),No Brainer (feat. Justin Bieber, Chance the Rapper & Quavo)
+20180822,82,펜타곤,빛나리
+20180822,83,오존(O3ohn),Shine Your Star (Prod. by ZICO)
+20180822,84,에이오에이(AOA),빙글뱅글 (Bingle Bangle)
+20180822,85,양희은,늘 그대
+20180822,86,Sondia,어른
+20180822,87,에일리(Ailee),첫눈처럼 너에게 가겠다
+20180822,88,BLACKPINK,마지막처럼
+20180822,89,Marshmello(마시멜로),FRIENDS
+20180822,90,헤이즈(HEIZE),비도 오고 그래서 (Feat. 신용재)
+20180822,91,김나영,그대만 보여서
+20180822,92,방탄소년단,전하지 못한 진심 (Feat. Steve Aoki)
+20180822,93,Shawn Mendes(션 멘데스),There's Nothing Holdin' Me Back
+20180822,94,WINNER,REALLY REALLY
+20180822,95,박효신,그 날 (Original Ver.)
+20180822,96,사이먼 도미닉,귀가본능 (feat. JINBO the superfreak)
+20180822,97,노라조,사이다
+20180822,98,마마무(Mamamoo),장마 (Rainy Season)
+20180822,99,우원재,시차 (We Are) (Feat. 로꼬 & GRAY)
+20180822,100,윤미래,You & Me (Feat. 주노플로)
+--------------------------------------------------
+20180823,1,(여자)아이들,한(一)
+20180823,2,숀(SHAUN),Way Back Home
+20180823,3,Red Velvet (레드벨벳),Power Up
+20180823,4,국.슈 (국프의 핫이슈),Rumor
+20180823,5,TWICE (트와이스),Dance The Night Away
+20180823,6,지코(Zico),SoulMate (Feat. 아이유)
+20180823,7,마마무(Mamamoo),너나 해 (Egotistic)
+20180823,8,BLACKPINK,뚜두뚜두 (DDU-DU DDU-DU)
+20180823,9,iKON,죽겠다 (KILLING ME)
+20180823,10,Apink (에이핑크),1도 없어
+20180823,11,태연 (TAEYEON),Page 0
+20180823,12,벤,열애중
+20180823,13,청하,Love U
+20180823,14,폴킴(Paul Kim),모든 날, 모든 순간 (Every day, Every Moment)
+20180823,15,승리,셋 셀테니 (1, 2, 3!)
+20180823,16,BLACKPINK,Forever Young
+20180823,17,기억 조작단,너에게 닿기를 (To reach you)
+20180823,18,개코(Gaeko),Vacation (Feat. SOLE)
+20180823,19,볼빨간사춘기,여행
+20180823,20,효린,BAE
+20180823,21,오반 (OVAN),스무살이 왜이리 능글맞아 (Feat. 숀 (SHAUN))
+20180823,22,닐로(Nil_O),지나오다
+20180823,23,멜로망스(MeloMance),동화
+20180823,24,SummerWish,1000%
+20180823,25,세븐틴(Seventeen),A-TEEN
+20180823,26,러브포션,Rollin' Rollin'
+20180823,27,여자친구(GFRIEND),여름여름해 (Sunny Summer)
+20180823,28,(여자)아이들,LATATA
+20180823,29,비투비,너 없인 안 된다
+20180823,30,멜로망스(MeloMance),좋은 날
+20180823,31,크러쉬(Crush),Cereal (Feat. ZICO)
+20180823,32,새벽한시,IAM
+20180823,33,양다일,미안해
+20180823,34,벤,미워도 다시 한 번
+20180823,35,약속,다시 만나 (See you again)
+20180823,36,폴킴(Paul Kim),비
+20180823,37,Charlie Puth(찰리 푸스),Done For Me
+20180823,38,다비치,마치 우린 없었던 사이 (Prod. 정키)
+20180823,39,모모랜드(MOMOLAND),BAAM
+20180823,40,기리보이,flex (Prod. By 기리보이)
+20180823,41,iKON,사랑을 했다 (LOVE SCENARIO)
+20180823,42,로꼬,주지마
+20180823,43,Fitz & The Tantrums,Handclap
+20180823,44,방탄소년단,FAKE LOVE
+20180823,45,효린,바다보러갈래 (SEE SEA)
+20180823,46,볼빨간사춘기,Dejavu
+20180823,47,여자친구(GFRIEND),밤 (Time for the moon night)
+20180823,48,TWICE (트와이스),What is Love?
+20180823,49,Camila Cabello(카밀라 카베요),Havana (feat. Young Thug)
+20180823,50,에이오에이(AOA),빙글뱅글 (Bingle Bangle)
+20180823,51,로이킴,그때 헤어지면 돼
+20180823,52,방탄소년단,전하지 못한 진심 (Feat. Steve Aoki)
+20180823,53,청하,Roller Coaster
+20180823,54,Troye Sivan(트로이 시반),Youth
+20180823,55,Sia(시아),Chandelier
+20180823,56,멜로망스(MeloMance),You
+20180823,57,DJ Khaled(디제이 칼리드),No Brainer (feat. Justin Bieber, Chance the Rapper & Quavo)
+20180823,58,오반 (OVAN),불행 (Feat. 빈첸 (VINXEN))
+20180823,59,아이유(IU),밤편지
+20180823,60,폴킴(Paul Kim),휴가
+20180823,61,닐로(Nil_O),넋두리
+20180823,62,이수현,소리
+20180823,63,장덕철,그날처럼
+20180823,64,Red Velvet (레드벨벳),빨간 맛 (Red Flavor)
+20180823,65,Imagine Dragons(이매진 드래곤스),Thunder
+20180823,66,멜로망스(MeloMance),선물
+20180823,67,마마무(Mamamoo),별이 빛나는 밤
+20180823,68,10cm(십센치),폰서트
+20180823,69,세븐틴(Seventeen),어쩌나
+20180823,70,Ed Sheeran(에드 시런),Shape Of You
+20180823,71,에일리(Ailee),첫눈처럼 너에게 가겠다
+20180823,72,HAON(김하온),붕붕 (Feat. 식케이) (Prod. GroovyRoom)
+20180823,73,이수,My Way
+20180823,74,Shawn Mendes(션 멘데스),There's Nothing Holdin' Me Back
+20180823,75,BLACKPINK,마지막처럼
+20180823,76,장덕철,지각
+20180823,77,양희은,늘 그대
+20180823,78,헤이즈(HEIZE),비도 오고 그래서 (Feat. 신용재)
+20180823,79,모모랜드(MOMOLAND),뿜뿜
+20180823,80,Red Velvet (레드벨벳),한 여름의 크리스마스 (With You)
+20180823,81,Red Velvet (레드벨벳),Bad Boy
+20180823,82,방탄소년단,DNA
+20180823,83,Marshmello(마시멜로),FRIENDS
+20180823,84,우원재,시차 (We Are) (Feat. 로꼬 & GRAY)
+20180823,85,마마무(Mamamoo),장마 (Rainy Season)
+20180823,86,펜타곤,빛나리
+20180823,87,먼데이 키즈(Monday Kiz),어느 날의 나에게
+20180823,88,방탄소년단,봄날
+20180823,89,먼데이 키즈(Monday Kiz),가을 안부
+20180823,90,박원,이방인
+20180823,91,용준형,소나기 (Feat. 10cm)
+20180823,92,오존(O3ohn),Shine Your Star (Prod. by ZICO)
+20180823,93,Red Velvet (레드벨벳),Blue Lemonade
+20180823,94,WINNER,REALLY REALLY
+20180823,95,Sondia,어른
+20180823,96,박효신,그 날 (Original Ver.)
+20180823,97,김나영,그대만 보여서
+20180823,98,윤미래,You & Me (Feat. 주노플로)
+20180823,99,BLACKPINK,Really
+20180823,100,린(LYn),LOVE
+--------------------------------------------------
+20180824,1,10cm(십센치),매트리스
+20180824,2,(여자)아이들,한(一)
+20180824,3,로이킴,왜 몰랐을까
+20180824,4,Red Velvet (레드벨벳),Power Up
+20180824,5,숀(SHAUN),Way Back Home
+20180824,6,마마무(Mamamoo),너나 해 (Egotistic)
+20180824,7,TWICE (트와이스),Dance The Night Away
+20180824,8,국.슈 (국프의 핫이슈),Rumor
+20180824,9,BLACKPINK,뚜두뚜두 (DDU-DU DDU-DU)
+20180824,10,지코(Zico),SoulMate (Feat. 아이유)
+20180824,11,Apink (에이핑크),1도 없어
+20180824,12,iKON,죽겠다 (KILLING ME)
+20180824,13,태연 (TAEYEON),Page 0
+20180824,14,폴킴(Paul Kim),모든 날, 모든 순간 (Every day, Every Moment)
+20180824,15,BLACKPINK,Forever Young
+20180824,16,승리,셋 셀테니 (1, 2, 3!)
+20180824,17,청하,Love U
+20180824,18,기억 조작단,너에게 닿기를 (To reach you)
+20180824,19,벤,열애중
+20180824,20,세븐틴(Seventeen),A-TEEN
+20180824,21,오반 (OVAN),스무살이 왜이리 능글맞아 (Feat. 숀 (SHAUN))
+20180824,22,볼빨간사춘기,여행
+20180824,23,닐로(Nil_O),지나오다
+20180824,24,멜로망스(MeloMance),동화
+20180824,25,(여자)아이들,LATATA
+20180824,26,여자친구(GFRIEND),여름여름해 (Sunny Summer)
+20180824,27,효린,BAE
+20180824,28,개코(Gaeko),Vacation (Feat. SOLE)
+20180824,29,폴킴(Paul Kim),비
+20180824,30,러브포션,Rollin' Rollin'
+20180824,31,SummerWish,1000%
+20180824,32,비투비,너 없인 안 된다
+20180824,33,모모랜드(MOMOLAND),BAAM
+20180824,34,크러쉬(Crush),Cereal (Feat. ZICO)
+20180824,35,Charlie Puth(찰리 푸스),Done For Me
+20180824,36,로꼬,주지마
+20180824,37,기리보이,flex (Prod. By 기리보이)
+20180824,38,양다일,미안해
+20180824,39,여자친구(GFRIEND),밤 (Time for the moon night)
+20180824,40,용준형,소나기 (Feat. 10cm)
+20180824,41,Fitz & The Tantrums,Handclap
+20180824,42,방탄소년단,FAKE LOVE
+20180824,43,멜로망스(MeloMance),좋은 날
+20180824,44,Camila Cabello(카밀라 카베요),Havana (feat. Young Thug)
+20180824,45,iKON,사랑을 했다 (LOVE SCENARIO)
+20180824,46,새벽한시,IAM
+20180824,47,벤,미워도 다시 한 번
+20180824,48,다비치,마치 우린 없었던 사이 (Prod. 정키)
+20180824,49,오반 (OVAN),불행 (Feat. 빈첸 (VINXEN))
+20180824,50,헤이즈(HEIZE),비도 오고 그래서 (Feat. 신용재)
+20180824,51,방탄소년단,DNA
+20180824,52,Imagine Dragons(이매진 드래곤스),Thunder
+20180824,53,멜로망스(MeloMance),You
+20180824,54,TWICE (트와이스),What is Love?
+20180824,55,Sia(시아),Chandelier
+20180824,56,아이유(IU),밤편지
+20180824,57,로이킴,그때 헤어지면 돼
+20180824,58,청하,Roller Coaster
+20180824,59,장덕철,지각
+20180824,60,장덕철,그날처럼
+20180824,61,HAON(김하온),붕붕 (Feat. 식케이) (Prod. GroovyRoom)
+20180824,62,참깨와 솜사탕,showtime
+20180824,63,Marshmello(마시멜로),FRIENDS
+20180824,64,Troye Sivan(트로이 시반),Youth
+20180824,65,멜로망스(MeloMance),선물
+20180824,66,마마무(Mamamoo),별이 빛나는 밤
+20180824,67,에이오에이(AOA),빙글뱅글 (Bingle Bangle)
+20180824,68,DJ Khaled(디제이 칼리드),No Brainer (feat. Justin Bieber, Chance the Rapper & Quavo)
+20180824,69,이수현,소리
+20180824,70,Ed Sheeran(에드 시런),Shape Of You
+20180824,71,효린,바다보러갈래 (SEE SEA)
+20180824,72,Red Velvet (레드벨벳),빨간 맛 (Red Flavor)
+20180824,73,모모랜드(MOMOLAND),뿜뿜
+20180824,74,볼빨간사춘기,Dejavu
+20180824,75,방탄소년단,전하지 못한 진심 (Feat. Steve Aoki)
+20180824,76,방탄소년단,봄날
+20180824,77,펀치 (Punch),이 밤의 끝
+20180824,78,약속,다시 만나 (See you again)
+20180824,79,10cm(십센치),폰서트
+20180824,80,BLACKPINK,마지막처럼
+20180824,81,닐로(Nil_O),넋두리
+20180824,82,폴킴(Paul Kim),휴가
+20180824,83,펜타곤,빛나리
+20180824,84,Red Velvet (레드벨벳),한 여름의 크리스마스 (With You)
+20180824,85,박원,이방인
+20180824,86,우원재,시차 (We Are) (Feat. 로꼬 & GRAY)
+20180824,87,Red Velvet (레드벨벳),Blue Lemonade
+20180824,88,세븐틴(Seventeen),어쩌나
+20180824,89,에일리(Ailee),첫눈처럼 너에게 가겠다
+20180824,90,이수,My Way
+20180824,91,김나영,그대만 보여서
+20180824,92,Shawn Mendes(션 멘데스),There's Nothing Holdin' Me Back
+20180824,93,먼데이 키즈(Monday Kiz),가을 안부
+20180824,94,Red Velvet (레드벨벳),Bad Boy
+20180824,95,박효신,그 날 (Original Ver.)
+20180824,96,린(LYn),LOVE
+20180824,97,Sondia,어른
+20180824,98,윤미래,You & Me (Feat. 주노플로)
+20180824,99,BIGBANG,꽃 길
+20180824,100,마마무(Mamamoo),장마 (Rainy Season)
+--------------------------------------------------
+20180825,1,방탄소년단,IDOL
+20180825,2,방탄소년단,Euphoria
+20180825,3,방탄소년단,I'm Fine
+20180825,4,방탄소년단,Answer : Love Myself
+20180825,5,10cm(십센치),매트리스
+20180825,6,방탄소년단,Trivia 起 : Just Dance
+20180825,7,방탄소년단,Epiphany
+20180825,8,방탄소년단,Trivia 轉 : Seesaw
+20180825,9,(여자)아이들,한(一)
+20180825,10,방탄소년단,Trivia 承 : Love
+20180825,11,숀(SHAUN),Way Back Home
+20180825,12,방탄소년단,Serendipity (Full Length Edition)
+20180825,13,방탄소년단,IDOL (Feat. Nicki Minaj)
+20180825,14,Red Velvet (레드벨벳),Power Up
+20180825,15,로이킴,왜 몰랐을까
+20180825,16,TWICE (트와이스),Dance The Night Away
+20180825,17,BLACKPINK,뚜두뚜두 (DDU-DU DDU-DU)
+20180825,18,마마무(Mamamoo),너나 해 (Egotistic)
+20180825,19,지코(Zico),SoulMate (Feat. 아이유)
+20180825,20,국.슈 (국프의 핫이슈),Rumor
+20180825,21,Apink (에이핑크),1도 없어
+20180825,22,방탄소년단,FAKE LOVE
+20180825,23,폴킴(Paul Kim),모든 날, 모든 순간 (Every day, Every Moment)
+20180825,24,벤,열애중
+20180825,25,iKON,죽겠다 (KILLING ME)
+20180825,26,청하,Love U
+20180825,27,태연 (TAEYEON),Page 0
+20180825,28,BLACKPINK,Forever Young
+20180825,29,볼빨간사춘기,여행
+20180825,30,승리,셋 셀테니 (1, 2, 3!)
+20180825,31,멜로망스(MeloMance),동화
+20180825,32,여자친구(GFRIEND),여름여름해 (Sunny Summer)
+20180825,33,방탄소년단,Her
+20180825,34,방탄소년단,MIC Drop (Steve Aoki Remix) (Full Length Edition)
+20180825,35,방탄소년단,DNA (Pedal 2 LA Mix)
+20180825,36,닐로(Nil_O),지나오다
+20180825,37,효린,BAE
+20180825,38,모모랜드(MOMOLAND),BAAM
+20180825,39,방탄소년단,DNA
+20180825,40,폴킴(Paul Kim),비
+20180825,41,세븐틴(Seventeen),A-TEEN
+20180825,42,방탄소년단,보조개
+20180825,43,방탄소년단,Singularity
+20180825,44,Charlie Puth(찰리 푸스),Done For Me
+20180825,45,기억 조작단,너에게 닿기를 (To reach you)
+20180825,46,방탄소년단,전하지 못한 진심 (Feat. Steve Aoki)
+20180825,47,크러쉬(Crush),Cereal (Feat. ZICO)
+20180825,48,양다일,미안해
+20180825,49,방탄소년단,전하지 못한 진심 (Feat. Steve Aoki)
+20180825,50,iKON,사랑을 했다 (LOVE SCENARIO)
+20180825,51,방탄소년단,Tear
+20180825,52,비투비,너 없인 안 된다
+20180825,53,로꼬,주지마
+20180825,54,방탄소년단,Magic Shop
+20180825,55,(여자)아이들,LATATA
+20180825,56,여자친구(GFRIEND),밤 (Time for the moon night)
+20180825,57,다비치,마치 우린 없었던 사이 (Prod. 정키)
+20180825,58,기리보이,flex (Prod. By 기리보이)
+20180825,59,방탄소년단,FAKE LOVE (Rocking Vibe Mix)
+20180825,60,오반 (OVAN),스무살이 왜이리 능글맞아 (Feat. 숀 (SHAUN))
+20180825,61,방탄소년단,Best Of Me
+20180825,62,Fitz & The Tantrums,Handclap
+20180825,63,효린,바다보러갈래 (SEE SEA)
+20180825,64,닐로(Nil_O),넋두리
+20180825,65,로이킴,그때 헤어지면 돼
+20180825,66,방탄소년단,FAKE LOVE
+20180825,67,방탄소년단,DNA
+20180825,68,Camila Cabello(카밀라 카베요),Havana (feat. Young Thug)
+20180825,69,방탄소년단,Airplane pt.2
+20180825,70,Sia(시아),Chandelier
+20180825,71,볼빨간사춘기,Dejavu
+20180825,72,청하,Roller Coaster
+20180825,73,Troye Sivan(트로이 시반),Youth
+20180825,74,방탄소년단,고민보다 Go
+20180825,75,멜로망스(MeloMance),You
+20180825,76,장덕철,그날처럼
+20180825,77,SummerWish,1000%
+20180825,78,멜로망스(MeloMance),선물
+20180825,79,러브포션,Rollin' Rollin'
+20180825,80,멜로망스(MeloMance),좋은 날
+20180825,81,HAON(김하온),붕붕 (Feat. 식케이) (Prod. GroovyRoom)
+20180825,82,아이유(IU),밤편지
+20180825,83,모모랜드(MOMOLAND),뿜뿜
+20180825,84,Ed Sheeran(에드 시런),Shape Of You
+20180825,85,TWICE (트와이스),What is Love?
+20180825,86,Red Velvet (레드벨벳),빨간 맛 (Red Flavor)
+20180825,87,마마무(Mamamoo),별이 빛나는 밤
+20180825,88,방탄소년단,Anpanman
+20180825,89,BLACKPINK,마지막처럼
+20180825,90,방탄소년단,봄날
+20180825,91,Imagine Dragons(이매진 드래곤스),Thunder
+20180825,92,폴킴(Paul Kim),휴가
+20180825,93,오반 (OVAN),불행 (Feat. 빈첸 (VINXEN))
+20180825,94,용준형,소나기 (Feat. 10cm)
+20180825,95,개코(Gaeko),Vacation (Feat. SOLE)
+20180825,96,방탄소년단,MIC Drop
+20180825,97,Red Velvet (레드벨벳),한 여름의 크리스마스 (With You)
+20180825,98,이수현,소리
+20180825,99,이수,My Way
+20180825,100,새벽한시,IAM
+--------------------------------------------------
+20180826,1,방탄소년단,IDOL
+20180826,2,10cm(십센치),매트리스
+20180826,3,(여자)아이들,한(一)
+20180826,4,방탄소년단,Euphoria
+20180826,5,Red Velvet (레드벨벳),Power Up
+20180826,6,숀(SHAUN),Way Back Home
+20180826,7,로이킴,왜 몰랐을까
+20180826,8,방탄소년단,I'm Fine
+20180826,9,BLACKPINK,뚜두뚜두 (DDU-DU DDU-DU)
+20180826,10,마마무(Mamamoo),너나 해 (Egotistic)
+20180826,11,TWICE (트와이스),Dance The Night Away
+20180826,12,지코(Zico),SoulMate (Feat. 아이유)
+20180826,13,방탄소년단,Answer : Love Myself
+20180826,14,폴킴(Paul Kim),모든 날, 모든 순간 (Every day, Every Moment)
+20180826,15,방탄소년단,Epiphany
+20180826,16,iKON,죽겠다 (KILLING ME)
+20180826,17,국.슈 (국프의 핫이슈),Rumor
+20180826,18,Apink (에이핑크),1도 없어
+20180826,19,BLACKPINK,Forever Young
+20180826,20,벤,열애중
+20180826,21,태연 (TAEYEON),Page 0
+20180826,22,방탄소년단,Trivia 轉 : Seesaw
+20180826,23,볼빨간사춘기,여행
+20180826,24,승리,셋 셀테니 (1, 2, 3!)
+20180826,25,방탄소년단,Trivia 起 : Just Dance
+20180826,26,청하,Love U
+20180826,27,방탄소년단,Serendipity (Full Length Edition)
+20180826,28,멜로망스(MeloMance),동화
+20180826,29,여자친구(GFRIEND),여름여름해 (Sunny Summer)
+20180826,30,닐로(Nil_O),지나오다
+20180826,31,모모랜드(MOMOLAND),BAAM
+20180826,32,방탄소년단,Trivia 承 : Love
+20180826,33,세븐틴(Seventeen),A-TEEN
+20180826,34,크러쉬(Crush),Cereal (Feat. ZICO)
+20180826,35,기억 조작단,너에게 닿기를 (To reach you)
+20180826,36,기리보이,flex (Prod. By 기리보이)
+20180826,37,폴킴(Paul Kim),비
+20180826,38,(여자)아이들,LATATA
+20180826,39,멜로망스(MeloMance),좋은 날
+20180826,40,방탄소년단,IDOL (Feat. Nicki Minaj)
+20180826,41,양다일,미안해
+20180826,42,비투비,너 없인 안 된다
+20180826,43,iKON,사랑을 했다 (LOVE SCENARIO)
+20180826,44,로꼬,주지마
+20180826,45,효린,BAE
+20180826,46,오반 (OVAN),스무살이 왜이리 능글맞아 (Feat. 숀 (SHAUN))
+20180826,47,Charlie Puth(찰리 푸스),Done For Me
+20180826,48,로이킴,그때 헤어지면 돼
+20180826,49,Camila Cabello(카밀라 카베요),Havana (feat. Young Thug)
+20180826,50,여자친구(GFRIEND),밤 (Time for the moon night)
+20180826,51,효린,바다보러갈래 (SEE SEA)
+20180826,52,SummerWish,1000%
+20180826,53,러브포션,Rollin' Rollin'
+20180826,54,다비치,마치 우린 없었던 사이 (Prod. 정키)
+20180826,55,Fitz & The Tantrums,Handclap
+20180826,56,볼빨간사춘기,Dejavu
+20180826,57,아이유(IU),밤편지
+20180826,58,청하,Roller Coaster
+20180826,59,장덕철,그날처럼
+20180826,60,닐로(Nil_O),넋두리
+20180826,61,폴킴(Paul Kim),휴가
+20180826,62,Sia(시아),Chandelier
+20180826,63,새벽한시,IAM
+20180826,64,10cm(십센치),폰서트
+20180826,65,Troye Sivan(트로이 시반),Youth
+20180826,66,HAON(김하온),붕붕 (Feat. 식케이) (Prod. GroovyRoom)
+20180826,67,방탄소년단,FAKE LOVE
+20180826,68,멜로망스(MeloMance),You
+20180826,69,Imagine Dragons(이매진 드래곤스),Thunder
+20180826,70,TWICE (트와이스),What is Love?
+20180826,71,개코(Gaeko),Vacation (Feat. SOLE)
+20180826,72,모모랜드(MOMOLAND),뿜뿜
+20180826,73,박원,이방인
+20180826,74,펜타곤,빛나리
+20180826,75,이수현,소리
+20180826,76,에이오에이(AOA),빙글뱅글 (Bingle Bangle)
+20180826,77,방탄소년단,Her
+20180826,78,멜로망스(MeloMance),선물
+20180826,79,헤이즈(HEIZE),비도 오고 그래서 (Feat. 신용재)
+20180826,80,Shawn Mendes(션 멘데스),There's Nothing Holdin' Me Back
+20180826,81,약속,다시 만나 (See you again)
+20180826,82,용준형,소나기 (Feat. 10cm)
+20180826,83,이수,My Way
+20180826,84,BLACKPINK,마지막처럼
+20180826,85,먼데이 키즈(Monday Kiz),가을 안부
+20180826,86,Ed Sheeran(에드 시런),Shape Of You
+20180826,87,마마무(Mamamoo),별이 빛나는 밤
+20180826,88,Marshmello(마시멜로),FRIENDS
+20180826,89,세븐틴(Seventeen),어쩌나
+20180826,90,오반 (OVAN),불행 (Feat. 빈첸 (VINXEN))
+20180826,91,DJ Khaled(디제이 칼리드),No Brainer (feat. Justin Bieber, Chance the Rapper & Quavo)
+20180826,92,Red Velvet (레드벨벳),빨간 맛 (Red Flavor)
+20180826,93,방탄소년단,DNA
+20180826,94,장덕철,지각
+20180826,95,Red Velvet (레드벨벳),Bad Boy
+20180826,96,방탄소년단,전하지 못한 진심 (Feat. Steve Aoki)
+20180826,97,벤,미워도 다시 한 번
+20180826,98,박효신,그 날 (Original Ver.)
+20180826,99,에일리(Ailee),첫눈처럼 너에게 가겠다
+20180826,100,양희은,늘 그대
+--------------------------------------------------
+20180827,1,10cm(십센치),매트리스
+20180827,2,방탄소년단,IDOL
+20180827,3,(여자)아이들,한(一)
+20180827,4,로이킴,왜 몰랐을까
+20180827,5,숀(SHAUN),Way Back Home
+20180827,6,Red Velvet (레드벨벳),Power Up
+20180827,7,방탄소년단,Euphoria
+20180827,8,TWICE (트와이스),Dance The Night Away
+20180827,9,지코(Zico),SoulMate (Feat. 아이유)
+20180827,10,BLACKPINK,뚜두뚜두 (DDU-DU DDU-DU)
+20180827,11,마마무(Mamamoo),너나 해 (Egotistic)
+20180827,12,방탄소년단,I'm Fine
+20180827,13,국.슈 (국프의 핫이슈),Rumor
+20180827,14,폴킴(Paul Kim),모든 날, 모든 순간 (Every day, Every Moment)
+20180827,15,벤,열애중
+20180827,16,태연 (TAEYEON),Page 0
+20180827,17,BLACKPINK,Forever Young
+20180827,18,방탄소년단,Answer : Love Myself
+20180827,19,뉴이스트 W,AND I
+20180827,20,Apink (에이핑크),1도 없어
+20180827,21,iKON,죽겠다 (KILLING ME)
+20180827,22,승리,셋 셀테니 (1, 2, 3!)
+20180827,23,방탄소년단,Epiphany
+20180827,24,청하,Love U
+20180827,25,볼빨간사춘기,여행
+20180827,26,폴킴(Paul Kim),비
+20180827,27,방탄소년단,Trivia 轉 : Seesaw
+20180827,28,닐로(Nil_O),지나오다
+20180827,29,세븐틴(Seventeen),A-TEEN
+20180827,30,멜로망스(MeloMance),동화
+20180827,31,방탄소년단,Trivia 起 : Just Dance
+20180827,32,기리보이,flex (Prod. By 기리보이)
+20180827,33,멜로망스(MeloMance),좋은 날
+20180827,34,방탄소년단,Trivia 承 : Love
+20180827,35,(여자)아이들,LATATA
+20180827,36,방탄소년단,Serendipity (Full Length Edition)
+20180827,37,양다일,미안해
+20180827,38,로꼬,주지마
+20180827,39,여자친구(GFRIEND),여름여름해 (Sunny Summer)
+20180827,40,비투비,너 없인 안 된다
+20180827,41,크러쉬(Crush),Cereal (Feat. ZICO)
+20180827,42,기억 조작단,너에게 닿기를 (To reach you)
+20180827,43,다비치,마치 우린 없었던 사이 (Prod. 정키)
+20180827,44,Charlie Puth(찰리 푸스),Done For Me
+20180827,45,모모랜드(MOMOLAND),BAAM
+20180827,46,박원,이방인
+20180827,47,효린,BAE
+20180827,48,아이유(IU),밤편지
+20180827,49,오반 (OVAN),스무살이 왜이리 능글맞아 (Feat. 숀 (SHAUN))
+20180827,50,여자친구(GFRIEND),밤 (Time for the moon night)
+20180827,51,닐로(Nil_O),넋두리
+20180827,52,멜로망스(MeloMance),You
+20180827,53,로이킴,그때 헤어지면 돼
+20180827,54,iKON,사랑을 했다 (LOVE SCENARIO)
+20180827,55,이수현,소리
+20180827,56,10cm(십센치),폰서트
+20180827,57,장덕철,그날처럼
+20180827,58,방탄소년단,FAKE LOVE
+20180827,59,Troye Sivan(트로이 시반),Youth
+20180827,60,DJ Khaled(디제이 칼리드),No Brainer (feat. Justin Bieber, Chance the Rapper & Quavo)
+20180827,61,장덕철,지각
+20180827,62,Camila Cabello(카밀라 카베요),Havana (feat. Young Thug)
+20180827,63,러브포션,Rollin' Rollin'
+20180827,64,Imagine Dragons(이매진 드래곤스),Thunder
+20180827,65,오반 (OVAN),불행 (Feat. 빈첸 (VINXEN))
+20180827,66,멜로망스(MeloMance),선물
+20180827,67,용준형,소나기 (Feat. 10cm)
+20180827,68,Fitz & The Tantrums,Handclap
+20180827,69,방탄소년단,IDOL (Feat. Nicki Minaj)
+20180827,70,Marshmello(마시멜로),FRIENDS
+20180827,71,Sia(시아),Chandelier
+20180827,72,BIGBANG,꽃 길
+20180827,73,새벽한시,IAM
+20180827,74,HAON(김하온),붕붕 (Feat. 식케이) (Prod. GroovyRoom)
+20180827,75,헤이즈(HEIZE),비도 오고 그래서 (Feat. 신용재)
+20180827,76,마마무(Mamamoo),별이 빛나는 밤
+20180827,77,Ed Sheeran(에드 시런),Shape Of You
+20180827,78,BLACKPINK,마지막처럼
+20180827,79,Red Velvet (레드벨벳),Bad Boy
+20180827,80,벤,미워도 다시 한 번
+20180827,81,개코(Gaeko),Vacation (Feat. SOLE)
+20180827,82,폴킴(Paul Kim),휴가
+20180827,83,에이오에이(AOA),빙글뱅글 (Bingle Bangle)
+20180827,84,세븐틴(Seventeen),어쩌나
+20180827,85,이수,My Way
+20180827,86,Red Velvet (레드벨벳),빨간 맛 (Red Flavor)
+20180827,87,볼빨간사춘기,Dejavu
+20180827,88,먼데이 키즈(Monday Kiz),가을 안부
+20180827,89,TWICE (트와이스),What is Love?
+20180827,90,효린,바다보러갈래 (SEE SEA)
+20180827,91,우원재,시차 (We Are) (Feat. 로꼬 & GRAY)
+20180827,92,펜타곤,빛나리
+20180827,93,청하,Roller Coaster
+20180827,94,박효신,그 날 (Original Ver.)
+20180827,95,모모랜드(MOMOLAND),뿜뿜
+20180827,96,SummerWish,1000%
+20180827,97,방탄소년단,전하지 못한 진심 (Feat. Steve Aoki)
+20180827,98,에일리(Ailee),첫눈처럼 너에게 가겠다
+20180827,99,약속,다시 만나 (See you again)
+20180827,100,Zion.T,노래
+--------------------------------------------------
+20180828,1,10cm(십센치),매트리스
+20180828,2,(여자)아이들,한(一)
+20180828,3,방탄소년단,IDOL
+20180828,4,숀(SHAUN),Way Back Home
+20180828,5,로이킴,왜 몰랐을까
+20180828,6,Red Velvet (레드벨벳),Power Up
+20180828,7,방탄소년단,Euphoria
+20180828,8,TWICE (트와이스),Dance The Night Away
+20180828,9,마마무(Mamamoo),너나 해 (Egotistic)
+20180828,10,BLACKPINK,뚜두뚜두 (DDU-DU DDU-DU)
+20180828,11,방탄소년단,I'm Fine
+20180828,12,지코(Zico),SoulMate (Feat. 아이유)
+20180828,13,폴킴(Paul Kim),모든 날, 모든 순간 (Every day, Every Moment)
+20180828,14,국.슈 (국프의 핫이슈),Rumor
+20180828,15,벤,열애중
+20180828,16,방탄소년단,Answer : Love Myself
+20180828,17,Apink (에이핑크),1도 없어
+20180828,18,iKON,죽겠다 (KILLING ME)
+20180828,19,승리,셋 셀테니 (1, 2, 3!)
+20180828,20,방탄소년단,Epiphany
+20180828,21,BLACKPINK,Forever Young
+20180828,22,폴킴(Paul Kim),비
+20180828,23,청하,Love U
+20180828,24,태연 (TAEYEON),Page 0
+20180828,25,볼빨간사춘기,여행
+20180828,26,닐로(Nil_O),지나오다
+20180828,27,멜로망스(MeloMance),동화
+20180828,28,멜로망스(MeloMance),좋은 날
+20180828,29,방탄소년단,Trivia 轉 : Seesaw
+20180828,30,양다일,미안해
+20180828,31,기억 조작단,너에게 닿기를 (To reach you)
+20180828,32,여자친구(GFRIEND),여름여름해 (Sunny Summer)
+20180828,33,Charlie Puth(찰리 푸스),Done For Me
+20180828,34,세븐틴(Seventeen),A-TEEN
+20180828,35,방탄소년단,Trivia 起 : Just Dance
+20180828,36,비투비,너 없인 안 된다
+20180828,37,(여자)아이들,LATATA
+20180828,38,모모랜드(MOMOLAND),BAAM
+20180828,39,로꼬,주지마
+20180828,40,로이킴,그때 헤어지면 돼
+20180828,41,크러쉬(Crush),Cereal (Feat. ZICO)
+20180828,42,기리보이,flex (Prod. By 기리보이)
+20180828,43,방탄소년단,IDOL (Feat. Nicki Minaj)
+20180828,44,방탄소년단,Serendipity (Full Length Edition)
+20180828,45,Fitz & The Tantrums,Handclap
+20180828,46,효린,BAE
+20180828,47,아이유(IU),밤편지
+20180828,48,여자친구(GFRIEND),밤 (Time for the moon night)
+20180828,49,닐로(Nil_O),넋두리
+20180828,50,방탄소년단,Trivia 承 : Love
+20180828,51,SummerWish,1000%
+20180828,52,오반 (OVAN),스무살이 왜이리 능글맞아 (Feat. 숀 (SHAUN))
+20180828,53,10cm(십센치),폰서트
+20180828,54,Troye Sivan(트로이 시반),Youth
+20180828,55,다비치,마치 우린 없었던 사이 (Prod. 정키)
+20180828,56,방탄소년단,FAKE LOVE
+20180828,57,iKON,사랑을 했다 (LOVE SCENARIO)
+20180828,58,이수현,소리
+20180828,59,멜로망스(MeloMance),You
+20180828,60,TWICE (트와이스),What is Love?
+20180828,61,Camila Cabello(카밀라 카베요),Havana (feat. Young Thug)
+20180828,62,박원,이방인
+20180828,63,장덕철,지각
+20180828,64,장덕철,그날처럼
+20180828,65,모모랜드(MOMOLAND),뿜뿜
+20180828,66,러브포션,Rollin' Rollin'
+20180828,67,청하,Roller Coaster
+20180828,68,Marshmello(마시멜로),FRIENDS
+20180828,69,새벽한시,IAM
+20180828,70,멜로망스(MeloMance),선물
+20180828,71,볼빨간사춘기,Dejavu
+20180828,72,Ed Sheeran(에드 시런),Shape Of You
+20180828,73,개코(Gaeko),Vacation (Feat. SOLE)
+20180828,74,용준형,소나기 (Feat. 10cm)
+20180828,75,효린,바다보러갈래 (SEE SEA)
+20180828,76,DJ Khaled(디제이 칼리드),No Brainer (feat. Justin Bieber, Chance the Rapper & Quavo)
+20180828,77,벤,미워도 다시 한 번
+20180828,78,Red Velvet (레드벨벳),빨간 맛 (Red Flavor)
+20180828,79,폴킴(Paul Kim),휴가
+20180828,80,Sia(시아),Chandelier
+20180828,81,Imagine Dragons(이매진 드래곤스),Thunder
+20180828,82,먼데이 키즈(Monday Kiz),가을 안부
+20180828,83,마마무(Mamamoo),별이 빛나는 밤
+20180828,84,약속,다시 만나 (See you again)
+20180828,85,HAON(김하온),붕붕 (Feat. 식케이) (Prod. GroovyRoom)
+20180828,86,에이오에이(AOA),빙글뱅글 (Bingle Bangle)
+20180828,87,에일리(Ailee),첫눈처럼 너에게 가겠다
+20180828,88,헤이즈(HEIZE),비도 오고 그래서 (Feat. 신용재)
+20180828,89,뉴이스트 W,AND I
+20180828,90,우원재,시차 (We Are) (Feat. 로꼬 & GRAY)
+20180828,91,오반 (OVAN),불행 (Feat. 빈첸 (VINXEN))
+20180828,92,이수,My Way
+20180828,93,세븐틴(Seventeen),어쩌나
+20180828,94,Red Velvet (레드벨벳),Bad Boy
+20180828,95,방탄소년단,전하지 못한 진심 (Feat. Steve Aoki)
+20180828,96,방탄소년단,DNA
+20180828,97,BLACKPINK,마지막처럼
+20180828,98,BIGBANG,꽃 길
+20180828,99,펀치 (Punch),이 밤의 끝
+20180828,100,박효신,그 날 (Original Ver.)
+--------------------------------------------------
+20180829,1,10cm(십센치),매트리스
+20180829,2,신화,Kiss Me Like That
+20180829,3,(여자)아이들,한(一)
+20180829,4,Red Velvet (레드벨벳),Power Up
+20180829,5,숀(SHAUN),Way Back Home
+20180829,6,로이킴,왜 몰랐을까
+20180829,7,방탄소년단,IDOL
+20180829,8,TWICE (트와이스),Dance The Night Away
+20180829,9,신화,In The Air (with YOON MI RAE)
+20180829,10,방탄소년단,Euphoria
+20180829,11,지코(Zico),SoulMate (Feat. 아이유)
+20180829,12,BLACKPINK,뚜두뚜두 (DDU-DU DDU-DU)
+20180829,13,신화,LEVEL
+20180829,14,신화,HERE I COME
+20180829,15,신화,L.U.V
+20180829,16,마마무(Mamamoo),너나 해 (Egotistic)
+20180829,17,신화,떠나가지 마요
+20180829,18,폴킴(Paul Kim),모든 날, 모든 순간 (Every day, Every Moment)
+20180829,19,벤,열애중
+20180829,20,국.슈 (국프의 핫이슈),Rumor
+20180829,21,방탄소년단,I'm Fine
+20180829,22,Apink (에이핑크),1도 없어
+20180829,23,BLACKPINK,Forever Young
+20180829,24,폴킴(Paul Kim),비
+20180829,25,iKON,죽겠다 (KILLING ME)
+20180829,26,승리,셋 셀테니 (1, 2, 3!)
+20180829,27,태연 (TAEYEON),Page 0
+20180829,28,청하,Love U
+20180829,29,방탄소년단,Answer : Love Myself
+20180829,30,볼빨간사춘기,여행
+20180829,31,멜로망스(MeloMance),좋은 날
+20180829,32,멜로망스(MeloMance),동화
+20180829,33,닐로(Nil_O),지나오다
+20180829,34,방탄소년단,Epiphany
+20180829,35,기억 조작단,너에게 닿기를 (To reach you)
+20180829,36,세븐틴(Seventeen),A-TEEN
+20180829,37,Charlie Puth(찰리 푸스),Done For Me
+20180829,38,양다일,미안해
+20180829,39,다비치,마치 우린 없었던 사이 (Prod. 정키)
+20180829,40,로이킴,그때 헤어지면 돼
+20180829,41,로꼬,주지마
+20180829,42,비투비,너 없인 안 된다
+20180829,43,여자친구(GFRIEND),여름여름해 (Sunny Summer)
+20180829,44,이수현,소리
+20180829,45,방탄소년단,Trivia 轉 : Seesaw
+20180829,46,크러쉬(Crush),Cereal (Feat. ZICO)
+20180829,47,아이유(IU),밤편지
+20180829,48,(여자)아이들,LATATA
+20180829,49,닐로(Nil_O),넋두리
+20180829,50,박원,이방인
+20180829,51,모모랜드(MOMOLAND),BAAM
+20180829,52,기리보이,flex (Prod. By 기리보이)
+20180829,53,여자친구(GFRIEND),밤 (Time for the moon night)
+20180829,54,방탄소년단,FAKE LOVE
+20180829,55,효린,BAE
+20180829,56,방탄소년단,Trivia 起 : Just Dance
+20180829,57,헤이즈(HEIZE),비도 오고 그래서 (Feat. 신용재)
+20180829,58,방탄소년단,Serendipity (Full Length Edition)
+20180829,59,iKON,사랑을 했다 (LOVE SCENARIO)
+20180829,60,Sia(시아),Chandelier
+20180829,61,러브포션,Rollin' Rollin'
+20180829,62,10cm(십센치),폰서트
+20180829,63,HAON(김하온),붕붕 (Feat. 식케이) (Prod. GroovyRoom)
+20180829,64,모모랜드(MOMOLAND),뿜뿜
+20180829,65,Marshmello(마시멜로),FRIENDS
+20180829,66,청하,Roller Coaster
+20180829,67,오반 (OVAN),스무살이 왜이리 능글맞아 (Feat. 숀 (SHAUN))
+20180829,68,용준형,소나기 (Feat. 10cm)
+20180829,69,박효신,그 날 (Original Ver.)
+20180829,70,멜로망스(MeloMance),You
+20180829,71,장덕철,지각
+20180829,72,SummerWish,1000%
+20180829,73,오반 (OVAN),불행 (Feat. 빈첸 (VINXEN))
+20180829,74,개코(Gaeko),Vacation (Feat. SOLE)
+20180829,75,Ed Sheeran(에드 시런),Shape Of You
+20180829,76,Fitz & The Tantrums,Handclap
+20180829,77,TWICE (트와이스),What is Love?
+20180829,78,마마무(Mamamoo),별이 빛나는 밤
+20180829,79,이수,My Way
+20180829,80,멜로망스(MeloMance),선물
+20180829,81,장덕철,그날처럼
+20180829,82,벤,미워도 다시 한 번
+20180829,83,Camila Cabello(카밀라 카베요),Havana (feat. Young Thug)
+20180829,84,Imagine Dragons(이매진 드래곤스),Thunder
+20180829,85,효린,바다보러갈래 (SEE SEA)
+20180829,86,에이오에이(AOA),빙글뱅글 (Bingle Bangle)
+20180829,87,세븐틴(Seventeen),어쩌나
+20180829,88,볼빨간사춘기,Dejavu
+20180829,89,먼데이 키즈(Monday Kiz),가을 안부
+20180829,90,Red Velvet (레드벨벳),빨간 맛 (Red Flavor)
+20180829,91,에일리(Ailee),첫눈처럼 너에게 가겠다
+20180829,92,방탄소년단,IDOL (Feat. Nicki Minaj)
+20180829,93,방탄소년단,전하지 못한 진심 (Feat. Steve Aoki)
+20180829,94,신화,All Your Dreams (2018)
+20180829,95,폴킴(Paul Kim),휴가
+20180829,96,약속,다시 만나 (See you again)
+20180829,97,Troye Sivan(트로이 시반),Youth
+20180829,98,새벽한시,IAM
+20180829,99,BLACKPINK,마지막처럼
+20180829,100,Red Velvet (레드벨벳),Bad Boy
+--------------------------------------------------
+20180830,1,(여자)아이들,한(一)
+20180830,2,10cm(십센치),매트리스
+20180830,3,숀(SHAUN),Way Back Home
+20180830,4,로이킴,왜 몰랐을까
+20180830,5,Red Velvet (레드벨벳),Power Up
+20180830,6,방탄소년단,IDOL
+20180830,7,TWICE (트와이스),Dance The Night Away
+20180830,8,폴킴(Paul Kim),모든 날, 모든 순간 (Every day, Every Moment)
+20180830,9,지코(Zico),SoulMate (Feat. 아이유)
+20180830,10,BLACKPINK,뚜두뚜두 (DDU-DU DDU-DU)
+20180830,11,마마무(Mamamoo),너나 해 (Egotistic)
+20180830,12,방탄소년단,Euphoria
+20180830,13,벤,열애중
+20180830,14,국.슈 (국프의 핫이슈),Rumor
+20180830,15,iKON,죽겠다 (KILLING ME)
+20180830,16,폴킴(Paul Kim),비
+20180830,17,Apink (에이핑크),1도 없어
+20180830,18,BLACKPINK,Forever Young
+20180830,19,방탄소년단,I'm Fine
+20180830,20,청하,Love U
+20180830,21,승리,셋 셀테니 (1, 2, 3!)
+20180830,22,볼빨간사춘기,여행
+20180830,23,태연 (TAEYEON),Page 0
+20180830,24,닐로(Nil_O),지나오다
+20180830,25,신화,Kiss Me Like That
+20180830,26,세븐틴(Seventeen),A-TEEN
+20180830,27,멜로망스(MeloMance),동화
+20180830,28,방탄소년단,Answer : Love Myself
+20180830,29,스무살,니가 생각나는 밤 (Rainy Night)
+20180830,30,양다일,미안해
+20180830,31,기억 조작단,너에게 닿기를 (To reach you)
+20180830,32,Charlie Puth(찰리 푸스),Done For Me
+20180830,33,멜로망스(MeloMance),좋은 날
+20180830,34,기리보이,flex (Prod. By 기리보이)
+20180830,35,(여자)아이들,LATATA
+20180830,36,로이킴,그때 헤어지면 돼
+20180830,37,비투비,너 없인 안 된다
+20180830,38,Camila Cabello(카밀라 카베요),Havana (feat. Young Thug)
+20180830,39,로꼬,주지마
+20180830,40,여자친구(GFRIEND),여름여름해 (Sunny Summer)
+20180830,41,효린,BAE
+20180830,42,모모랜드(MOMOLAND),BAAM
+20180830,43,방탄소년단,Epiphany
+20180830,44,Troye Sivan(트로이 시반),Youth
+20180830,45,방탄소년단,Trivia 轉 : Seesaw
+20180830,46,크러쉬(Crush),Cereal (Feat. ZICO)
+20180830,47,오반 (OVAN),스무살이 왜이리 능글맞아 (Feat. 숀 (SHAUN))
+20180830,48,아이유(IU),밤편지
+20180830,49,다비치,마치 우린 없었던 사이 (Prod. 정키)
+20180830,50,장덕철,그날처럼
+20180830,51,닐로(Nil_O),넋두리
+20180830,52,여자친구(GFRIEND),밤 (Time for the moon night)
+20180830,53,iKON,사랑을 했다 (LOVE SCENARIO)
+20180830,54,Fitz & The Tantrums,Handclap
+20180830,55,방탄소년단,FAKE LOVE
+20180830,56,Sia(시아),Chandelier
+20180830,57,Imagine Dragons(이매진 드래곤스),Thunder
+20180830,58,헤이즈(HEIZE),비도 오고 그래서 (Feat. 신용재)
+20180830,59,Ed Sheeran(에드 시런),Shape Of You
+20180830,60,박원,이방인
+20180830,61,김용국,Friday n Night
+20180830,62,멜로망스(MeloMance),You
+20180830,63,SummerWish,1000%
+20180830,64,오반 (OVAN),불행 (Feat. 빈첸 (VINXEN))
+20180830,65,TWICE (트와이스),What is Love?
+20180830,66,먼데이 키즈(Monday Kiz),가을 안부
+20180830,67,효린,바다보러갈래 (SEE SEA)
+20180830,68,청하,Roller Coaster
+20180830,69,볼빨간사춘기,Dejavu
+20180830,70,이수현,소리
+20180830,71,약속,다시 만나 (See you again)
+20180830,72,러브포션,Rollin' Rollin'
+20180830,73,HAON(김하온),붕붕 (Feat. 식케이) (Prod. GroovyRoom)
+20180830,74,방탄소년단,Serendipity (Full Length Edition)
+20180830,75,용준형,소나기 (Feat. 10cm)
+20180830,76,폴킴(Paul Kim),휴가
+20180830,77,장덕철,지각
+20180830,78,10cm(십센치),폰서트
+20180830,79,새벽한시,IAM
+20180830,80,멜로망스(MeloMance),선물
+20180830,81,마마무(Mamamoo),별이 빛나는 밤
+20180830,82,모모랜드(MOMOLAND),뿜뿜
+20180830,83,DJ Khaled(디제이 칼리드),No Brainer (feat. Justin Bieber, Chance the Rapper & Quavo)
+20180830,84,Marshmello(마시멜로),FRIENDS
+20180830,85,Red Velvet (레드벨벳),빨간 맛 (Red Flavor)
+20180830,86,이수,My Way
+20180830,87,박효신,그 날 (Original Ver.)
+20180830,88,방탄소년단,DNA
+20180830,89,방탄소년단,Trivia 起 : Just Dance
+20180830,90,신화,In The Air (with YOON MI RAE)
+20180830,91,에이오에이(AOA),빙글뱅글 (Bingle Bangle)
+20180830,92,방탄소년단,Trivia 承 : Love
+20180830,93,Red Velvet (레드벨벳),Bad Boy
+20180830,94,개코(Gaeko),Vacation (Feat. SOLE)
+20180830,95,방탄소년단,IDOL (Feat. Nicki Minaj)
+20180830,96,펜타곤,빛나리
+20180830,97,방탄소년단,전하지 못한 진심 (Feat. Steve Aoki)
+20180830,98,벤,미워도 다시 한 번
+20180830,99,우원재,시차 (We Are) (Feat. 로꼬 & GRAY)
+20180830,100,BLACKPINK,마지막처럼
+--------------------------------------------------
+20180831,1,10cm(십센치),매트리스
+20180831,2,(여자)아이들,한(一)
+20180831,3,숀(SHAUN),Way Back Home
+20180831,4,로이킴,왜 몰랐을까
+20180831,5,Red Velvet (레드벨벳),Power Up
+20180831,6,방탄소년단,IDOL
+20180831,7,폴킴(Paul Kim),모든 날, 모든 순간 (Every day, Every Moment)
+20180831,8,BLACKPINK,뚜두뚜두 (DDU-DU DDU-DU)
+20180831,9,TWICE (트와이스),Dance The Night Away
+20180831,10,마마무(Mamamoo),너나 해 (Egotistic)
+20180831,11,지코(Zico),SoulMate (Feat. 아이유)
+20180831,12,국.슈 (국프의 핫이슈),Rumor
+20180831,13,iKON,죽겠다 (KILLING ME)
+20180831,14,벤,열애중
+20180831,15,Apink (에이핑크),1도 없어
+20180831,16,방탄소년단,Euphoria
+20180831,17,BLACKPINK,Forever Young
+20180831,18,청하,Love U
+20180831,19,볼빨간사춘기,여행
+20180831,20,태연 (TAEYEON),Page 0
+20180831,21,폴킴(Paul Kim),비
+20180831,22,승리,셋 셀테니 (1, 2, 3!)
+20180831,23,닐로(Nil_O),지나오다
+20180831,24,로시(Rothy),버닝(Burning)
+20180831,25,방탄소년단,I'm Fine
+20180831,26,멜로망스(MeloMance),동화
+20180831,27,세븐틴(Seventeen),A-TEEN
+20180831,28,멜로망스(MeloMance),좋은 날
+20180831,29,로이킴,그때 헤어지면 돼
+20180831,30,비투비,너 없인 안 된다
+20180831,31,여자친구(GFRIEND),여름여름해 (Sunny Summer)
+20180831,32,기리보이,flex (Prod. By 기리보이)
+20180831,33,로꼬,주지마
+20180831,34,기억 조작단,너에게 닿기를 (To reach you)
+20180831,35,(여자)아이들,LATATA
+20180831,36,양다일,미안해
+20180831,37,다비치,마치 우린 없었던 사이 (Prod. 정키)
+20180831,38,효린,BAE
+20180831,39,모모랜드(MOMOLAND),BAAM
+20180831,40,크러쉬(Crush),Cereal (Feat. ZICO)
+20180831,41,Charlie Puth(찰리 푸스),Done For Me
+20180831,42,방탄소년단,Answer : Love Myself
+20180831,43,iKON,사랑을 했다 (LOVE SCENARIO)
+20180831,44,신화,Kiss Me Like That
+20180831,45,Fitz & The Tantrums,Handclap
+20180831,46,헤이즈(HEIZE),비도 오고 그래서 (Feat. 신용재)
+20180831,47,아이유(IU),밤편지
+20180831,48,이수현,소리
+20180831,49,오반 (OVAN),스무살이 왜이리 능글맞아 (Feat. 숀 (SHAUN))
+20180831,50,Camila Cabello(카밀라 카베요),Havana (feat. Young Thug)
+20180831,51,청하,Roller Coaster
+20180831,52,여자친구(GFRIEND),밤 (Time for the moon night)
+20180831,53,멜로망스(MeloMance),You
+20180831,54,닐로(Nil_O),넋두리
+20180831,55,박원,이방인
+20180831,56,Troye Sivan(트로이 시반),Youth
+20180831,57,방탄소년단,Epiphany
+20180831,58,장덕철,그날처럼
+20180831,59,방탄소년단,FAKE LOVE
+20180831,60,우원재,시차 (We Are) (Feat. 로꼬 & GRAY)
+20180831,61,볼빨간사춘기,Dejavu
+20180831,62,SummerWish,1000%
+20180831,63,폴킴(Paul Kim),휴가
+20180831,64,마마무(Mamamoo),별이 빛나는 밤
+20180831,65,HAON(김하온),붕붕 (Feat. 식케이) (Prod. GroovyRoom)
+20180831,66,Sia(시아),Chandelier
+20180831,67,TWICE (트와이스),What is Love?
+20180831,68,에이오에이(AOA),빙글뱅글 (Bingle Bangle)
+20180831,69,Marshmello(마시멜로),FRIENDS
+20180831,70,Ed Sheeran(에드 시런),Shape Of You
+20180831,71,용준형,소나기 (Feat. 10cm)
+20180831,72,오반 (OVAN),불행 (Feat. 빈첸 (VINXEN))
+20180831,73,세븐틴(Seventeen),어쩌나
+20180831,74,장덕철,지각
+20180831,75,Imagine Dragons(이매진 드래곤스),Thunder
+20180831,76,멜로망스(MeloMance),선물
+20180831,77,10cm(십센치),폰서트
+20180831,78,러브포션,Rollin' Rollin'
+20180831,79,Red Velvet (레드벨벳),빨간 맛 (Red Flavor)
+20180831,80,새벽한시,IAM
+20180831,81,벤,미워도 다시 한 번
+20180831,82,모모랜드(MOMOLAND),뿜뿜
+20180831,83,BLACKPINK,마지막처럼
+20180831,84,효린,바다보러갈래 (SEE SEA)
+20180831,85,방탄소년단,Trivia 轉 : Seesaw
+20180831,86,스무살,니가 생각나는 밤 (Rainy Night)
+20180831,87,BIGBANG,꽃 길
+20180831,88,이수,My Way
+20180831,89,먼데이 키즈(Monday Kiz),가을 안부
+20180831,90,방탄소년단,Trivia 起 : Just Dance
+20180831,91,방탄소년단,DNA
+20180831,92,DJ Khaled(디제이 칼리드),No Brainer (feat. Justin Bieber, Chance the Rapper & Quavo)
+20180831,93,박효신,그 날 (Original Ver.)
+20180831,94,Red Velvet (레드벨벳),Bad Boy
+20180831,95,에일리(Ailee),첫눈처럼 너에게 가겠다
+20180831,96,방탄소년단,Serendipity (Full Length Edition)
+20180831,97,약속,다시 만나 (See you again)
+20180831,98,방탄소년단,IDOL (Feat. Nicki Minaj)
+20180831,99,개코(Gaeko),Vacation (Feat. SOLE)
+20180831,100,Shawn Mendes(션 멘데스),There's Nothing Holdin' Me Back
+--------------------------------------------------
+20180901,1,백현(BAEKHYUN),YOUNG
+20180901,2,10cm(십센치),매트리스
+20180901,3,(여자)아이들,한(一)
+20180901,4,숀(SHAUN),Way Back Home
+20180901,5,Red Velvet (레드벨벳),Power Up
+20180901,6,방탄소년단,IDOL
+20180901,7,로이킴,왜 몰랐을까
+20180901,8,TWICE (트와이스),Dance The Night Away
+20180901,9,폴킴(Paul Kim),모든 날, 모든 순간 (Every day, Every Moment)
+20180901,10,BLACKPINK,뚜두뚜두 (DDU-DU DDU-DU)
+20180901,11,마마무(Mamamoo),너나 해 (Egotistic)
+20180901,12,지코(Zico),SoulMate (Feat. 아이유)
+20180901,13,벤,열애중
+20180901,14,BLACKPINK,Forever Young
+20180901,15,방탄소년단,Euphoria
+20180901,16,청하,Love U
+20180901,17,iKON,죽겠다 (KILLING ME)
+20180901,18,Apink (에이핑크),1도 없어
+20180901,19,승리,셋 셀테니 (1, 2, 3!)
+20180901,20,태연 (TAEYEON),Page 0
+20180901,21,볼빨간사춘기,여행
+20180901,22,멜로망스(MeloMance),동화
+20180901,23,국.슈 (국프의 핫이슈),Rumor
+20180901,24,폴킴(Paul Kim),비
+20180901,25,방탄소년단,I'm Fine
+20180901,26,멜로망스(MeloMance),좋은 날
+20180901,27,닐로(Nil_O),지나오다
+20180901,28,모모랜드(MOMOLAND),BAAM
+20180901,29,비투비,너 없인 안 된다
+20180901,30,여자친구(GFRIEND),여름여름해 (Sunny Summer)
+20180901,31,Charlie Puth(찰리 푸스),Done For Me
+20180901,32,Camila Cabello(카밀라 카베요),Havana (feat. Young Thug)
+20180901,33,(여자)아이들,LATATA
+20180901,34,기리보이,flex (Prod. By 기리보이)
+20180901,35,양다일,미안해
+20180901,36,크러쉬(Crush),Cereal (Feat. ZICO)
+20180901,37,로꼬,주지마
+20180901,38,여자친구(GFRIEND),밤 (Time for the moon night)
+20180901,39,Fitz & The Tantrums,Handclap
+20180901,40,로이킴,그때 헤어지면 돼
+20180901,41,다비치,마치 우린 없었던 사이 (Prod. 정키)
+20180901,42,청하,Roller Coaster
+20180901,43,세븐틴(Seventeen),A-TEEN
+20180901,44,iKON,사랑을 했다 (LOVE SCENARIO)
+20180901,45,방탄소년단,FAKE LOVE
+20180901,46,효린,BAE
+20180901,47,Imagine Dragons(이매진 드래곤스),Thunder
+20180901,48,Troye Sivan(트로이 시반),Youth
+20180901,49,오반 (OVAN),불행 (Feat. 빈첸 (VINXEN))
+20180901,50,Ed Sheeran(에드 시런),Shape Of You
+20180901,51,10cm(십센치),폰서트
+20180901,52,아이유(IU),밤편지
+20180901,53,멜로망스(MeloMance),You
+20180901,54,장덕철,그날처럼
+20180901,55,방탄소년단,Epiphany
+20180901,56,용준형,소나기 (Feat. 10cm)
+20180901,57,닐로(Nil_O),넋두리
+20180901,58,효린,바다보러갈래 (SEE SEA)
+20180901,59,볼빨간사춘기,Dejavu
+20180901,60,기억 조작단,너에게 닿기를 (To reach you)
+20180901,61,TWICE (트와이스),What is Love?
+20180901,62,Sia(시아),Chandelier
+20180901,63,오반 (OVAN),스무살이 왜이리 능글맞아 (Feat. 숀 (SHAUN))
+20180901,64,방탄소년단,Answer : Love Myself
+20180901,65,BLACKPINK,마지막처럼
+20180901,66,멜로망스(MeloMance),선물
+20180901,67,신화,Kiss Me Like That
+20180901,68,장덕철,지각
+20180901,69,이수현,소리
+20180901,70,모모랜드(MOMOLAND),뿜뿜
+20180901,71,Red Velvet (레드벨벳),빨간 맛 (Red Flavor)
+20180901,72,HAON(김하온),붕붕 (Feat. 식케이) (Prod. GroovyRoom)
+20180901,73,에이오에이(AOA),빙글뱅글 (Bingle Bangle)
+20180901,74,이수,My Way
+20180901,75,마마무(Mamamoo),별이 빛나는 밤
+20180901,76,Marshmello(마시멜로),FRIENDS
+20180901,77,박원,이방인
+20180901,78,폴킴(Paul Kim),휴가
+20180901,79,방탄소년단,DNA
+20180901,80,BIGBANG,꽃 길
+20180901,81,헤이즈(HEIZE),비도 오고 그래서 (Feat. 신용재)
+20180901,82,방탄소년단,Trivia 轉 : Seesaw
+20180901,83,라비(Ravi),ADORABLE (Feat. 양요섭 of 하이라이트)
+20180901,84,우원재,시차 (We Are) (Feat. 로꼬 & GRAY)
+20180901,85,먼데이 키즈(Monday Kiz),가을 안부
+20180901,86,Red Velvet (레드벨벳),Bad Boy
+20180901,87,DJ Khaled(디제이 칼리드),No Brainer (feat. Justin Bieber, Chance the Rapper & Quavo)
+20180901,88,박효신,그 날 (Original Ver.)
+20180901,89,에일리(Ailee),첫눈처럼 너에게 가겠다
+20180901,90,벤,미워도 다시 한 번
+20180901,91,로시(Rothy),버닝(Burning)
+20180901,92,Sondia,어른
+20180901,93,SummerWish,1000%
+20180901,94,방탄소년단,봄날
+20180901,95,Shawn Mendes(션 멘데스),There's Nothing Holdin' Me Back
+20180901,96,세븐틴(Seventeen),어쩌나
+20180901,97,방탄소년단,Trivia 起 : Just Dance
+20180901,98,펜타곤,빛나리
+20180901,99,러브포션,Rollin' Rollin'
+20180901,100,새벽한시,IAM
+--------------------------------------------------
+20180902,1,(여자)아이들,한(一)
+20180902,2,숀(SHAUN),Way Back Home
+20180902,3,10cm(십센치),매트리스
+20180902,4,백현(BAEKHYUN),YOUNG
+20180902,5,방탄소년단,IDOL
+20180902,6,Red Velvet (레드벨벳),Power Up
+20180902,7,BLACKPINK,뚜두뚜두 (DDU-DU DDU-DU)
+20180902,8,로이킴,왜 몰랐을까
+20180902,9,TWICE (트와이스),Dance The Night Away
+20180902,10,마마무(Mamamoo),너나 해 (Egotistic)
+20180902,11,PRODUCE 48,꿈을 꾸는 동안 (夢を見ている間) (Korean Ver.)
+20180902,12,폴킴(Paul Kim),모든 날, 모든 순간 (Every day, Every Moment)
+20180902,13,지코(Zico),SoulMate (Feat. 아이유)
+20180902,14,Apink (에이핑크),1도 없어
+20180902,15,PRODUCE 48,반해버리잖아? (好きになっちゃうだろう？)
+20180902,16,BLACKPINK,Forever Young
+20180902,17,국.슈 (국프의 핫이슈),Rumor
+20180902,18,벤,열애중
+20180902,19,승리,셋 셀테니 (1, 2, 3!)
+20180902,20,청하,Love U
+20180902,21,볼빨간사춘기,여행
+20180902,22,태연 (TAEYEON),Page 0
+20180902,23,방탄소년단,Euphoria
+20180902,24,방탄소년단,I'm Fine
+20180902,25,멜로망스(MeloMance),동화
+20180902,26,PRODUCE 48,앞으로 잘 부탁해 (We Together)
+20180902,27,iKON,죽겠다 (KILLING ME)
+20180902,28,닐로(Nil_O),지나오다
+20180902,29,폴킴(Paul Kim),비
+20180902,30,여자친구(GFRIEND),여름여름해 (Sunny Summer)
+20180902,31,기리보이,flex (Prod. By 기리보이)
+20180902,32,모모랜드(MOMOLAND),BAAM
+20180902,33,크러쉬(Crush),Cereal (Feat. ZICO)
+20180902,34,양다일,미안해
+20180902,35,기억 조작단,너에게 닿기를 (To reach you)
+20180902,36,(여자)아이들,LATATA
+20180902,37,세븐틴(Seventeen),A-TEEN
+20180902,38,Charlie Puth(찰리 푸스),Done For Me
+20180902,39,로꼬,주지마
+20180902,40,로이킴,그때 헤어지면 돼
+20180902,41,iKON,사랑을 했다 (LOVE SCENARIO)
+20180902,42,비투비,너 없인 안 된다
+20180902,43,Ed Sheeran(에드 시런),Shape Of You
+20180902,44,멜로망스(MeloMance),좋은 날
+20180902,45,Sia(시아),Chandelier
+20180902,46,방탄소년단,Answer : Love Myself
+20180902,47,다비치,마치 우린 없었던 사이 (Prod. 정키)
+20180902,48,Fitz & The Tantrums,Handclap
+20180902,49,여자친구(GFRIEND),밤 (Time for the moon night)
+20180902,50,청하,Roller Coaster
+20180902,51,Troye Sivan(트로이 시반),Youth
+20180902,52,러브포션,Rollin' Rollin'
+20180902,53,오반 (OVAN),불행 (Feat. 빈첸 (VINXEN))
+20180902,54,TWICE (트와이스),What is Love?
+20180902,55,아이유(IU),밤편지
+20180902,56,효린,BAE
+20180902,57,방탄소년단,Epiphany
+20180902,58,Camila Cabello(카밀라 카베요),Havana (feat. Young Thug)
+20180902,59,멜로망스(MeloMance),You
+20180902,60,이수,My Way
+20180902,61,오반 (OVAN),스무살이 왜이리 능글맞아 (Feat. 숀 (SHAUN))
+20180902,62,먼데이 키즈(Monday Kiz),가을 안부
+20180902,63,Imagine Dragons(이매진 드래곤스),Thunder
+20180902,64,멜로망스(MeloMance),선물
+20180902,65,HAON(김하온),붕붕 (Feat. 식케이) (Prod. GroovyRoom)
+20180902,66,헤이즈(HEIZE),비도 오고 그래서 (Feat. 신용재)
+20180902,67,폴킴(Paul Kim),휴가
+20180902,68,장덕철,그날처럼
+20180902,69,모모랜드(MOMOLAND),뿜뿜
+20180902,70,방탄소년단,FAKE LOVE
+20180902,71,방탄소년단,Trivia 轉 : Seesaw
+20180902,72,Marshmello(마시멜로),FRIENDS
+20180902,73,닐로(Nil_O),넋두리
+20180902,74,세븐틴(Seventeen),어쩌나
+20180902,75,SummerWish,1000%
+20180902,76,우원재,시차 (We Are) (Feat. 로꼬 & GRAY)
+20180902,77,장덕철,지각
+20180902,78,신화,Kiss Me Like That
+20180902,79,용준형,소나기 (Feat. 10cm)
+20180902,80,DJ Khaled(디제이 칼리드),No Brainer (feat. Justin Bieber, Chance the Rapper & Quavo)
+20180902,81,Red Velvet (레드벨벳),빨간 맛 (Red Flavor)
+20180902,82,방탄소년단,DNA
+20180902,83,이수현,소리
+20180902,84,박원,이방인
+20180902,85,10cm(십센치),폰서트
+20180902,86,볼빨간사춘기,Dejavu
+20180902,87,약속,다시 만나 (See you again)
+20180902,88,에일리(Ailee),첫눈처럼 너에게 가겠다
+20180902,89,효린,바다보러갈래 (SEE SEA)
+20180902,90,방탄소년단,Trivia 起 : Just Dance
+20180902,91,Shawn Mendes(션 멘데스),There's Nothing Holdin' Me Back
+20180902,92,BIGBANG,꽃 길
+20180902,93,마마무(Mamamoo),별이 빛나는 밤
+20180902,94,BLACKPINK,마지막처럼
+20180902,95,Red Velvet (레드벨벳),Bad Boy
+20180902,96,에이오에이(AOA),빙글뱅글 (Bingle Bangle)
+20180902,97,로시(Rothy),버닝(Burning)
+20180902,98,새벽한시,IAM
+20180902,99,방탄소년단,IDOL (Feat. Nicki Minaj)
+20180902,100,방탄소년단,Serendipity (Full Length Edition)
+--------------------------------------------------
+20180903,1,(여자)아이들,한(一)
+20180903,2,10cm(십센치),매트리스
+20180903,3,숀(SHAUN),Way Back Home
+20180903,4,백지영,See You Again (Feat. 리처드 용재 오닐)
+20180903,5,Red Velvet (레드벨벳),Power Up
+20180903,6,방탄소년단,IDOL
+20180903,7,로이킴,왜 몰랐을까
+20180903,8,폴킴(Paul Kim),모든 날, 모든 순간 (Every day, Every Moment)
+20180903,9,백현(BAEKHYUN),YOUNG
+20180903,10,TWICE (트와이스),Dance The Night Away
+20180903,11,BLACKPINK,뚜두뚜두 (DDU-DU DDU-DU)
+20180903,12,마마무(Mamamoo),너나 해 (Egotistic)
+20180903,13,지코(Zico),SoulMate (Feat. 아이유)
+20180903,14,벤,열애중
+20180903,15,태연 (TAEYEON),Page 0
+20180903,16,iKON,죽겠다 (KILLING ME)
+20180903,17,승리,셋 셀테니 (1, 2, 3!)
+20180903,18,국.슈 (국프의 핫이슈),Rumor
+20180903,19,Apink (에이핑크),1도 없어
+20180903,20,방탄소년단,Euphoria
+20180903,21,BLACKPINK,Forever Young
+20180903,22,청하,Love U
+20180903,23,방탄소년단,I'm Fine
+20180903,24,볼빨간사춘기,여행
+20180903,25,PRODUCE 48,꿈을 꾸는 동안 (夢を見ている間) (Korean Ver.)
+20180903,26,폴킴(Paul Kim),비
+20180903,27,닐로(Nil_O),지나오다
+20180903,28,멜로망스(MeloMance),동화
+20180903,29,PRODUCE 48,반해버리잖아? (好きになっちゃうだろう？)
+20180903,30,세븐틴(Seventeen),A-TEEN
+20180903,31,(여자)아이들,LATATA
+20180903,32,양다일,미안해
+20180903,33,PRODUCE 48,앞으로 잘 부탁해 (We Together)
+20180903,34,Charlie Puth(찰리 푸스),Done For Me
+20180903,35,비투비,너 없인 안 된다
+20180903,36,iKON,사랑을 했다 (LOVE SCENARIO)
+20180903,37,모모랜드(MOMOLAND),BAAM
+20180903,38,로꼬,주지마
+20180903,39,박원,이방인
+20180903,40,여자친구(GFRIEND),여름여름해 (Sunny Summer)
+20180903,41,Fitz & The Tantrums,Handclap
+20180903,42,크러쉬(Crush),Cereal (Feat. ZICO)
+20180903,43,박미경,기억속의 먼 그대에게
+20180903,44,로이킴,그때 헤어지면 돼
+20180903,45,다비치,마치 우린 없었던 사이 (Prod. 정키)
+20180903,46,멜로망스(MeloMance),좋은 날
+20180903,47,방탄소년단,Answer : Love Myself
+20180903,48,기리보이,flex (Prod. By 기리보이)
+20180903,49,기억 조작단,너에게 닿기를 (To reach you)
+20180903,50,아이유(IU),밤편지
+20180903,51,닐로(Nil_O),넋두리
+20180903,52,먼데이 키즈(Monday Kiz),가을 안부
+20180903,53,장덕철,그날처럼
+20180903,54,TWICE (트와이스),What is Love?
+20180903,55,멜로망스(MeloMance),You
+20180903,56,여자친구(GFRIEND),밤 (Time for the moon night)
+20180903,57,이수현,소리
+20180903,58,오반 (OVAN),스무살이 왜이리 능글맞아 (Feat. 숀 (SHAUN))
+20180903,59,방탄소년단,Epiphany
+20180903,60,Ed Sheeran(에드 시런),Shape Of You
+20180903,61,방탄소년단,FAKE LOVE
+20180903,62,Camila Cabello(카밀라 카베요),Havana (feat. Young Thug)
+20180903,63,청하,Roller Coaster
+20180903,64,마마무(Mamamoo),별이 빛나는 밤
+20180903,65,효린,BAE
+20180903,66,러브포션,Rollin' Rollin'
+20180903,67,장덕철,지각
+20180903,68,10cm(십센치),폰서트
+20180903,69,멜로망스(MeloMance),선물
+20180903,70,모모랜드(MOMOLAND),뿜뿜
+20180903,71,방탄소년단,Trivia 轉 : Seesaw
+20180903,72,Troye Sivan(트로이 시반),Youth
+20180903,73,SummerWish,1000%
+20180903,74,HAON(김하온),붕붕 (Feat. 식케이) (Prod. GroovyRoom)
+20180903,75,우원재,시차 (We Are) (Feat. 로꼬 & GRAY)
+20180903,76,에일리(Ailee),첫눈처럼 너에게 가겠다
+20180903,77,이수,My Way
+20180903,78,Sia(시아),Chandelier
+20180903,79,용준형,소나기 (Feat. 10cm)
+20180903,80,세븐틴(Seventeen),어쩌나
+20180903,81,약속,다시 만나 (See you again)
+20180903,82,Red Velvet (레드벨벳),Bad Boy
+20180903,83,볼빨간사춘기,Dejavu
+20180903,84,폴킴(Paul Kim),휴가
+20180903,85,효린,바다보러갈래 (SEE SEA)
+20180903,86,Imagine Dragons(이매진 드래곤스),Thunder
+20180903,87,펜타곤,빛나리
+20180903,88,Marshmello(마시멜로),FRIENDS
+20180903,89,헤이즈(HEIZE),비도 오고 그래서 (Feat. 신용재)
+20180903,90,오반 (OVAN),불행 (Feat. 빈첸 (VINXEN))
+20180903,91,에이오에이(AOA),빙글뱅글 (Bingle Bangle)
+20180903,92,DJ Khaled(디제이 칼리드),No Brainer (feat. Justin Bieber, Chance the Rapper & Quavo)
+20180903,93,Red Velvet (레드벨벳),빨간 맛 (Red Flavor)
+20180903,94,방탄소년단,Serendipity (Full Length Edition)
+20180903,95,새벽한시,IAM
+20180903,96,신화,Kiss Me Like That
+20180903,97,방탄소년단,DNA
+20180903,98,Shawn Mendes(션 멘데스),There's Nothing Holdin' Me Back
+20180903,99,벤,미워도 다시 한 번
+20180903,100,BLACKPINK,마지막처럼
+--------------------------------------------------
+20180904,1,NCT DREAM,We Go Up
+20180904,2,백지영,See You Again (Feat. 리처드 용재 오닐)
+20180904,3,10cm(십센치),매트리스
+20180904,4,(여자)아이들,한(一)
+20180904,5,숀(SHAUN),Way Back Home
+20180904,6,NCT DREAM,1, 2, 3
+20180904,7,NCT DREAM,너와 나 (Beautiful Time)
+20180904,8,NCT DREAM,Drippin’
+20180904,9,남우현,너만 괜찮다면
+20180904,10,NCT DREAM,Dear DREAM
+20180904,11,방탄소년단,IDOL
+20180904,12,Red Velvet (레드벨벳),Power Up
+20180904,13,로이킴,왜 몰랐을까
+20180904,14,폴킴(Paul Kim),모든 날, 모든 순간 (Every day, Every Moment)
+20180904,15,벤,열애중
+20180904,16,지코(Zico),SoulMate (Feat. 아이유)
+20180904,17,BLACKPINK,뚜두뚜두 (DDU-DU DDU-DU)
+20180904,18,마마무(Mamamoo),너나 해 (Egotistic)
+20180904,19,TWICE (트와이스),Dance The Night Away
+20180904,20,백현(BAEKHYUN),YOUNG
+20180904,21,폴킴(Paul Kim),비
+20180904,22,NCT DREAM,We Go Up (青春接力) (Chinese ver.)
+20180904,23,iKON,죽겠다 (KILLING ME)
+20180904,24,국.슈 (국프의 핫이슈),Rumor
+20180904,25,Apink (에이핑크),1도 없어
+20180904,26,BLACKPINK,Forever Young
+20180904,27,태연 (TAEYEON),Page 0
+20180904,28,볼빨간사춘기,여행
+20180904,29,승리,셋 셀테니 (1, 2, 3!)
+20180904,30,남우현,Second Write..
+20180904,31,남우현,사랑해
+20180904,32,남우현,You're My Lady
+20180904,33,멜로망스(MeloMance),동화
+20180904,34,양다일,미안해
+20180904,35,방탄소년단,I'm Fine
+20180904,36,청하,Love U
+20180904,37,방탄소년단,Euphoria
+20180904,38,닐로(Nil_O),지나오다
+20180904,39,남우현,I Swear (Feat. 동우 of INFINITE)
+20180904,40,남우현,Smile (Feat. 김정모 of TraxX)
+20180904,41,멜로망스(MeloMance),좋은 날
+20180904,42,남우현,같은자리
+20180904,43,방탄소년단,Answer : Love Myself
+20180904,44,(여자)아이들,LATATA
+20180904,45,Fitz & The Tantrums,Handclap
+20180904,46,로이킴,그때 헤어지면 돼
+20180904,47,기리보이,flex (Prod. By 기리보이)
+20180904,48,크러쉬(Crush),Cereal (Feat. ZICO)
+20180904,49,Charlie Puth(찰리 푸스),Done For Me
+20180904,50,비투비,너 없인 안 된다
+20180904,51,로꼬,주지마
+20180904,52,여자친구(GFRIEND),여름여름해 (Sunny Summer)
+20180904,53,박원,이방인
+20180904,54,모모랜드(MOMOLAND),BAAM
+20180904,55,이수현,소리
+20180904,56,기억 조작단,너에게 닿기를 (To reach you)
+20180904,57,PRODUCE 48,꿈을 꾸는 동안 (夢を見ている間) (Korean Ver.)
+20180904,58,오반 (OVAN),스무살이 왜이리 능글맞아 (Feat. 숀 (SHAUN))
+20180904,59,iKON,사랑을 했다 (LOVE SCENARIO)
+20180904,60,닐로(Nil_O),넋두리
+20180904,61,세븐틴(Seventeen),A-TEEN
+20180904,62,PRODUCE 48,반해버리잖아? (好きになっちゃうだろう？)
+20180904,63,Marshmello(마시멜로),FRIENDS
+20180904,64,아이유(IU),밤편지
+20180904,65,장덕철,그날처럼
+20180904,66,인피니트(Infinite),Tell Me
+20180904,67,다비치,마치 우린 없었던 사이 (Prod. 정키)
+20180904,68,Camila Cabello(카밀라 카베요),Havana (feat. Young Thug)
+20180904,69,여자친구(GFRIEND),밤 (Time for the moon night)
+20180904,70,Troye Sivan(트로이 시반),Youth
+20180904,71,먼데이 키즈(Monday Kiz),가을 안부
+20180904,72,헤이즈(HEIZE),비도 오고 그래서 (Feat. 신용재)
+20180904,73,Sia(시아),Chandelier
+20180904,74,방탄소년단,FAKE LOVE
+20180904,75,멜로망스(MeloMance),You
+20180904,76,청하,Roller Coaster
+20180904,77,10cm(십센치),폰서트
+20180904,78,HAON(김하온),붕붕 (Feat. 식케이) (Prod. GroovyRoom)
+20180904,79,Imagine Dragons(이매진 드래곤스),Thunder
+20180904,80,용준형,소나기 (Feat. 10cm)
+20180904,81,장덕철,지각
+20180904,82,Ed Sheeran(에드 시런),Shape Of You
+20180904,83,TWICE (트와이스),What is Love?
+20180904,84,마마무(Mamamoo),별이 빛나는 밤
+20180904,85,효린,BAE
+20180904,86,효린,바다보러갈래 (SEE SEA)
+20180904,87,DJ Khaled(디제이 칼리드),No Brainer (feat. Justin Bieber, Chance the Rapper & Quavo)
+20180904,88,볼빨간사춘기,Dejavu
+20180904,89,오반 (OVAN),불행 (Feat. 빈첸 (VINXEN))
+20180904,90,에이오에이(AOA),빙글뱅글 (Bingle Bangle)
+20180904,91,모모랜드(MOMOLAND),뿜뿜
+20180904,92,Red Velvet (레드벨벳),빨간 맛 (Red Flavor)
+20180904,93,방탄소년단,Epiphany
+20180904,94,멜로망스(MeloMance),선물
+20180904,95,BLACKPINK,마지막처럼
+20180904,96,PRODUCE 48,앞으로 잘 부탁해 (We Together)
+20180904,97,벤,미워도 다시 한 번
+20180904,98,폴킴(Paul Kim),휴가
+20180904,99,방탄소년단,Trivia 轉 : Seesaw
+20180904,100,우원재,시차 (We Are) (Feat. 로꼬 & GRAY)
+--------------------------------------------------
+20180905,1,선미,사이렌(Siren)
+20180905,2,백지영,See You Again (Feat. 리처드 용재 오닐)
+20180905,3,숀(SHAUN),Way Back Home
+20180905,4,(여자)아이들,한(一)
+20180905,5,박지민,April Fools (0401)
+20180905,6,방탄소년단,IDOL
+20180905,7,10cm(십센치),매트리스
+20180905,8,Red Velvet (레드벨벳),Power Up
+20180905,9,로이킴,왜 몰랐을까
+20180905,10,폴킴(Paul Kim),모든 날, 모든 순간 (Every day, Every Moment)
+20180905,11,TWICE (트와이스),Dance The Night Away
+20180905,12,NCT DREAM,We Go Up
+20180905,13,BLACKPINK,뚜두뚜두 (DDU-DU DDU-DU)
+20180905,14,벤,열애중
+20180905,15,지코(Zico),SoulMate (Feat. 아이유)
+20180905,16,마마무(Mamamoo),너나 해 (Egotistic)
+20180905,17,승리,셋 셀테니 (1, 2, 3!)
+20180905,18,선미,곡선
+20180905,19,백현(BAEKHYUN),YOUNG
+20180905,20,iKON,죽겠다 (KILLING ME)
+20180905,21,선미,Black Pearl
+20180905,22,BLACKPINK,Forever Young
+20180905,23,볼빨간사춘기,여행
+20180905,24,Apink (에이핑크),1도 없어
+20180905,25,국.슈 (국프의 핫이슈),Rumor
+20180905,26,방탄소년단,Euphoria
+20180905,27,방탄소년단,I'm Fine
+20180905,28,태연 (TAEYEON),Page 0
+20180905,29,청하,Love U
+20180905,30,닐로(Nil_O),지나오다
+20180905,31,폴킴(Paul Kim),비
+20180905,32,멜로망스(MeloMance),동화
+20180905,33,박지민,뭐니 (Feat. OLNL)
+20180905,34,멜로망스(MeloMance),좋은 날
+20180905,35,남우현,너만 괜찮다면
+20180905,36,양다일,미안해
+20180905,37,선미,ADDICT
+20180905,38,박원,이방인
+20180905,39,Charlie Puth(찰리 푸스),Done For Me
+20180905,40,로이킴,그때 헤어지면 돼
+20180905,41,기리보이,flex (Prod. By 기리보이)
+20180905,42,iKON,사랑을 했다 (LOVE SCENARIO)
+20180905,43,선미,비밀테이프
+20180905,44,비투비,너 없인 안 된다
+20180905,45,방탄소년단,Answer : Love Myself
+20180905,46,로꼬,주지마
+20180905,47,세븐틴(Seventeen),A-TEEN
+20180905,48,(여자)아이들,LATATA
+20180905,49,장덕철,그날처럼
+20180905,50,크러쉬(Crush),Cereal (Feat. ZICO)
+20180905,51,여자친구(GFRIEND),여름여름해 (Sunny Summer)
+20180905,52,아이유(IU),밤편지
+20180905,53,닐로(Nil_O),넋두리
+20180905,54,먼데이 키즈(Monday Kiz),가을 안부
+20180905,55,기억 조작단,너에게 닿기를 (To reach you)
+20180905,56,다비치,마치 우린 없었던 사이 (Prod. 정키)
+20180905,57,멜로망스(MeloMance),You
+20180905,58,여자친구(GFRIEND),밤 (Time for the moon night)
+20180905,59,Troye Sivan(트로이 시반),Youth
+20180905,60,TWICE (트와이스),What is Love?
+20180905,61,모모랜드(MOMOLAND),BAAM
+20180905,62,이수현,소리
+20180905,63,박지민,하나 빼기 둘
+20180905,64,10cm(십센치),폰서트
+20180905,65,창모(CHANGMO),BOY
+20180905,66,방탄소년단,FAKE LOVE
+20180905,67,Fitz & The Tantrums,Handclap
+20180905,68,Camila Cabello(카밀라 카베요),Havana (feat. Young Thug)
+20180905,69,Ed Sheeran(에드 시런),Shape Of You
+20180905,70,장덕철,지각
+20180905,71,박지민,전화받아 (Feat. 키노 (KINO), WOODZ, 네이슨 (NATHAN))
+20180905,72,박지민,별 (Prod. by LambC)
+20180905,73,모모랜드(MOMOLAND),뿜뿜
+20180905,74,SummerWish,1000%
+20180905,75,PRODUCE 48,반해버리잖아? (好きになっちゃうだろう？)
+20180905,76,Sia(시아),Chandelier
+20180905,77,폴킴(Paul Kim),휴가
+20180905,78,오반 (OVAN),불행 (Feat. 빈첸 (VINXEN))
+20180905,79,PRODUCE 48,꿈을 꾸는 동안 (夢を見ている間) (Korean Ver.)
+20180905,80,NCT DREAM,1, 2, 3
+20180905,81,멜로망스(MeloMance),선물
+20180905,82,오반 (OVAN),스무살이 왜이리 능글맞아 (Feat. 숀 (SHAUN))
+20180905,83,청하,Roller Coaster
+20180905,84,Marshmello(마시멜로),FRIENDS
+20180905,85,방탄소년단,Epiphany
+20180905,86,Imagine Dragons(이매진 드래곤스),Thunder
+20180905,87,HAON(김하온),붕붕 (Feat. 식케이) (Prod. GroovyRoom)
+20180905,88,효린,BAE
+20180905,89,헤이즈(HEIZE),비도 오고 그래서 (Feat. 신용재)
+20180905,90,마마무(Mamamoo),별이 빛나는 밤
+20180905,91,이수,My Way
+20180905,92,BLACKPINK,마지막처럼
+20180905,93,PRODUCE 48,앞으로 잘 부탁해 (We Together)
+20180905,94,NCT DREAM,Dear DREAM
+20180905,95,우원재,시차 (We Are) (Feat. 로꼬 & GRAY)
+20180905,96,용준형,소나기 (Feat. 10cm)
+20180905,97,볼빨간사춘기,Dejavu
+20180905,98,에일리(Ailee),첫눈처럼 너에게 가겠다
+20180905,99,BIGBANG,꽃 길
+20180905,100,NCT DREAM,Drippin’
+--------------------------------------------------
+20180906,1,소녀시대-Oh!GG,몰랐니 (Lil’ Touch)
+20180906,2,선미,사이렌(Siren)
+20180906,3,소녀시대-Oh!GG,쉼표 (Fermata)
+20180906,4,박지민,April Fools (0401)
+20180906,5,HAON(김하온),NOAH (Feat. 박재범, Hoody)
+20180906,6,(여자)아이들,한(一)
+20180906,7,숀(SHAUN),Way Back Home
+20180906,8,10cm(십센치),매트리스
+20180906,9,방탄소년단,IDOL
+20180906,10,백지영,See You Again (Feat. 리처드 용재 오닐)
+20180906,11,Red Velvet (레드벨벳),Power Up
+20180906,12,로이킴,왜 몰랐을까
+20180906,13,폴킴(Paul Kim),모든 날, 모든 순간 (Every day, Every Moment)
+20180906,14,BLACKPINK,뚜두뚜두 (DDU-DU DDU-DU)
+20180906,15,TWICE (트와이스),Dance The Night Away
+20180906,16,벤,열애중
+20180906,17,지코(Zico),SoulMate (Feat. 아이유)
+20180906,18,마마무(Mamamoo),너나 해 (Egotistic)
+20180906,19,백현(BAEKHYUN),YOUNG
+20180906,20,국.슈 (국프의 핫이슈),Rumor
+20180906,21,iKON,죽겠다 (KILLING ME)
+20180906,22,승리,셋 셀테니 (1, 2, 3!)
+20180906,23,태연 (TAEYEON),Page 0
+20180906,24,NCT DREAM,We Go Up
+20180906,25,BLACKPINK,Forever Young
+20180906,26,방탄소년단,Euphoria
+20180906,27,폴킴(Paul Kim),비
+20180906,28,볼빨간사춘기,여행
+20180906,29,멜로망스(MeloMance),동화
+20180906,30,닐로(Nil_O),지나오다
+20180906,31,방탄소년단,I'm Fine
+20180906,32,Apink (에이핑크),1도 없어
+20180906,33,청하,Love U
+20180906,34,선미,Black Pearl
+20180906,35,양다일,미안해
+20180906,36,(여자)아이들,LATATA
+20180906,37,기리보이,flex (Prod. By 기리보이)
+20180906,38,Charlie Puth(찰리 푸스),Done For Me
+20180906,39,멜로망스(MeloMance),좋은 날
+20180906,40,로이킴,그때 헤어지면 돼
+20180906,41,로꼬,주지마
+20180906,42,iKON,사랑을 했다 (LOVE SCENARIO)
+20180906,43,PRODUCE 48,반해버리잖아? (好きになっちゃうだろう？)
+20180906,44,여자친구(GFRIEND),여름여름해 (Sunny Summer)
+20180906,45,아이유(IU),밤편지
+20180906,46,기억 조작단,너에게 닿기를 (To reach you)
+20180906,47,모모랜드(MOMOLAND),BAAM
+20180906,48,선미,곡선
+20180906,49,세븐틴(Seventeen),A-TEEN
+20180906,50,Fitz & The Tantrums,Handclap
+20180906,51,비투비,너 없인 안 된다
+20180906,52,크러쉬(Crush),Cereal (Feat. ZICO)
+20180906,53,PRODUCE 48,꿈을 꾸는 동안 (夢を見ている間) (Korean Ver.)
+20180906,54,다비치,마치 우린 없었던 사이 (Prod. 정키)
+20180906,55,HAON(김하온),NYLON (Feat. pH-1)
+20180906,56,방탄소년단,Answer : Love Myself
+20180906,57,PRODUCE 48,앞으로 잘 부탁해 (We Together)
+20180906,58,오반 (OVAN),스무살이 왜이리 능글맞아 (Feat. 숀 (SHAUN))
+20180906,59,여자친구(GFRIEND),밤 (Time for the moon night)
+20180906,60,방탄소년단,Epiphany
+20180906,61,10cm(십센치),폰서트
+20180906,62,방탄소년단,FAKE LOVE
+20180906,63,이수현,소리
+20180906,64,먼데이 키즈(Monday Kiz),가을 안부
+20180906,65,멜로망스(MeloMance),You
+20180906,66,Imagine Dragons(이매진 드래곤스),Thunder
+20180906,67,용준형,소나기 (Feat. 10cm)
+20180906,68,Troye Sivan(트로이 시반),Youth
+20180906,69,HAON(김하온),붕붕 (Feat. 식케이) (Prod. GroovyRoom)
+20180906,70,Camila Cabello(카밀라 카베요),Havana (feat. Young Thug)
+20180906,71,Ed Sheeran(에드 시런),Shape Of You
+20180906,72,볼빨간사춘기,Dejavu
+20180906,73,청하,Roller Coaster
+20180906,74,박원,이방인
+20180906,75,러브포션,Rollin' Rollin'
+20180906,76,Sia(시아),Chandelier
+20180906,77,멜로망스(MeloMance),선물
+20180906,78,닐로(Nil_O),넋두리
+20180906,79,TWICE (트와이스),What is Love?
+20180906,80,효린,BAE
+20180906,81,장덕철,그날처럼
+20180906,82,모모랜드(MOMOLAND),뿜뿜
+20180906,83,에이오에이(AOA),빙글뱅글 (Bingle Bangle)
+20180906,84,장덕철,지각
+20180906,85,이수,My Way
+20180906,86,박지민,뭐니 (Feat. OLNL)
+20180906,87,선미,ADDICT
+20180906,88,Marshmello(마시멜로),FRIENDS
+20180906,89,방탄소년단,DNA
+20180906,90,마마무(Mamamoo),별이 빛나는 밤
+20180906,91,오반 (OVAN),불행 (Feat. 빈첸 (VINXEN))
+20180906,92,우원재,시차 (We Are) (Feat. 로꼬 & GRAY)
+20180906,93,DJ Khaled(디제이 칼리드),No Brainer (feat. Justin Bieber, Chance the Rapper & Quavo)
+20180906,94,헤이즈(HEIZE),비도 오고 그래서 (Feat. 신용재)
+20180906,95,SummerWish,1000%
+20180906,96,폴킴(Paul Kim),휴가
+20180906,97,BLACKPINK,마지막처럼
+20180906,98,효린,바다보러갈래 (SEE SEA)
+20180906,99,에일리(Ailee),첫눈처럼 너에게 가겠다
+20180906,100,Shawn Mendes(션 멘데스),There's Nothing Holdin' Me Back
+--------------------------------------------------
+20180907,1,선미,사이렌(Siren)
+20180907,2,소녀시대-Oh!GG,몰랐니 (Lil’ Touch)
+20180907,3,HAON(김하온),NOAH (Feat. 박재범, Hoody)
+20180907,4,숀(SHAUN),Way Back Home
+20180907,5,(여자)아이들,한(一)
+20180907,6,육성재,고백 (영화 ‘늑대의 유혹’ 주제곡)
+20180907,7,박지민,April Fools (0401)
+20180907,8,10cm(십센치),매트리스
+20180907,9,방탄소년단,IDOL
+20180907,10,Red Velvet (레드벨벳),Power Up
+20180907,11,SG워너비,만나자
+20180907,12,로이킴,왜 몰랐을까
+20180907,13,백지영,See You Again (Feat. 리처드 용재 오닐)
+20180907,14,TWICE (트와이스),Dance The Night Away
+20180907,15,폴킴(Paul Kim),모든 날, 모든 순간 (Every day, Every Moment)
+20180907,16,BLACKPINK,뚜두뚜두 (DDU-DU DDU-DU)
+20180907,17,벤,열애중
+20180907,18,지코(Zico),SoulMate (Feat. 아이유)
+20180907,19,마마무(Mamamoo),너나 해 (Egotistic)
+20180907,20,승리,셋 셀테니 (1, 2, 3!)
+20180907,21,소녀시대-Oh!GG,쉼표 (Fermata)
+20180907,22,iKON,죽겠다 (KILLING ME)
+20180907,23,방탄소년단,Euphoria
+20180907,24,Apink (에이핑크),1도 없어
+20180907,25,BLACKPINK,Forever Young
+20180907,26,백현(BAEKHYUN),YOUNG
+20180907,27,청하,Love U
+20180907,28,SG워너비,너와 내 이름
+20180907,29,폴킴(Paul Kim),비
+20180907,30,닐로(Nil_O),지나오다
+20180907,31,볼빨간사춘기,여행
+20180907,32,태연 (TAEYEON),Page 0
+20180907,33,방탄소년단,I'm Fine
+20180907,34,국.슈 (국프의 핫이슈),Rumor
+20180907,35,멜로망스(MeloMance),동화
+20180907,36,NCT DREAM,We Go Up
+20180907,37,양다일,미안해
+20180907,38,SG워너비,우리의 노래
+20180907,39,기리보이,flex (Prod. By 기리보이)
+20180907,40,로이킴,그때 헤어지면 돼
+20180907,41,비투비,너 없인 안 된다
+20180907,42,Charlie Puth(찰리 푸스),Done For Me
+20180907,43,멜로망스(MeloMance),좋은 날
+20180907,44,아이유(IU),밤편지
+20180907,45,방탄소년단,Answer : Love Myself
+20180907,46,로꼬,주지마
+20180907,47,크러쉬(Crush),Cereal (Feat. ZICO)
+20180907,48,(여자)아이들,LATATA
+20180907,49,방탄소년단,FAKE LOVE
+20180907,50,iKON,사랑을 했다 (LOVE SCENARIO)
+20180907,51,멜로망스(MeloMance),You
+20180907,52,Camila Cabello(카밀라 카베요),Havana (feat. Young Thug)
+20180907,53,모모랜드(MOMOLAND),BAAM
+20180907,54,세븐틴(Seventeen),A-TEEN
+20180907,55,효린,BAE
+20180907,56,먼데이 키즈(Monday Kiz),가을 안부
+20180907,57,Ed Sheeran(에드 시런),Shape Of You
+20180907,58,멜로망스(MeloMance),선물
+20180907,59,10cm(십센치),폰서트
+20180907,60,다비치,마치 우린 없었던 사이 (Prod. 정키)
+20180907,61,PRODUCE 48,반해버리잖아? (好きになっちゃうだろう？)
+20180907,62,박원,이방인
+20180907,63,기억 조작단,너에게 닿기를 (To reach you)
+20180907,64,이수현,소리
+20180907,65,Fitz & The Tantrums,Handclap
+20180907,66,Imagine Dragons(이매진 드래곤스),Thunder
+20180907,67,청하,Roller Coaster
+20180907,68,여자친구(GFRIEND),밤 (Time for the moon night)
+20180907,69,여자친구(GFRIEND),여름여름해 (Sunny Summer)
+20180907,70,헤이즈(HEIZE),비도 오고 그래서 (Feat. 신용재)
+20180907,71,선미,Black Pearl
+20180907,72,닐로(Nil_O),넋두리
+20180907,73,Troye Sivan(트로이 시반),Youth
+20180907,74,볼빨간사춘기,Dejavu
+20180907,75,오반 (OVAN),스무살이 왜이리 능글맞아 (Feat. 숀 (SHAUN))
+20180907,76,러브포션,Rollin' Rollin'
+20180907,77,TWICE (트와이스),What is Love?
+20180907,78,HAON(김하온),NYLON (Feat. pH-1)
+20180907,79,장덕철,지각
+20180907,80,Sia(시아),Chandelier
+20180907,81,방탄소년단,Epiphany
+20180907,82,Marshmello(마시멜로),FRIENDS
+20180907,83,선미,곡선
+20180907,84,장덕철,그날처럼
+20180907,85,이수,My Way
+20180907,86,모모랜드(MOMOLAND),뿜뿜
+20180907,87,오반 (OVAN),불행 (Feat. 빈첸 (VINXEN))
+20180907,88,BLACKPINK,마지막처럼
+20180907,89,마마무(Mamamoo),별이 빛나는 밤
+20180907,90,우원재,시차 (We Are) (Feat. 로꼬 & GRAY)
+20180907,91,용준형,소나기 (Feat. 10cm)
+20180907,92,HAON(김하온),붕붕 (Feat. 식케이) (Prod. GroovyRoom)
+20180907,93,Red Velvet (레드벨벳),빨간 맛 (Red Flavor)
+20180907,94,PRODUCE 48,꿈을 꾸는 동안 (夢を見ている間) (Korean Ver.)
+20180907,95,에일리(Ailee),첫눈처럼 너에게 가겠다
+20180907,96,방탄소년단,DNA
+20180907,97,폴킴(Paul Kim),휴가
+20180907,98,에이오에이(AOA),빙글뱅글 (Bingle Bangle)
+20180907,99,신화,Kiss Me Like That
+20180907,100,DJ Khaled(디제이 칼리드),No Brainer (feat. Justin Bieber, Chance the Rapper & Quavo)
+--------------------------------------------------
+20180908,1,선미,사이렌(Siren)
+20180908,2,HAON(김하온),NOAH (Feat. 박재범, Hoody)
+20180908,3,소녀시대-Oh!GG,몰랐니 (Lil’ Touch)
+20180908,4,(여자)아이들,한(一)
+20180908,5,숀(SHAUN),Way Back Home
+20180908,6,방탄소년단,IDOL
+20180908,7,10cm(십센치),매트리스
+20180908,8,Red Velvet (레드벨벳),Power Up
+20180908,9,박지민,April Fools (0401)
+20180908,10,폴킴(Paul Kim),모든 날, 모든 순간 (Every day, Every Moment)
+20180908,11,로이킴,왜 몰랐을까
+20180908,12,스탠딩 에그(Standing Egg),사랑에 아파본 적 있나요
+20180908,13,TWICE (트와이스),Dance The Night Away
+20180908,14,백지영,See You Again (Feat. 리처드 용재 오닐)
+20180908,15,벤,열애중
+20180908,16,BLACKPINK,뚜두뚜두 (DDU-DU DDU-DU)
+20180908,17,마마무(Mamamoo),너나 해 (Egotistic)
+20180908,18,지코(Zico),SoulMate (Feat. 아이유)
+20180908,19,승리,셋 셀테니 (1, 2, 3!)
+20180908,20,BLACKPINK,Forever Young
+20180908,21,태연 (TAEYEON),Page 0
+20180908,22,Apink (에이핑크),1도 없어
+20180908,23,육성재,고백 (영화 ‘늑대의 유혹’ 주제곡)
+20180908,24,iKON,죽겠다 (KILLING ME)
+20180908,25,청하,Love U
+20180908,26,닐로(Nil_O),지나오다
+20180908,27,방탄소년단,Euphoria
+20180908,28,볼빨간사춘기,여행
+20180908,29,백현(BAEKHYUN),YOUNG
+20180908,30,방탄소년단,I'm Fine
+20180908,31,멜로망스(MeloMance),동화
+20180908,32,폴킴(Paul Kim),비
+20180908,33,국.슈 (국프의 핫이슈),Rumor
+20180908,34,양다일,미안해
+20180908,35,로이킴,그때 헤어지면 돼
+20180908,36,기리보이,flex (Prod. By 기리보이)
+20180908,37,(여자)아이들,LATATA
+20180908,38,소녀시대-Oh!GG,쉼표 (Fermata)
+20180908,39,Charlie Puth(찰리 푸스),Done For Me
+20180908,40,Fitz & The Tantrums,Handclap
+20180908,41,비투비,너 없인 안 된다
+20180908,42,멜로망스(MeloMance),좋은 날
+20180908,43,로꼬,주지마
+20180908,44,멜로망스(MeloMance),You
+20180908,45,크러쉬(Crush),Cereal (Feat. ZICO)
+20180908,46,세븐틴(Seventeen),A-TEEN
+20180908,47,모모랜드(MOMOLAND),BAAM
+20180908,48,Camila Cabello(카밀라 카베요),Havana (feat. Young Thug)
+20180908,49,Ed Sheeran(에드 시런),Shape Of You
+20180908,50,다비치,마치 우린 없었던 사이 (Prod. 정키)
+20180908,51,아이유(IU),밤편지
+20180908,52,방탄소년단,FAKE LOVE
+20180908,53,여자친구(GFRIEND),여름여름해 (Sunny Summer)
+20180908,54,멜로망스(MeloMance),선물
+20180908,55,방탄소년단,Answer : Love Myself
+20180908,56,iKON,사랑을 했다 (LOVE SCENARIO)
+20180908,57,먼데이 키즈(Monday Kiz),가을 안부
+20180908,58,장덕철,그날처럼
+20180908,59,TWICE (트와이스),What is Love?
+20180908,60,Imagine Dragons(이매진 드래곤스),Thunder
+20180908,61,Red Velvet (레드벨벳),빨간 맛 (Red Flavor)
+20180908,62,NCT DREAM,We Go Up
+20180908,63,여자친구(GFRIEND),밤 (Time for the moon night)
+20180908,64,마마무(Mamamoo),별이 빛나는 밤
+20180908,65,기억 조작단,너에게 닿기를 (To reach you)
+20180908,66,청하,Roller Coaster
+20180908,67,닐로(Nil_O),넋두리
+20180908,68,Troye Sivan(트로이 시반),Youth
+20180908,69,효린,바다보러갈래 (SEE SEA)
+20180908,70,모모랜드(MOMOLAND),뿜뿜
+20180908,71,HAON(김하온),붕붕 (Feat. 식케이) (Prod. GroovyRoom)
+20180908,72,SG워너비,만나자
+20180908,73,이수현,소리
+20180908,74,오반 (OVAN),스무살이 왜이리 능글맞아 (Feat. 숀 (SHAUN))
+20180908,75,10cm(십센치),폰서트
+20180908,76,BLACKPINK,마지막처럼
+20180908,77,볼빨간사춘기,Dejavu
+20180908,78,헤이즈(HEIZE),비도 오고 그래서 (Feat. 신용재)
+20180908,79,방탄소년단,Epiphany
+20180908,80,이수,My Way
+20180908,81,박원,이방인
+20180908,82,Sia(시아),Chandelier
+20180908,83,우원재,시차 (We Are) (Feat. 로꼬 & GRAY)
+20180908,84,방탄소년단,DNA
+20180908,85,효린,BAE
+20180908,86,용준형,소나기 (Feat. 10cm)
+20180908,87,장덕철,지각
+20180908,88,오반 (OVAN),불행 (Feat. 빈첸 (VINXEN))
+20180908,89,폴킴(Paul Kim),휴가
+20180908,90,SummerWish,1000%
+20180908,91,Shawn Mendes(션 멘데스),There's Nothing Holdin' Me Back
+20180908,92,에이오에이(AOA),빙글뱅글 (Bingle Bangle)
+20180908,93,DJ Khaled(디제이 칼리드),No Brainer (feat. Justin Bieber, Chance the Rapper & Quavo)
+20180908,94,Marshmello(마시멜로),FRIENDS
+20180908,95,에일리(Ailee),첫눈처럼 너에게 가겠다
+20180908,96,러브포션,Rollin' Rollin'
+20180908,97,선미,Black Pearl
+20180908,98,PRODUCE 48,반해버리잖아? (好きになっちゃうだろう？)
+20180908,99,PRODUCE 48,꿈을 꾸는 동안 (夢を見ている間) (Korean Ver.)
+20180908,100,PRODUCE 48,앞으로 잘 부탁해 (We Together)
+--------------------------------------------------
+20180909,1,선미,사이렌(Siren)
+20180909,2,HAON(김하온),NOAH (Feat. 박재범, Hoody)
+20180909,3,소녀시대-Oh!GG,몰랐니 (Lil’ Touch)
+20180909,4,스탠딩 에그(Standing Egg),사랑에 아파본 적 있나요
+20180909,5,숀(SHAUN),Way Back Home
+20180909,6,(여자)아이들,한(一)
+20180909,7,10cm(십센치),매트리스
+20180909,8,방탄소년단,IDOL
+20180909,9,Red Velvet (레드벨벳),Power Up
+20180909,10,박지민,April Fools (0401)
+20180909,11,폴킴(Paul Kim),모든 날, 모든 순간 (Every day, Every Moment)
+20180909,12,로이킴,왜 몰랐을까
+20180909,13,BLACKPINK,뚜두뚜두 (DDU-DU DDU-DU)
+20180909,14,TWICE (트와이스),Dance The Night Away
+20180909,15,벤,열애중
+20180909,16,마마무(Mamamoo),너나 해 (Egotistic)
+20180909,17,백지영,See You Again (Feat. 리처드 용재 오닐)
+20180909,18,승리,셋 셀테니 (1, 2, 3!)
+20180909,19,지코(Zico),SoulMate (Feat. 아이유)
+20180909,20,iKON,죽겠다 (KILLING ME)
+20180909,21,Apink (에이핑크),1도 없어
+20180909,22,청하,Love U
+20180909,23,볼빨간사춘기,여행
+20180909,24,태연 (TAEYEON),Page 0
+20180909,25,기리보이,flex (Prod. By 기리보이)
+20180909,26,BLACKPINK,Forever Young
+20180909,27,방탄소년단,I'm Fine
+20180909,28,국.슈 (국프의 핫이슈),Rumor
+20180909,29,닐로(Nil_O),지나오다
+20180909,30,방탄소년단,Euphoria
+20180909,31,멜로망스(MeloMance),동화
+20180909,32,육성재,고백 (영화 ‘늑대의 유혹’ 주제곡)
+20180909,33,양다일,미안해
+20180909,34,폴킴(Paul Kim),비
+20180909,35,백현(BAEKHYUN),YOUNG
+20180909,36,로꼬,주지마
+20180909,37,아이유(IU),밤편지
+20180909,38,Charlie Puth(찰리 푸스),Done For Me
+20180909,39,방탄소년단,FAKE LOVE
+20180909,40,로이킴,그때 헤어지면 돼
+20180909,41,iKON,사랑을 했다 (LOVE SCENARIO)
+20180909,42,Fitz & The Tantrums,Handclap
+20180909,43,멜로망스(MeloMance),좋은 날
+20180909,44,(여자)아이들,LATATA
+20180909,45,비투비,너 없인 안 된다
+20180909,46,모모랜드(MOMOLAND),BAAM
+20180909,47,Imagine Dragons(이매진 드래곤스),Thunder
+20180909,48,멜로망스(MeloMance),선물
+20180909,49,Camila Cabello(카밀라 카베요),Havana (feat. Young Thug)
+20180909,50,HAON(김하온),붕붕 (Feat. 식케이) (Prod. GroovyRoom)
+20180909,51,장덕철,그날처럼
+20180909,52,크러쉬(Crush),Cereal (Feat. ZICO)
+20180909,53,여자친구(GFRIEND),밤 (Time for the moon night)
+20180909,54,10cm(십센치),폰서트
+20180909,55,멜로망스(MeloMance),You
+20180909,56,세븐틴(Seventeen),A-TEEN
+20180909,57,소녀시대-Oh!GG,쉼표 (Fermata)
+20180909,58,닐로(Nil_O),넋두리
+20180909,59,NCT DREAM,We Go Up
+20180909,60,Troye Sivan(트로이 시반),Youth
+20180909,61,방탄소년단,Answer : Love Myself
+20180909,62,헤이즈(HEIZE),비도 오고 그래서 (Feat. 신용재)
+20180909,63,여자친구(GFRIEND),여름여름해 (Sunny Summer)
+20180909,64,Ed Sheeran(에드 시런),Shape Of You
+20180909,65,박원,이방인
+20180909,66,청하,Roller Coaster
+20180909,67,SG워너비,만나자
+20180909,68,다비치,마치 우린 없었던 사이 (Prod. 정키)
+20180909,69,BLACKPINK,마지막처럼
+20180909,70,Marshmello(마시멜로),FRIENDS
+20180909,71,오반 (OVAN),스무살이 왜이리 능글맞아 (Feat. 숀 (SHAUN))
+20180909,72,기억 조작단,너에게 닿기를 (To reach you)
+20180909,73,이수,My Way
+20180909,74,먼데이 키즈(Monday Kiz),가을 안부
+20180909,75,TWICE (트와이스),What is Love?
+20180909,76,우원재,시차 (We Are) (Feat. 로꼬 & GRAY)
+20180909,77,모모랜드(MOMOLAND),뿜뿜
+20180909,78,용준형,소나기 (Feat. 10cm)
+20180909,79,Sia(시아),Chandelier
+20180909,80,에이오에이(AOA),빙글뱅글 (Bingle Bangle)
+20180909,81,마마무(Mamamoo),별이 빛나는 밤
+20180909,82,장덕철,지각
+20180909,83,방탄소년단,DNA
+20180909,84,오반 (OVAN),불행 (Feat. 빈첸 (VINXEN))
+20180909,85,방탄소년단,Epiphany
+20180909,86,이수현,소리
+20180909,87,Shawn Mendes(션 멘데스),There's Nothing Holdin' Me Back
+20180909,88,효린,바다보러갈래 (SEE SEA)
+20180909,89,효린,BAE
+20180909,90,폴킴(Paul Kim),휴가
+20180909,91,러브포션,Rollin' Rollin'
+20180909,92,볼빨간사춘기,Dejavu
+20180909,93,에일리(Ailee),첫눈처럼 너에게 가겠다
+20180909,94,PRODUCE 48,꿈을 꾸는 동안 (夢を見ている間) (Korean Ver.)
+20180909,95,DJ Khaled(디제이 칼리드),No Brainer (feat. Justin Bieber, Chance the Rapper & Quavo)
+20180909,96,Red Velvet (레드벨벳),빨간 맛 (Red Flavor)
+20180909,97,박효신,그 날 (Original Ver.)
+20180909,98,SummerWish,1000%
+20180909,99,PRODUCE 48,반해버리잖아? (好きになっちゃうだろう？)
+20180909,100,방탄소년단,Trivia 轉 : Seesaw
+--------------------------------------------------
+20180910,1,선미,사이렌(Siren)
+20180910,2,스탠딩 에그(Standing Egg),사랑에 아파본 적 있나요
+20180910,3,HAON(김하온),NOAH (Feat. 박재범, Hoody)
+20180910,4,소녀시대-Oh!GG,몰랐니 (Lil’ Touch)
+20180910,5,숀(SHAUN),Way Back Home
+20180910,6,10cm(십센치),매트리스
+20180910,7,(여자)아이들,한(一)
+20180910,8,Red Velvet (레드벨벳),Power Up
+20180910,9,방탄소년단,IDOL
+20180910,10,로이킴,왜 몰랐을까
+20180910,11,박지민,April Fools (0401)
+20180910,12,폴킴(Paul Kim),모든 날, 모든 순간 (Every day, Every Moment)
+20180910,13,TWICE (트와이스),Dance The Night Away
+20180910,14,벤,열애중
+20180910,15,BLACKPINK,뚜두뚜두 (DDU-DU DDU-DU)
+20180910,16,마마무(Mamamoo),너나 해 (Egotistic)
+20180910,17,백지영,See You Again (Feat. 리처드 용재 오닐)
+20180910,18,신승훈,불꽃처럼 아름답게
+20180910,19,지코(Zico),SoulMate (Feat. 아이유)
+20180910,20,승리,셋 셀테니 (1, 2, 3!)
+20180910,21,Apink (에이핑크),1도 없어
+20180910,22,볼빨간사춘기,여행
+20180910,23,BLACKPINK,Forever Young
+20180910,24,iKON,죽겠다 (KILLING ME)
+20180910,25,닐로(Nil_O),지나오다
+20180910,26,기리보이,flex (Prod. By 기리보이)
+20180910,27,태연 (TAEYEON),Page 0
+20180910,28,방탄소년단,I'm Fine
+20180910,29,방탄소년단,Euphoria
+20180910,30,폴킴(Paul Kim),비
+20180910,31,청하,Love U
+20180910,32,멜로망스(MeloMance),좋은 날
+20180910,33,멜로망스(MeloMance),동화
+20180910,34,백현(BAEKHYUN),YOUNG
+20180910,35,국.슈 (국프의 핫이슈),Rumor
+20180910,36,양다일,미안해
+20180910,37,로이킴,그때 헤어지면 돼
+20180910,38,이수현,소리
+20180910,39,아이유(IU),밤편지
+20180910,40,Charlie Puth(찰리 푸스),Done For Me
+20180910,41,(여자)아이들,LATATA
+20180910,42,로꼬,주지마
+20180910,43,육성재,고백 (영화 ‘늑대의 유혹’ 주제곡)
+20180910,44,비투비,너 없인 안 된다
+20180910,45,박원,이방인
+20180910,46,여자친구(GFRIEND),여름여름해 (Sunny Summer)
+20180910,47,에일리(Ailee),첫눈처럼 너에게 가겠다
+20180910,48,NCT DREAM,We Go Up
+20180910,49,장덕철,그날처럼
+20180910,50,소녀시대-Oh!GG,쉼표 (Fermata)
+20180910,51,크러쉬(Crush),Cereal (Feat. ZICO)
+20180910,52,모모랜드(MOMOLAND),BAAM
+20180910,53,Troye Sivan(트로이 시반),Youth
+20180910,54,방탄소년단,FAKE LOVE
+20180910,55,세븐틴(Seventeen),A-TEEN
+20180910,56,닐로(Nil_O),넋두리
+20180910,57,여자친구(GFRIEND),밤 (Time for the moon night)
+20180910,58,iKON,사랑을 했다 (LOVE SCENARIO)
+20180910,59,멜로망스(MeloMance),You
+20180910,60,멜로망스(MeloMance),선물
+20180910,61,다비치,마치 우린 없었던 사이 (Prod. 정키)
+20180910,62,Camila Cabello(카밀라 카베요),Havana (feat. Young Thug)
+20180910,63,HAON(김하온),붕붕 (Feat. 식케이) (Prod. GroovyRoom)
+20180910,64,Fitz & The Tantrums,Handclap
+20180910,65,Imagine Dragons(이매진 드래곤스),Thunder
+20180910,66,TWICE (트와이스),What is Love?
+20180910,67,방탄소년단,Answer : Love Myself
+20180910,68,용준형,소나기 (Feat. 10cm)
+20180910,69,10cm(십센치),폰서트
+20180910,70,마마무(Mamamoo),별이 빛나는 밤
+20180910,71,먼데이 키즈(Monday Kiz),가을 안부
+20180910,72,Ed Sheeran(에드 시런),Shape Of You
+20180910,73,기억 조작단,너에게 닿기를 (To reach you)
+20180910,74,오반 (OVAN),스무살이 왜이리 능글맞아 (Feat. 숀 (SHAUN))
+20180910,75,Sia(시아),Chandelier
+20180910,76,청하,Roller Coaster
+20180910,77,이수,My Way
+20180910,78,방탄소년단,DNA
+20180910,79,방탄소년단,Epiphany
+20180910,80,헤이즈(HEIZE),비도 오고 그래서 (Feat. 신용재)
+20180910,81,우원재,시차 (We Are) (Feat. 로꼬 & GRAY)
+20180910,82,장덕철,지각
+20180910,83,Marshmello(마시멜로),FRIENDS
+20180910,84,모모랜드(MOMOLAND),뿜뿜
+20180910,85,박효신,그 날 (Original Ver.)
+20180910,86,오반 (OVAN),불행 (Feat. 빈첸 (VINXEN))
+20180910,87,BLACKPINK,마지막처럼
+20180910,88,DJ Khaled(디제이 칼리드),No Brainer (feat. Justin Bieber, Chance the Rapper & Quavo)
+20180910,89,폴킴(Paul Kim),휴가
+20180910,90,볼빨간사춘기,Dejavu
+20180910,91,Red Velvet (레드벨벳),빨간 맛 (Red Flavor)
+20180910,92,저스디스(JUSTHIS),IndiGO
+20180910,93,Shawn Mendes(션 멘데스),There's Nothing Holdin' Me Back
+20180910,94,선미,Black Pearl
+20180910,95,SG워너비,만나자
+20180910,96,효린,BAE
+20180910,97,러브포션,Rollin' Rollin'
+20180910,98,SummerWish,1000%
+20180910,99,에이오에이(AOA),빙글뱅글 (Bingle Bangle)
+20180910,100,PRODUCE 48,반해버리잖아? (好きになっちゃうだろう？)
+--------------------------------------------------
+20180911,1,오마이걸(OH MY GIRL),불꽃놀이 (Remember Me)
+20180911,2,선미,사이렌(Siren)
+20180911,3,HAON(김하온),NOAH (Feat. 박재범, Hoody)
+20180911,4,소녀시대-Oh!GG,몰랐니 (Lil’ Touch)
+20180911,5,스탠딩 에그(Standing Egg),사랑에 아파본 적 있나요
+20180911,6,SHINee (샤이니),셀 수 없는 (Countless)
+20180911,7,박재범(Jay Park),V
+20180911,8,숀(SHAUN),Way Back Home
+20180911,9,(여자)아이들,한(一)
+20180911,10,10cm(십센치),매트리스
+20180911,11,방탄소년단,IDOL
+20180911,12,폴킴(Paul Kim),모든 날, 모든 순간 (Every day, Every Moment)
+20180911,13,Red Velvet (레드벨벳),Power Up
+20180911,14,로이킴,왜 몰랐을까
+20180911,15,박지민,April Fools (0401)
+20180911,16,BLACKPINK,뚜두뚜두 (DDU-DU DDU-DU)
+20180911,17,TWICE (트와이스),Dance The Night Away
+20180911,18,벤,열애중
+20180911,19,DAY6 (데이식스),Beautiful Feeling
+20180911,20,백지영,See You Again (Feat. 리처드 용재 오닐)
+20180911,21,지코(Zico),SoulMate (Feat. 아이유)
+20180911,22,마마무(Mamamoo),너나 해 (Egotistic)
+20180911,23,박재범(Jay Park),Dank
+20180911,24,승리,셋 셀테니 (1, 2, 3!)
+20180911,25,iKON,죽겠다 (KILLING ME)
+20180911,26,방탄소년단,I'm Fine
+20180911,27,닐로(Nil_O),지나오다
+20180911,28,Apink (에이핑크),1도 없어
+20180911,29,오마이걸(OH MY GIRL),메아리
+20180911,30,태연 (TAEYEON),Page 0
+20180911,31,폴킴(Paul Kim),비
+20180911,32,볼빨간사춘기,여행
+20180911,33,BLACKPINK,Forever Young
+20180911,34,기리보이,flex (Prod. By 기리보이)
+20180911,35,오마이걸(OH MY GIRL),Twilight
+20180911,36,청하,Love U
+20180911,37,방탄소년단,Euphoria
+20180911,38,멜로망스(MeloMance),동화
+20180911,39,백현(BAEKHYUN),YOUNG
+20180911,40,양다일,미안해
+20180911,41,오마이걸(OH MY GIRL),Illusion
+20180911,42,멜로망스(MeloMance),좋은 날
+20180911,43,아이유(IU),밤편지
+20180911,44,국.슈 (국프의 핫이슈),Rumor
+20180911,45,Charlie Puth(찰리 푸스),Done For Me
+20180911,46,(여자)아이들,LATATA
+20180911,47,육성재,고백 (영화 ‘늑대의 유혹’ 주제곡)
+20180911,48,NCT DREAM,We Go Up
+20180911,49,비투비,너 없인 안 된다
+20180911,50,로이킴,그때 헤어지면 돼
+20180911,51,오마이걸(OH MY GIRL),우리 이야기
+20180911,52,방탄소년단,Epiphany
+20180911,53,세븐틴(Seventeen),A-TEEN
+20180911,54,소녀시대-Oh!GG,쉼표 (Fermata)
+20180911,55,여자친구(GFRIEND),밤 (Time for the moon night)
+20180911,56,iKON,사랑을 했다 (LOVE SCENARIO)
+20180911,57,HAON(김하온),붕붕 (Feat. 식케이) (Prod. GroovyRoom)
+20180911,58,닐로(Nil_O),넋두리
+20180911,59,멜로망스(MeloMance),선물
+20180911,60,다비치,마치 우린 없었던 사이 (Prod. 정키)
+20180911,61,로꼬,주지마
+20180911,62,여자친구(GFRIEND),여름여름해 (Sunny Summer)
+20180911,63,펜타곤,청개구리
+20180911,64,방탄소년단,FAKE LOVE
+20180911,65,방탄소년단,Answer : Love Myself
+20180911,66,멜로망스(MeloMance),You
+20180911,67,신승훈,불꽃처럼 아름답게
+20180911,68,이수현,소리
+20180911,69,청하,Roller Coaster
+20180911,70,용준형,소나기 (Feat. 10cm)
+20180911,71,장덕철,그날처럼
+20180911,72,장덕철,지각
+20180911,73,Troye Sivan(트로이 시반),Youth
+20180911,74,크러쉬(Crush),Cereal (Feat. ZICO)
+20180911,75,TWICE (트와이스),What is Love?
+20180911,76,Camila Cabello(카밀라 카베요),Havana (feat. Young Thug)
+20180911,77,박원,이방인
+20180911,78,우원재,시차 (We Are) (Feat. 로꼬 & GRAY)
+20180911,79,마마무(Mamamoo),별이 빛나는 밤
+20180911,80,모모랜드(MOMOLAND),BAAM
+20180911,81,오반 (OVAN),불행 (Feat. 빈첸 (VINXEN))
+20180911,82,먼데이 키즈(Monday Kiz),가을 안부
+20180911,83,헤이즈(HEIZE),비도 오고 그래서 (Feat. 신용재)
+20180911,84,오반 (OVAN),스무살이 왜이리 능글맞아 (Feat. 숀 (SHAUN))
+20180911,85,Sia(시아),Chandelier
+20180911,86,Fitz & The Tantrums,Handclap
+20180911,87,Ed Sheeran(에드 시런),Shape Of You
+20180911,88,Imagine Dragons(이매진 드래곤스),Thunder
+20180911,89,모모랜드(MOMOLAND),뿜뿜
+20180911,90,에일리(Ailee),첫눈처럼 너에게 가겠다
+20180911,91,10cm(십센치),폰서트
+20180911,92,BLACKPINK,마지막처럼
+20180911,93,이수,My Way
+20180911,94,방탄소년단,DNA
+20180911,95,SG워너비,만나자
+20180911,96,기억 조작단,너에게 닿기를 (To reach you)
+20180911,97,Red Velvet (레드벨벳),빨간 맛 (Red Flavor)
+20180911,98,볼빨간사춘기,Dejavu
+20180911,99,Marshmello(마시멜로),FRIENDS
+20180911,100,SHINee (샤이니),데리러 가 (Good Evening)
+--------------------------------------------------
+20180912,1,선미,사이렌(Siren)
+20180912,2,김동률,노래
+20180912,3,오마이걸(OH MY GIRL),불꽃놀이 (Remember Me)
+20180912,4,HAON(김하온),NOAH (Feat. 박재범, Hoody)
+20180912,5,스탠딩 에그(Standing Egg),사랑에 아파본 적 있나요
+20180912,6,소녀시대-Oh!GG,몰랐니 (Lil’ Touch)
+20180912,7,거미,지워져
+20180912,8,숀(SHAUN),Way Back Home
+20180912,9,(여자)아이들,한(一)
+20180912,10,정승환,잘 지내요
+20180912,11,방탄소년단,IDOL
+20180912,12,폴킴(Paul Kim),모든 날, 모든 순간 (Every day, Every Moment)
+20180912,13,10cm(십센치),매트리스
+20180912,14,Red Velvet (레드벨벳),Power Up
+20180912,15,박재범(Jay Park),V
+20180912,16,SHINee (샤이니),셀 수 없는 (Countless)
+20180912,17,벤,열애중
+20180912,18,로이킴,왜 몰랐을까
+20180912,19,TWICE (트와이스),Dance The Night Away
+20180912,20,BLACKPINK,뚜두뚜두 (DDU-DU DDU-DU)
+20180912,21,마마무(Mamamoo),너나 해 (Egotistic)
+20180912,22,승리,셋 셀테니 (1, 2, 3!)
+20180912,23,백지영,See You Again (Feat. 리처드 용재 오닐)
+20180912,24,박지민,April Fools (0401)
+20180912,25,지코(Zico),SoulMate (Feat. 아이유)
+20180912,26,iKON,죽겠다 (KILLING ME)
+20180912,27,BLACKPINK,Forever Young
+20180912,28,태연 (TAEYEON),Page 0
+20180912,29,Apink (에이핑크),1도 없어
+20180912,30,기리보이,flex (Prod. By 기리보이)
+20180912,31,볼빨간사춘기,여행
+20180912,32,청하,Love U
+20180912,33,닐로(Nil_O),지나오다
+20180912,34,양다일,미안해
+20180912,35,멜로망스(MeloMance),좋은 날
+20180912,36,폴킴(Paul Kim),비
+20180912,37,방탄소년단,Euphoria
+20180912,38,방탄소년단,I'm Fine
+20180912,39,국.슈 (국프의 핫이슈),Rumor
+20180912,40,아이유(IU),밤편지
+20180912,41,로이킴,그때 헤어지면 돼
+20180912,42,세븐틴(Seventeen),A-TEEN
+20180912,43,멜로망스(MeloMance),동화
+20180912,44,닐로(Nil_O),넋두리
+20180912,45,먼데이 키즈(Monday Kiz),가을 안부
+20180912,46,NCT DREAM,We Go Up
+20180912,47,(여자)아이들,LATATA
+20180912,48,Charlie Puth(찰리 푸스),Done For Me
+20180912,49,육성재,고백 (영화 ‘늑대의 유혹’ 주제곡)
+20180912,50,백현(BAEKHYUN),YOUNG
+20180912,51,신승훈,불꽃처럼 아름답게
+20180912,52,비투비,너 없인 안 된다
+20180912,53,Fitz & The Tantrums,Handclap
+20180912,54,멜로망스(MeloMance),You
+20180912,55,방탄소년단,Answer : Love Myself
+20180912,56,iKON,사랑을 했다 (LOVE SCENARIO)
+20180912,57,이수현,소리
+20180912,58,로꼬,주지마
+20180912,59,Troye Sivan(트로이 시반),Youth
+20180912,60,다비치,마치 우린 없었던 사이 (Prod. 정키)
+20180912,61,장덕철,그날처럼
+20180912,62,Camila Cabello(카밀라 카베요),Havana (feat. Young Thug)
+20180912,63,박재범(Jay Park),Dank
+20180912,64,기억 조작단,너에게 닿기를 (To reach you)
+20180912,65,방탄소년단,Epiphany
+20180912,66,장덕철,지각
+20180912,67,DAY6 (데이식스),Beautiful Feeling
+20180912,68,HAON(김하온),붕붕 (Feat. 식케이) (Prod. GroovyRoom)
+20180912,69,크러쉬(Crush),Cereal (Feat. ZICO)
+20180912,70,Ed Sheeran(에드 시런),Shape Of You
+20180912,71,10cm(십센치),폰서트
+20180912,72,멜로망스(MeloMance),선물
+20180912,73,마마무(Mamamoo),별이 빛나는 밤
+20180912,74,용준형,소나기 (Feat. 10cm)
+20180912,75,이수,My Way
+20180912,76,여자친구(GFRIEND),여름여름해 (Sunny Summer)
+20180912,77,여자친구(GFRIEND),밤 (Time for the moon night)
+20180912,78,TWICE (트와이스),What is Love?
+20180912,79,방탄소년단,FAKE LOVE
+20180912,80,박원,이방인
+20180912,81,모모랜드(MOMOLAND),뿜뿜
+20180912,82,청하,Roller Coaster
+20180912,83,모모랜드(MOMOLAND),BAAM
+20180912,84,미교,우리 지금
+20180912,85,볼빨간사춘기,Dejavu
+20180912,86,Imagine Dragons(이매진 드래곤스),Thunder
+20180912,87,펜타곤,청개구리
+20180912,88,Marshmello(마시멜로),FRIENDS
+20180912,89,소녀시대-Oh!GG,쉼표 (Fermata)
+20180912,90,Sia(시아),Chandelier
+20180912,91,우원재,시차 (We Are) (Feat. 로꼬 & GRAY)
+20180912,92,BLACKPINK,마지막처럼
+20180912,93,헤이즈(HEIZE),비도 오고 그래서 (Feat. 신용재)
+20180912,94,에일리(Ailee),첫눈처럼 너에게 가겠다
+20180912,95,오반 (OVAN),스무살이 왜이리 능글맞아 (Feat. 숀 (SHAUN))
+20180912,96,방탄소년단,DNA
+20180912,97,Red Velvet (레드벨벳),빨간 맛 (Red Flavor)
+20180912,98,에이오에이(AOA),빙글뱅글 (Bingle Bangle)
+20180912,99,폴킴(Paul Kim),휴가
+20180912,100,오반 (OVAN),불행 (Feat. 빈첸 (VINXEN))
+--------------------------------------------------
+20180913,1,정승환,잘 지내요
+20180913,2,선미,사이렌(Siren)
+20180913,3,펀치 (Punch),헤어지는 중
+20180913,4,오마이걸(OH MY GIRL),불꽃놀이 (Remember Me)
+20180913,5,HAON(김하온),NOAH (Feat. 박재범, Hoody)
+20180913,6,소녀시대-Oh!GG,몰랐니 (Lil’ Touch)
+20180913,7,스탠딩 에그(Standing Egg),사랑에 아파본 적 있나요
+20180913,8,숀(SHAUN),Way Back Home
+20180913,9,(여자)아이들,한(一)
+20180913,10,방탄소년단,IDOL
+20180913,11,10cm(십센치),매트리스
+20180913,12,Red Velvet (레드벨벳),Power Up
+20180913,13,벤,열애중
+20180913,14,김동률,노래
+20180913,15,폴킴(Paul Kim),모든 날, 모든 순간 (Every day, Every Moment)
+20180913,16,BLACKPINK,뚜두뚜두 (DDU-DU DDU-DU)
+20180913,17,박재범(Jay Park),V
+20180913,18,TWICE (트와이스),Dance The Night Away
+20180913,19,마마무(Mamamoo),너나 해 (Egotistic)
+20180913,20,로이킴,왜 몰랐을까
+20180913,21,BLACKPINK,Forever Young
+20180913,22,지코(Zico),SoulMate (Feat. 아이유)
+20180913,23,iKON,죽겠다 (KILLING ME)
+20180913,24,박지민,April Fools (0401)
+20180913,25,승리,셋 셀테니 (1, 2, 3!)
+20180913,26,백지영,See You Again (Feat. 리처드 용재 오닐)
+20180913,27,볼빨간사춘기,여행
+20180913,28,Apink (에이핑크),1도 없어
+20180913,29,거미,지워져
+20180913,30,기리보이,flex (Prod. By 기리보이)
+20180913,31,방탄소년단,I'm Fine
+20180913,32,닐로(Nil_O),지나오다
+20180913,33,멜로망스(MeloMance),동화
+20180913,34,방탄소년단,Euphoria
+20180913,35,태연 (TAEYEON),Page 0
+20180913,36,폴킴(Paul Kim),비
+20180913,37,청하,Love U
+20180913,38,국.슈 (국프의 핫이슈),Rumor
+20180913,39,멜로망스(MeloMance),좋은 날
+20180913,40,아이유(IU),밤편지
+20180913,41,로이킴,그때 헤어지면 돼
+20180913,42,백현(BAEKHYUN),YOUNG
+20180913,43,양다일,미안해
+20180913,44,세븐틴(Seventeen),A-TEEN
+20180913,45,Fitz & The Tantrums,Handclap
+20180913,46,로꼬,주지마
+20180913,47,청하,Roller Coaster
+20180913,48,다비치,마치 우린 없었던 사이 (Prod. 정키)
+20180913,49,먼데이 키즈(Monday Kiz),가을 안부
+20180913,50,비투비,너 없인 안 된다
+20180913,51,SHINee (샤이니),셀 수 없는 (Countless)
+20180913,52,멜로망스(MeloMance),선물
+20180913,53,HAON(김하온),붕붕 (Feat. 식케이) (Prod. GroovyRoom)
+20180913,54,닐로(Nil_O),넋두리
+20180913,55,(여자)아이들,LATATA
+20180913,56,육성재,고백 (영화 ‘늑대의 유혹’ 주제곡)
+20180913,57,여자친구(GFRIEND),밤 (Time for the moon night)
+20180913,58,장덕철,그날처럼
+20180913,59,이수현,소리
+20180913,60,크러쉬(Crush),Cereal (Feat. ZICO)
+20180913,61,멜로망스(MeloMance),You
+20180913,62,DAY6 (데이식스),Beautiful Feeling
+20180913,63,Sia(시아),Chandelier
+20180913,64,10cm(십센치),폰서트
+20180913,65,장덕철,지각
+20180913,66,용준형,소나기 (Feat. 10cm)
+20180913,67,iKON,사랑을 했다 (LOVE SCENARIO)
+20180913,68,방탄소년단,Answer : Love Myself
+20180913,69,Ed Sheeran(에드 시런),Shape Of You
+20180913,70,Charlie Puth(찰리 푸스),Done For Me
+20180913,71,Camila Cabello(카밀라 카베요),Havana (feat. Young Thug)
+20180913,72,모모랜드(MOMOLAND),BAAM
+20180913,73,Troye Sivan(트로이 시반),Youth
+20180913,74,BLACKPINK,마지막처럼
+20180913,75,기억 조작단,너에게 닿기를 (To reach you)
+20180913,76,Imagine Dragons(이매진 드래곤스),Thunder
+20180913,77,방탄소년단,FAKE LOVE
+20180913,78,박원,이방인
+20180913,79,이수,My Way
+20180913,80,헤이즈(HEIZE),비도 오고 그래서 (Feat. 신용재)
+20180913,81,여자친구(GFRIEND),여름여름해 (Sunny Summer)
+20180913,82,모모랜드(MOMOLAND),뿜뿜
+20180913,83,NCT DREAM,We Go Up
+20180913,84,박재범(Jay Park),Dank
+20180913,85,오반 (OVAN),스무살이 왜이리 능글맞아 (Feat. 숀 (SHAUN))
+20180913,86,방탄소년단,DNA
+20180913,87,신승훈,불꽃처럼 아름답게
+20180913,88,폴킴(Paul Kim),휴가
+20180913,89,짙은(Zitten),Hold me now
+20180913,90,우원재,시차 (We Are) (Feat. 로꼬 & GRAY)
+20180913,91,DJ Khaled(디제이 칼리드),No Brainer (feat. Justin Bieber, Chance the Rapper & Quavo)
+20180913,92,TWICE (트와이스),What is Love?
+20180913,93,Marshmello(마시멜로),FRIENDS
+20180913,94,마마무(Mamamoo),별이 빛나는 밤
+20180913,95,소녀시대-Oh!GG,쉼표 (Fermata)
+20180913,96,볼빨간사춘기,Dejavu
+20180913,97,에일리(Ailee),첫눈처럼 너에게 가겠다
+20180913,98,방탄소년단,Epiphany
+20180913,99,Red Velvet (레드벨벳),빨간 맛 (Red Flavor)
+20180913,100,저스디스(JUSTHIS),IndiGO
+--------------------------------------------------
+20180914,1,정승환,잘 지내요
+20180914,2,펀치 (Punch),헤어지는 중
+20180914,3,선미,사이렌(Siren)
+20180914,4,오마이걸(OH MY GIRL),불꽃놀이 (Remember Me)
+20180914,5,HAON(김하온),NOAH (Feat. 박재범, Hoody)
+20180914,6,스탠딩 에그(Standing Egg),사랑에 아파본 적 있나요
+20180914,7,소녀시대-Oh!GG,몰랐니 (Lil’ Touch)
+20180914,8,숀(SHAUN),Way Back Home
+20180914,9,(여자)아이들,한(一)
+20180914,10,10cm(십센치),매트리스
+20180914,11,방탄소년단,IDOL
+20180914,12,벤,열애중
+20180914,13,Red Velvet (레드벨벳),Power Up
+20180914,14,로이킴,왜 몰랐을까
+20180914,15,폴킴(Paul Kim),모든 날, 모든 순간 (Every day, Every Moment)
+20180914,16,BLACKPINK,뚜두뚜두 (DDU-DU DDU-DU)
+20180914,17,TWICE (트와이스),Dance The Night Away
+20180914,18,박재범(Jay Park),V
+20180914,19,마마무(Mamamoo),너나 해 (Egotistic)
+20180914,20,박지민,April Fools (0401)
+20180914,21,승리,셋 셀테니 (1, 2, 3!)
+20180914,22,백지영,See You Again (Feat. 리처드 용재 오닐)
+20180914,23,지코(Zico),SoulMate (Feat. 아이유)
+20180914,24,기리보이,flex (Prod. By 기리보이)
+20180914,25,김동률,노래
+20180914,26,iKON,죽겠다 (KILLING ME)
+20180914,27,태연 (TAEYEON),Page 0
+20180914,28,BLACKPINK,Forever Young
+20180914,29,닐로(Nil_O),지나오다
+20180914,30,폴킴(Paul Kim),비
+20180914,31,양다일,미안해
+20180914,32,멜로망스(MeloMance),동화
+20180914,33,청하,Love U
+20180914,34,볼빨간사춘기,여행
+20180914,35,Apink (에이핑크),1도 없어
+20180914,36,국.슈 (국프의 핫이슈),Rumor
+20180914,37,방탄소년단,Euphoria
+20180914,38,방탄소년단,I'm Fine
+20180914,39,거미,지워져
+20180914,40,(여자)아이들,LATATA
+20180914,41,멜로망스(MeloMance),좋은 날
+20180914,42,SHINee (샤이니),셀 수 없는 (Countless)
+20180914,43,로이킴,그때 헤어지면 돼
+20180914,44,백현(BAEKHYUN),YOUNG
+20180914,45,비투비,너 없인 안 된다
+20180914,46,Charlie Puth(찰리 푸스),Done For Me
+20180914,47,먼데이 키즈(Monday Kiz),가을 안부
+20180914,48,아이유(IU),밤편지
+20180914,49,육성재,고백 (영화 ‘늑대의 유혹’ 주제곡)
+20180914,50,박재범(Jay Park),Dank
+20180914,51,iKON,사랑을 했다 (LOVE SCENARIO)
+20180914,52,로꼬,주지마
+20180914,53,세븐틴(Seventeen),A-TEEN
+20180914,54,HAON(김하온),붕붕 (Feat. 식케이) (Prod. GroovyRoom)
+20180914,55,임한별,이별하러 가는 길
+20180914,56,Fitz & The Tantrums,Handclap
+20180914,57,Troye Sivan(트로이 시반),Youth
+20180914,58,닐로(Nil_O),넋두리
+20180914,59,여자친구(GFRIEND),여름여름해 (Sunny Summer)
+20180914,60,Ed Sheeran(에드 시런),Shape Of You
+20180914,61,장덕철,그날처럼
+20180914,62,헤이즈(HEIZE),비도 오고 그래서 (Feat. 신용재)
+20180914,63,멜로망스(MeloMance),You
+20180914,64,다비치,마치 우린 없었던 사이 (Prod. 정키)
+20180914,65,Camila Cabello(카밀라 카베요),Havana (feat. Young Thug)
+20180914,66,Marshmello(마시멜로),FRIENDS
+20180914,67,크러쉬(Crush),Cereal (Feat. ZICO)
+20180914,68,이수현,소리
+20180914,69,TWICE (트와이스),What is Love?
+20180914,70,이수,My Way
+20180914,71,모모랜드(MOMOLAND),BAAM
+20180914,72,Imagine Dragons(이매진 드래곤스),Thunder
+20180914,73,여자친구(GFRIEND),밤 (Time for the moon night)
+20180914,74,청하,Roller Coaster
+20180914,75,방탄소년단,Answer : Love Myself
+20180914,76,Sia(시아),Chandelier
+20180914,77,멜로망스(MeloMance),선물
+20180914,78,10cm(십센치),폰서트
+20180914,79,NCT DREAM,We Go Up
+20180914,80,방탄소년단,FAKE LOVE
+20180914,81,박원,이방인
+20180914,82,우원재,시차 (We Are) (Feat. 로꼬 & GRAY)
+20180914,83,BLACKPINK,마지막처럼
+20180914,84,용준형,소나기 (Feat. 10cm)
+20180914,85,오반 (OVAN),스무살이 왜이리 능글맞아 (Feat. 숀 (SHAUN))
+20180914,86,기억 조작단,너에게 닿기를 (To reach you)
+20180914,87,방탄소년단,Epiphany
+20180914,88,정동하,되돌려 놔줘
+20180914,89,에일리(Ailee),첫눈처럼 너에게 가겠다
+20180914,90,마마무(Mamamoo),별이 빛나는 밤
+20180914,91,모모랜드(MOMOLAND),뿜뿜
+20180914,92,신승훈,불꽃처럼 아름답게
+20180914,93,저스디스(JUSTHIS),IndiGO
+20180914,94,폴킴(Paul Kim),휴가
+20180914,95,Red Velvet (레드벨벳),빨간 맛 (Red Flavor)
+20180914,96,장덕철,지각
+20180914,97,방탄소년단,DNA
+20180914,98,Shawn Mendes(션 멘데스),There's Nothing Holdin' Me Back
+20180914,99,효린,BAE
+20180914,100,볼빨간사춘기,Dejavu
+--------------------------------------------------
+20180915,1,선미,사이렌(Siren)
+20180915,2,정승환,잘 지내요
+20180915,3,펀치 (Punch),헤어지는 중
+20180915,4,소녀시대-Oh!GG,몰랐니 (Lil’ Touch)
+20180915,5,HAON(김하온),NOAH (Feat. 박재범, Hoody)
+20180915,6,오마이걸(OH MY GIRL),불꽃놀이 (Remember Me)
+20180915,7,숀(SHAUN),Way Back Home
+20180915,8,(여자)아이들,한(一)
+20180915,9,스탠딩 에그(Standing Egg),사랑에 아파본 적 있나요
+20180915,10,찬열,We Young
+20180915,11,Red Velvet (레드벨벳),Power Up
+20180915,12,방탄소년단,IDOL
+20180915,13,폴킴(Paul Kim),모든 날, 모든 순간 (Every day, Every Moment)
+20180915,14,10cm(십센치),매트리스
+20180915,15,벤,열애중
+20180915,16,BLACKPINK,뚜두뚜두 (DDU-DU DDU-DU)
+20180915,17,TWICE (트와이스),Dance The Night Away
+20180915,18,로이킴,왜 몰랐을까
+20180915,19,마마무(Mamamoo),너나 해 (Egotistic)
+20180915,20,승리,셋 셀테니 (1, 2, 3!)
+20180915,21,박재범(Jay Park),V
+20180915,22,iKON,죽겠다 (KILLING ME)
+20180915,23,지코(Zico),SoulMate (Feat. 아이유)
+20180915,24,BLACKPINK,Forever Young
+20180915,25,Apink (에이핑크),1도 없어
+20180915,26,박지민,April Fools (0401)
+20180915,27,볼빨간사춘기,여행
+20180915,28,닐로(Nil_O),지나오다
+20180915,29,멜로망스(MeloMance),동화
+20180915,30,청하,Love U
+20180915,31,기리보이,flex (Prod. By 기리보이)
+20180915,32,양다일,미안해
+20180915,33,태연 (TAEYEON),Page 0
+20180915,34,폴킴(Paul Kim),비
+20180915,35,백지영,See You Again (Feat. 리처드 용재 오닐)
+20180915,36,소란(SORAN),잠이 안 와
+20180915,37,방탄소년단,Euphoria
+20180915,38,방탄소년단,I'm Fine
+20180915,39,국.슈 (국프의 핫이슈),Rumor
+20180915,40,멜로망스(MeloMance),좋은 날
+20180915,41,김동률,노래
+20180915,42,로이킴,그때 헤어지면 돼
+20180915,43,백현(BAEKHYUN),YOUNG
+20180915,44,iKON,사랑을 했다 (LOVE SCENARIO)
+20180915,45,(여자)아이들,LATATA
+20180915,46,윤건,가지마요
+20180915,47,로꼬,주지마
+20180915,48,아이유(IU),밤편지
+20180915,49,닐로(Nil_O),넋두리
+20180915,50,먼데이 키즈(Monday Kiz),가을 안부
+20180915,51,모모랜드(MOMOLAND),BAAM
+20180915,52,방탄소년단,FAKE LOVE
+20180915,53,Charlie Puth(찰리 푸스),Done For Me
+20180915,54,SHINee (샤이니),셀 수 없는 (Countless)
+20180915,55,거미,지워져
+20180915,56,Ed Sheeran(에드 시런),Shape Of You
+20180915,57,Fitz & The Tantrums,Handclap
+20180915,58,장덕철,그날처럼
+20180915,59,여자친구(GFRIEND),밤 (Time for the moon night)
+20180915,60,비투비,너 없인 안 된다
+20180915,61,육성재,고백 (영화 ‘늑대의 유혹’ 주제곡)
+20180915,62,NCT DREAM,We Go Up
+20180915,63,커피소년,아픈 손가락
+20180915,64,멜로망스(MeloMance),선물
+20180915,65,Camila Cabello(카밀라 카베요),Havana (feat. Young Thug)
+20180915,66,청하,Roller Coaster
+20180915,67,Red Velvet (레드벨벳),빨간 맛 (Red Flavor)
+20180915,68,용준형,소나기 (Feat. 10cm)
+20180915,69,HAON(김하온),붕붕 (Feat. 식케이) (Prod. GroovyRoom)
+20180915,70,박보람,한 잔만 더 하면
+20180915,71,모모랜드(MOMOLAND),뿜뿜
+20180915,72,10cm(십센치),폰서트
+20180915,73,방탄소년단,Answer : Love Myself
+20180915,74,멜로망스(MeloMance),You
+20180915,75,Sia(시아),Chandelier
+20180915,76,다비치,마치 우린 없었던 사이 (Prod. 정키)
+20180915,77,이수,My Way
+20180915,78,우원재,시차 (We Are) (Feat. 로꼬 & GRAY)
+20180915,79,Troye Sivan(트로이 시반),Youth
+20180915,80,크러쉬(Crush),Cereal (Feat. ZICO)
+20180915,81,여자친구(GFRIEND),여름여름해 (Sunny Summer)
+20180915,82,BLACKPINK,마지막처럼
+20180915,83,마마무(Mamamoo),별이 빛나는 밤
+20180915,84,세븐틴(Seventeen),A-TEEN
+20180915,85,하은(라코스테남),열애중(답가)
+20180915,86,Marshmello(마시멜로),FRIENDS
+20180915,87,TWICE (트와이스),What is Love?
+20180915,88,방탄소년단,DNA
+20180915,89,에일리(Ailee),첫눈처럼 너에게 가겠다
+20180915,90,Imagine Dragons(이매진 드래곤스),Thunder
+20180915,91,방탄소년단,Epiphany
+20180915,92,헤이즈(HEIZE),비도 오고 그래서 (Feat. 신용재)
+20180915,93,박원,이방인
+20180915,94,Shawn Mendes(션 멘데스),There's Nothing Holdin' Me Back
+20180915,95,에이오에이(AOA),빙글뱅글 (Bingle Bangle)
+20180915,96,이수현,소리
+20180915,97,오반 (OVAN),스무살이 왜이리 능글맞아 (Feat. 숀 (SHAUN))
+20180915,98,저스디스(JUSTHIS),IndiGO
+20180915,99,기억 조작단,너에게 닿기를 (To reach you)
+20180915,100,장덕철,지각
+--------------------------------------------------
+20180916,1,선미,사이렌(Siren)
+20180916,2,정승환,잘 지내요
+20180916,3,펀치 (Punch),헤어지는 중
+20180916,4,HAON(김하온),NOAH (Feat. 박재범, Hoody)
+20180916,5,오마이걸(OH MY GIRL),불꽃놀이 (Remember Me)
+20180916,6,숀(SHAUN),Way Back Home
+20180916,7,스탠딩 에그(Standing Egg),사랑에 아파본 적 있나요
+20180916,8,소녀시대-Oh!GG,몰랐니 (Lil’ Touch)
+20180916,9,(여자)아이들,한(一)
+20180916,10,벤,열애중
+20180916,11,폴킴(Paul Kim),모든 날, 모든 순간 (Every day, Every Moment)
+20180916,12,10cm(십센치),매트리스
+20180916,13,Red Velvet (레드벨벳),Power Up
+20180916,14,방탄소년단,IDOL
+20180916,15,TWICE (트와이스),Dance The Night Away
+20180916,16,BLACKPINK,뚜두뚜두 (DDU-DU DDU-DU)
+20180916,17,로이킴,왜 몰랐을까
+20180916,18,기리보이,flex (Prod. By 기리보이)
+20180916,19,마마무(Mamamoo),너나 해 (Egotistic)
+20180916,20,지코(Zico),SoulMate (Feat. 아이유)
+20180916,21,승리,셋 셀테니 (1, 2, 3!)
+20180916,22,Apink (에이핑크),1도 없어
+20180916,23,볼빨간사춘기,여행
+20180916,24,BLACKPINK,Forever Young
+20180916,25,박지민,April Fools (0401)
+20180916,26,멜로망스(MeloMance),동화
+20180916,27,백지영,See You Again (Feat. 리처드 용재 오닐)
+20180916,28,폴킴(Paul Kim),비
+20180916,29,iKON,죽겠다 (KILLING ME)
+20180916,30,청하,Love U
+20180916,31,닐로(Nil_O),지나오다
+20180916,32,양다일,미안해
+20180916,33,방탄소년단,Euphoria
+20180916,34,방탄소년단,I'm Fine
+20180916,35,Charlie Puth(찰리 푸스),Done For Me
+20180916,36,박재범(Jay Park),V
+20180916,37,멜로망스(MeloMance),좋은 날
+20180916,38,태연 (TAEYEON),Page 0
+20180916,39,찬열,We Young
+20180916,40,iKON,사랑을 했다 (LOVE SCENARIO)
+20180916,41,백현(BAEKHYUN),YOUNG
+20180916,42,아이유(IU),밤편지
+20180916,43,로꼬,주지마
+20180916,44,Fitz & The Tantrums,Handclap
+20180916,45,하은(라코스테남),열애중(답가)
+20180916,46,로이킴,그때 헤어지면 돼
+20180916,47,국.슈 (국프의 핫이슈),Rumor
+20180916,48,멜로망스(MeloMance),선물
+20180916,49,모모랜드(MOMOLAND),BAAM
+20180916,50,방탄소년단,FAKE LOVE
+20180916,51,김동률,노래
+20180916,52,닐로(Nil_O),넋두리
+20180916,53,비투비,너 없인 안 된다
+20180916,54,저스디스(JUSTHIS),IndiGO
+20180916,55,멜로망스(MeloMance),You
+20180916,56,(여자)아이들,LATATA
+20180916,57,여자친구(GFRIEND),밤 (Time for the moon night)
+20180916,58,Imagine Dragons(이매진 드래곤스),Thunder
+20180916,59,거미,지워져
+20180916,60,10cm(십센치),폰서트
+20180916,61,먼데이 키즈(Monday Kiz),가을 안부
+20180916,62,장덕철,그날처럼
+20180916,63,Troye Sivan(트로이 시반),Youth
+20180916,64,HAON(김하온),붕붕 (Feat. 식케이) (Prod. GroovyRoom)
+20180916,65,NCT DREAM,We Go Up
+20180916,66,크러쉬(Crush),Cereal (Feat. ZICO)
+20180916,67,Camila Cabello(카밀라 카베요),Havana (feat. Young Thug)
+20180916,68,Ed Sheeran(에드 시런),Shape Of You
+20180916,69,청하,Roller Coaster
+20180916,70,세븐틴(Seventeen),A-TEEN
+20180916,71,마마무(Mamamoo),별이 빛나는 밤
+20180916,72,딘딘(DinDin),불면증 (Feat. 이홍기 of FT아일랜드)
+20180916,73,방탄소년단,Answer : Love Myself
+20180916,74,BLACKPINK,마지막처럼
+20180916,75,여자친구(GFRIEND),여름여름해 (Sunny Summer)
+20180916,76,헤이즈(HEIZE),비도 오고 그래서 (Feat. 신용재)
+20180916,77,우원재,시차 (We Are) (Feat. 로꼬 & GRAY)
+20180916,78,TWICE (트와이스),What is Love?
+20180916,79,SHINee (샤이니),셀 수 없는 (Countless)
+20180916,80,Sia(시아),Chandelier
+20180916,81,더 콰이엇(The Quiett),Flex Forever (Feat. CHANGMO)
+20180916,82,용준형,소나기 (Feat. 10cm)
+20180916,83,다비치,마치 우린 없었던 사이 (Prod. 정키)
+20180916,84,방탄소년단,DNA
+20180916,85,소란(SORAN),잠이 안 와
+20180916,86,이수현,소리
+20180916,87,Marshmello(마시멜로),FRIENDS
+20180916,88,Red Velvet (레드벨벳),빨간 맛 (Red Flavor)
+20180916,89,기억 조작단,너에게 닿기를 (To reach you)
+20180916,90,모모랜드(MOMOLAND),뿜뿜
+20180916,91,오반 (OVAN),스무살이 왜이리 능글맞아 (Feat. 숀 (SHAUN))
+20180916,92,에이오에이(AOA),빙글뱅글 (Bingle Bangle)
+20180916,93,이수,My Way
+20180916,94,방탄소년단,Epiphany
+20180916,95,박원,이방인
+20180916,96,볼빨간사춘기,Dejavu
+20180916,97,육성재,고백 (영화 ‘늑대의 유혹’ 주제곡)
+20180916,98,에일리(Ailee),첫눈처럼 너에게 가겠다
+20180916,99,장덕철,지각
+20180916,100,신승훈,불꽃처럼 아름답게
+--------------------------------------------------
+20180917,1,선미,사이렌(Siren)
+20180917,2,정승환,잘 지내요
+20180917,3,펀치 (Punch),헤어지는 중
+20180917,4,HAON(김하온),NOAH (Feat. 박재범, Hoody)
+20180917,5,오마이걸(OH MY GIRL),불꽃놀이 (Remember Me)
+20180917,6,스탠딩 에그(Standing Egg),사랑에 아파본 적 있나요
+20180917,7,숀(SHAUN),Way Back Home
+20180917,8,세정 (구구단),정인 (情人)
+20180917,9,소녀시대-Oh!GG,몰랐니 (Lil’ Touch)
+20180917,10,벤,열애중
+20180917,11,(여자)아이들,한(一)
+20180917,12,모트(Motte),도망가지마
+20180917,13,폴킴(Paul Kim),모든 날, 모든 순간 (Every day, Every Moment)
+20180917,14,10cm(십센치),매트리스
+20180917,15,Red Velvet (레드벨벳),Power Up
+20180917,16,방탄소년단,IDOL
+20180917,17,백지영,See You Again (Feat. 리처드 용재 오닐)
+20180917,18,기리보이,flex (Prod. By 기리보이)
+20180917,19,로이킴,왜 몰랐을까
+20180917,20,TWICE (트와이스),Dance The Night Away
+20180917,21,BLACKPINK,뚜두뚜두 (DDU-DU DDU-DU)
+20180917,22,박재범(Jay Park),V
+20180917,23,승리,셋 셀테니 (1, 2, 3!)
+20180917,24,마마무(Mamamoo),너나 해 (Egotistic)
+20180917,25,지코(Zico),SoulMate (Feat. 아이유)
+20180917,26,볼빨간사춘기,여행
+20180917,27,멜로망스(MeloMance),좋은 날
+20180917,28,폴킴(Paul Kim),비
+20180917,29,BLACKPINK,Forever Young
+20180917,30,박지민,April Fools (0401)
+20180917,31,iKON,죽겠다 (KILLING ME)
+20180917,32,멜로망스(MeloMance),동화
+20180917,33,닐로(Nil_O),지나오다
+20180917,34,Apink (에이핑크),1도 없어
+20180917,35,양다일,미안해
+20180917,36,태연 (TAEYEON),Page 0
+20180917,37,청하,Love U
+20180917,38,하은(라코스테남),열애중(답가)
+20180917,39,로이킴,그때 헤어지면 돼
+20180917,40,방탄소년단,I'm Fine
+20180917,41,아이유(IU),밤편지
+20180917,42,저스디스(JUSTHIS),IndiGO
+20180917,43,방탄소년단,Euphoria
+20180917,44,박원,이방인
+20180917,45,이수현,소리
+20180917,46,Charlie Puth(찰리 푸스),Done For Me
+20180917,47,iKON,사랑을 했다 (LOVE SCENARIO)
+20180917,48,로꼬,주지마
+20180917,49,GOT7 (갓세븐),하드캐리
+20180917,50,다비치,마치 우린 없었던 사이 (Prod. 정키)
+20180917,51,백현(BAEKHYUN),YOUNG
+20180917,52,장덕철,그날처럼
+20180917,53,비투비,너 없인 안 된다
+20180917,54,김동률,노래
+20180917,55,먼데이 키즈(Monday Kiz),가을 안부
+20180917,56,멜로망스(MeloMance),You
+20180917,57,크러쉬(Crush),Cereal (Feat. ZICO)
+20180917,58,Troye Sivan(트로이 시반),Youth
+20180917,59,방탄소년단,Answer : Love Myself
+20180917,60,Ed Sheeran(에드 시런),Shape Of You
+20180917,61,방탄소년단,FAKE LOVE
+20180917,62,이수,My Way
+20180917,63,국.슈 (국프의 핫이슈),Rumor
+20180917,64,모모랜드(MOMOLAND),BAAM
+20180917,65,Camila Cabello(카밀라 카베요),Havana (feat. Young Thug)
+20180917,66,세븐틴(Seventeen),A-TEEN
+20180917,67,찬열,We Young
+20180917,68,멜로망스(MeloMance),선물
+20180917,69,Imagine Dragons(이매진 드래곤스),Thunder
+20180917,70,Sia(시아),Chandelier
+20180917,71,닐로(Nil_O),넋두리
+20180917,72,여자친구(GFRIEND),밤 (Time for the moon night)
+20180917,73,장덕철,지각
+20180917,74,10cm(십센치),폰서트
+20180917,75,TWICE (트와이스),What is Love?
+20180917,76,마마무(Mamamoo),별이 빛나는 밤
+20180917,77,헤이즈(HEIZE),비도 오고 그래서 (Feat. 신용재)
+20180917,78,청하,Roller Coaster
+20180917,79,Fitz & The Tantrums,Handclap
+20180917,80,Marshmello(마시멜로),FRIENDS
+20180917,81,NCT DREAM,We Go Up
+20180917,82,(여자)아이들,LATATA
+20180917,83,거미,지워져
+20180917,84,우원재,시차 (We Are) (Feat. 로꼬 & GRAY)
+20180917,85,방탄소년단,Epiphany
+20180917,86,용준형,소나기 (Feat. 10cm)
+20180917,87,볼빨간사춘기,Dejavu
+20180917,88,신승훈,불꽃처럼 아름답게
+20180917,89,모모랜드(MOMOLAND),뿜뿜
+20180917,90,HAON(김하온),붕붕 (Feat. 식케이) (Prod. GroovyRoom)
+20180917,91,육성재,고백 (영화 ‘늑대의 유혹’ 주제곡)
+20180917,92,오반 (OVAN),스무살이 왜이리 능글맞아 (Feat. 숀 (SHAUN))
+20180917,93,SHINee (샤이니),셀 수 없는 (Countless)
+20180917,94,여자친구(GFRIEND),여름여름해 (Sunny Summer)
+20180917,95,BLACKPINK,마지막처럼
+20180917,96,더 콰이엇(The Quiett),Flex Forever (Feat. CHANGMO)
+20180917,97,방탄소년단,DNA
+20180917,98,Red Velvet (레드벨벳),빨간 맛 (Red Flavor)
+20180917,99,가비엔제이(Gavy N.J.),I’m Fine
+20180917,100,오반 (OVAN),불행 (Feat. 빈첸 (VINXEN))
+--------------------------------------------------
+20180918,1,GOT7 (갓세븐),Lullaby
+20180918,2,선미,사이렌(Siren)
+20180918,3,정승환,잘 지내요
+20180918,4,펀치 (Punch),헤어지는 중
+20180918,5,빈첸(VINXEN),별(feat.김종완 of 넬)(prod.BOYCOLD)
+20180918,6,빈첸(VINXEN),유재석(prod.진대호)
+20180918,7,HAON(김하온),NOAH (Feat. 박재범, Hoody)
+20180918,8,오마이걸(OH MY GIRL),불꽃놀이 (Remember Me)
+20180918,9,숀(SHAUN),Way Back Home
+20180918,10,스탠딩 에그(Standing Egg),사랑에 아파본 적 있나요
+20180918,11,GOT7 (갓세븐),Enough
+20180918,12,(여자)아이들,한(一)
+20180918,13,소녀시대-Oh!GG,몰랐니 (Lil’ Touch)
+20180918,14,GOT7 (갓세븐),I Am Me
+20180918,15,모트(Motte),도망가지마
+20180918,16,GOT7 (갓세븐),지켜줄게
+20180918,17,GOT7 (갓세븐),No One Else
+20180918,18,JB (GOT7),Sunrise
+20180918,19,벤,열애중
+20180918,20,진영 (GOT7),My Youth
+20180918,21,마크 (GOT7),OMW
+20180918,22,폴킴(Paul Kim),모든 날, 모든 순간 (Every day, Every Moment)
+20180918,23,Red Velvet (레드벨벳),Power Up
+20180918,24,10cm(십센치),매트리스
+20180918,25,잭슨 (GOT7),Made It
+20180918,26,방탄소년단,IDOL
+20180918,27,영재 (GOT7),혼자 (Nobody knows)
+20180918,28,뱀뱀 (GOT7),Party
+20180918,29,유겸 (GOT7),Fine
+20180918,30,로이킴,왜 몰랐을까
+20180918,31,GOT7 (갓세븐),Look
+20180918,32,기리보이,flex (Prod. By 기리보이)
+20180918,33,BLACKPINK,뚜두뚜두 (DDU-DU DDU-DU)
+20180918,34,TWICE (트와이스),Dance The Night Away
+20180918,35,백지영,See You Again (Feat. 리처드 용재 오닐)
+20180918,36,지코(Zico),SoulMate (Feat. 아이유)
+20180918,37,마마무(Mamamoo),너나 해 (Egotistic)
+20180918,38,양다일,미안해
+20180918,39,폴킴(Paul Kim),비
+20180918,40,승리,셋 셀테니 (1, 2, 3!)
+20180918,41,멜로망스(MeloMance),동화
+20180918,42,볼빨간사춘기,여행
+20180918,43,닐로(Nil_O),지나오다
+20180918,44,BLACKPINK,Forever Young
+20180918,45,박재범(Jay Park),V
+20180918,46,청하,Love U
+20180918,47,세정 (구구단),정인 (情人)
+20180918,48,Apink (에이핑크),1도 없어
+20180918,49,김범수,사랑이라 하자 (Prod. 로코베리)
+20180918,50,로이킴,그때 헤어지면 돼
+20180918,51,박지민,April Fools (0401)
+20180918,52,태연 (TAEYEON),Page 0
+20180918,53,iKON,죽겠다 (KILLING ME)
+20180918,54,멜로망스(MeloMance),좋은 날
+20180918,55,하은(라코스테남),열애중(답가)
+20180918,56,박원,이방인
+20180918,57,김동률,노래
+20180918,58,방탄소년단,I'm Fine
+20180918,59,저스디스(JUSTHIS),IndiGO
+20180918,60,국.슈 (국프의 핫이슈),Rumor
+20180918,61,비투비,너 없인 안 된다
+20180918,62,Charlie Puth(찰리 푸스),Done For Me
+20180918,63,방탄소년단,Euphoria
+20180918,64,아이유(IU),밤편지
+20180918,65,iKON,사랑을 했다 (LOVE SCENARIO)
+20180918,66,먼데이 키즈(Monday Kiz),가을 안부
+20180918,67,장덕철,그날처럼
+20180918,68,이수현,소리
+20180918,69,다비치,마치 우린 없었던 사이 (Prod. 정키)
+20180918,70,10cm(십센치),폰서트
+20180918,71,세븐틴(Seventeen),A-TEEN
+20180918,72,이수,My Way
+20180918,73,(여자)아이들,LATATA
+20180918,74,방탄소년단,Answer : Love Myself
+20180918,75,닐로(Nil_O),넋두리
+20180918,76,크러쉬(Crush),Cereal (Feat. ZICO)
+20180918,77,백현(BAEKHYUN),YOUNG
+20180918,78,여자친구(GFRIEND),밤 (Time for the moon night)
+20180918,79,로꼬,주지마
+20180918,80,청하,Roller Coaster
+20180918,81,HAON(김하온),붕붕 (Feat. 식케이) (Prod. GroovyRoom)
+20180918,82,멜로망스(MeloMance),선물
+20180918,83,Fitz & The Tantrums,Handclap
+20180918,84,모모랜드(MOMOLAND),BAAM
+20180918,85,Troye Sivan(트로이 시반),Youth
+20180918,86,GOT7 (갓세븐),너 하나만 (Feat. 효린)
+20180918,87,GOT7 (갓세븐),Lullaby (English Ver.)
+20180918,88,여자친구(GFRIEND),여름여름해 (Sunny Summer)
+20180918,89,Sia(시아),Chandelier
+20180918,90,멜로망스(MeloMance),You
+20180918,91,Red Velvet (레드벨벳),빨간 맛 (Red Flavor)
+20180918,92,용준형,소나기 (Feat. 10cm)
+20180918,93,GOT7 (갓세븐),Lullaby (Spanish Ver.)
+20180918,94,Imagine Dragons(이매진 드래곤스),Thunder
+20180918,95,방탄소년단,DNA
+20180918,96,TWICE (트와이스),What is Love?
+20180918,97,NCT DREAM,We Go Up
+20180918,98,방탄소년단,FAKE LOVE
+20180918,99,볼빨간사춘기,Dejavu
+20180918,100,Marshmello(마시멜로),FRIENDS
+--------------------------------------------------
+20180919,1,로이킴,우리 그만하자
+20180919,2,선미,사이렌(Siren)
+20180919,3,정승환,잘 지내요
+20180919,4,펀치 (Punch),헤어지는 중
+20180919,5,GOT7 (갓세븐),Lullaby
+20180919,6,HAON(김하온),NOAH (Feat. 박재범, Hoody)
+20180919,7,빈첸(VINXEN),별(feat.김종완 of 넬)(prod.BOYCOLD)
+20180919,8,오마이걸(OH MY GIRL),불꽃놀이 (Remember Me)
+20180919,9,숀(SHAUN),Way Back Home
+20180919,10,벤,열애중
+20180919,11,스탠딩 에그(Standing Egg),사랑에 아파본 적 있나요
+20180919,12,소녀시대-Oh!GG,몰랐니 (Lil’ Touch)
+20180919,13,(여자)아이들,한(一)
+20180919,14,바이브(Vibe),가을 타나 봐
+20180919,15,기리보이,flex (Prod. By 기리보이)
+20180919,16,빈첸(VINXEN),유재석(prod.진대호)
+20180919,17,방탄소년단,IDOL
+20180919,18,폴킴(Paul Kim),모든 날, 모든 순간 (Every day, Every Moment)
+20180919,19,10cm(십센치),매트리스
+20180919,20,Red Velvet (레드벨벳),Power Up
+20180919,21,모트(Motte),도망가지마
+20180919,22,로이킴,왜 몰랐을까
+20180919,23,TWICE (트와이스),Dance The Night Away
+20180919,24,BLACKPINK,뚜두뚜두 (DDU-DU DDU-DU)
+20180919,25,백지영,See You Again (Feat. 리처드 용재 오닐)
+20180919,26,마마무(Mamamoo),너나 해 (Egotistic)
+20180919,27,지코(Zico),SoulMate (Feat. 아이유)
+20180919,28,박재범(Jay Park),V
+20180919,29,닐로(Nil_O),지나오다
+20180919,30,폴킴(Paul Kim),비
+20180919,31,Apink (에이핑크),1도 없어
+20180919,32,승리,셋 셀테니 (1, 2, 3!)
+20180919,33,로이킴,그때 헤어지면 돼
+20180919,34,BLACKPINK,Forever Young
+20180919,35,볼빨간사춘기,여행
+20180919,36,iKON,죽겠다 (KILLING ME)
+20180919,37,태연 (TAEYEON),Page 0
+20180919,38,멜로망스(MeloMance),좋은 날
+20180919,39,양다일,미안해
+20180919,40,아이유(IU),밤편지
+20180919,41,저스디스(JUSTHIS),IndiGO
+20180919,42,박지민,April Fools (0401)
+20180919,43,세정 (구구단),정인 (情人)
+20180919,44,Charlie Puth(찰리 푸스),Done For Me
+20180919,45,멜로망스(MeloMance),동화
+20180919,46,청하,Love U
+20180919,47,방탄소년단,I'm Fine
+20180919,48,닐로(Nil_O),넋두리
+20180919,49,로꼬,주지마
+20180919,50,세븐틴(Seventeen),A-TEEN
+20180919,51,방탄소년단,Euphoria
+20180919,52,먼데이 키즈(Monday Kiz),가을 안부
+20180919,53,장덕철,그날처럼
+20180919,54,Troye Sivan(트로이 시반),Youth
+20180919,55,하은(라코스테남),열애중(답가)
+20180919,56,다비치,마치 우린 없었던 사이 (Prod. 정키)
+20180919,57,용준형,소나기 (Feat. 10cm)
+20180919,58,크러쉬(Crush),Cereal (Feat. ZICO)
+20180919,59,여자친구(GFRIEND),여름여름해 (Sunny Summer)
+20180919,60,멜로망스(MeloMance),선물
+20180919,61,멜로망스(MeloMance),You
+20180919,62,청하,Roller Coaster
+20180919,63,박원,이방인
+20180919,64,김동률,노래
+20180919,65,백현(BAEKHYUN),YOUNG
+20180919,66,국.슈 (국프의 핫이슈),Rumor
+20180919,67,비투비,너 없인 안 된다
+20180919,68,방탄소년단,Answer : Love Myself
+20180919,69,NCT DREAM,We Go Up
+20180919,70,Sia(시아),Chandelier
+20180919,71,여자친구(GFRIEND),밤 (Time for the moon night)
+20180919,72,Ed Sheeran(에드 시런),Shape Of You
+20180919,73,헤이즈(HEIZE),비도 오고 그래서 (Feat. 신용재)
+20180919,74,(여자)아이들,LATATA
+20180919,75,Fitz & The Tantrums,Handclap
+20180919,76,10cm(십센치),폰서트
+20180919,77,TWICE (트와이스),What is Love?
+20180919,78,모모랜드(MOMOLAND),BAAM
+20180919,79,이수현,소리
+20180919,80,iKON,사랑을 했다 (LOVE SCENARIO)
+20180919,81,김범수,사랑이라 하자 (Prod. 로코베리)
+20180919,82,Imagine Dragons(이매진 드래곤스),Thunder
+20180919,83,Camila Cabello(카밀라 카베요),Havana (feat. Young Thug)
+20180919,84,우원재,시차 (We Are) (Feat. 로꼬 & GRAY)
+20180919,85,노르웨이 숲,밤수성 (Feat. 백선)
+20180919,86,에일리(Ailee),첫눈처럼 너에게 가겠다
+20180919,87,방탄소년단,FAKE LOVE
+20180919,88,HAON(김하온),붕붕 (Feat. 식케이) (Prod. GroovyRoom)
+20180919,89,모모랜드(MOMOLAND),뿜뿜
+20180919,90,이수,My Way
+20180919,91,방탄소년단,DNA
+20180919,92,거미,지워져
+20180919,93,Marshmello(마시멜로),FRIENDS
+20180919,94,BLACKPINK,마지막처럼
+20180919,95,마마무(Mamamoo),별이 빛나는 밤
+20180919,96,GOT7 (갓세븐),Enough
+20180919,97,볼빨간사춘기,Dejavu
+20180919,98,Red Velvet (레드벨벳),빨간 맛 (Red Flavor)
+20180919,99,케이시,손을 잡아줘
+20180919,100,장덕철,지각
+--------------------------------------------------
+20180920,1,로이킴,우리 그만하자
+20180920,2,임창정,하루도 그대를 사랑하지 않은 적이 없었다
+20180920,3,선미,사이렌(Siren)
+20180920,4,정승환,잘 지내요
+20180920,5,펀치 (Punch),헤어지는 중
+20180920,6,우주소녀,부탁해
+20180920,7,HAON(김하온),NOAH (Feat. 박재범, Hoody)
+20180920,8,바이브(Vibe),가을 타나 봐
+20180920,9,숀(SHAUN),Way Back Home
+20180920,10,오마이걸(OH MY GIRL),불꽃놀이 (Remember Me)
+20180920,11,모트(Motte),도망가지마
+20180920,12,(여자)아이들,한(一)
+20180920,13,소녀시대-Oh!GG,몰랐니 (Lil’ Touch)
+20180920,14,스탠딩 에그(Standing Egg),사랑에 아파본 적 있나요
+20180920,15,벤,열애중
+20180920,16,GOT7 (갓세븐),Lullaby
+20180920,17,폴킴(Paul Kim),모든 날, 모든 순간 (Every day, Every Moment)
+20180920,18,빈첸(VINXEN),별(feat.김종완 of 넬)(prod.BOYCOLD)
+20180920,19,10cm(십센치),매트리스
+20180920,20,Red Velvet (레드벨벳),Power Up
+20180920,21,방탄소년단,IDOL
+20180920,22,기리보이,flex (Prod. By 기리보이)
+20180920,23,로이킴,왜 몰랐을까
+20180920,24,TWICE (트와이스),Dance The Night Away
+20180920,25,임창정,나눠갖지 말아요
+20180920,26,BLACKPINK,뚜두뚜두 (DDU-DU DDU-DU)
+20180920,27,빈첸(VINXEN),유재석(prod.진대호)
+20180920,28,임창정,노래방
+20180920,29,마마무(Mamamoo),너나 해 (Egotistic)
+20180920,30,폴킴(Paul Kim),비
+20180920,31,iKON,죽겠다 (KILLING ME)
+20180920,32,로이킴,그때 헤어지면 돼
+20180920,33,BLACKPINK,Forever Young
+20180920,34,닐로(Nil_O),지나오다
+20180920,35,백지영,See You Again (Feat. 리처드 용재 오닐)
+20180920,36,지코(Zico),SoulMate (Feat. 아이유)
+20180920,37,승리,셋 셀테니 (1, 2, 3!)
+20180920,38,Apink (에이핑크),1도 없어
+20180920,39,우주소녀,아이야
+20180920,40,박재범(Jay Park),V
+20180920,41,멜로망스(MeloMance),동화
+20180920,42,양다일,미안해
+20180920,43,방탄소년단,I'm Fine
+20180920,44,(여자)아이들,LATATA
+20180920,45,볼빨간사춘기,여행
+20180920,46,박지민,April Fools (0401)
+20180920,47,청하,Love U
+20180920,48,멜로망스(MeloMance),좋은 날
+20180920,49,아이유(IU),밤편지
+20180920,50,방탄소년단,Euphoria
+20180920,51,태연 (TAEYEON),Page 0
+20180920,52,임창정,이젠 그러려고
+20180920,53,국.슈 (국프의 핫이슈),Rumor
+20180920,54,로꼬,주지마
+20180920,55,우주소녀,너, 너, 너
+20180920,56,임창정,지금이라 부르던 그때
+20180920,57,비투비,너 없인 안 된다
+20180920,58,Camila Cabello(카밀라 카베요),Havana (feat. Young Thug)
+20180920,59,Charlie Puth(찰리 푸스),Done For Me
+20180920,60,iKON,사랑을 했다 (LOVE SCENARIO)
+20180920,61,모모랜드(MOMOLAND),BAAM
+20180920,62,저스디스(JUSTHIS),IndiGO
+20180920,63,하은(라코스테남),열애중(답가)
+20180920,64,여자친구(GFRIEND),밤 (Time for the moon night)
+20180920,65,Marshmello(마시멜로),FRIENDS
+20180920,66,박원,이방인
+20180920,67,이수현,소리
+20180920,68,우원재,시차 (We Are) (Feat. 로꼬 & GRAY)
+20180920,69,멜로망스(MeloMance),선물
+20180920,70,Fitz & The Tantrums,Handclap
+20180920,71,이수,My Way
+20180920,72,임창정,그 사람
+20180920,73,멜로망스(MeloMance),You
+20180920,74,Imagine Dragons(이매진 드래곤스),Thunder
+20180920,75,청하,Roller Coaster
+20180920,76,방탄소년단,FAKE LOVE
+20180920,77,TWICE (트와이스),What is Love?
+20180920,78,임창정,지나고도 같은 오늘 (또 생각이나서)
+20180920,79,장덕철,그날처럼
+20180920,80,Troye Sivan(트로이 시반),Youth
+20180920,81,마마무(Mamamoo),별이 빛나는 밤
+20180920,82,크러쉬(Crush),Cereal (Feat. ZICO)
+20180920,83,닐로(Nil_O),넋두리
+20180920,84,용준형,소나기 (Feat. 10cm)
+20180920,85,먼데이 키즈(Monday Kiz),가을 안부
+20180920,86,Ed Sheeran(에드 시런),Shape Of You
+20180920,87,임창정,예쁘더라
+20180920,88,에일리(Ailee),첫눈처럼 너에게 가겠다
+20180920,89,세정 (구구단),정인 (情人)
+20180920,90,백현(BAEKHYUN),YOUNG
+20180920,91,다비치,마치 우린 없었던 사이 (Prod. 정키)
+20180920,92,헤이즈(HEIZE),비도 오고 그래서 (Feat. 신용재)
+20180920,93,10cm(십센치),폰서트
+20180920,94,세븐틴(Seventeen),A-TEEN
+20180920,95,HAON(김하온),붕붕 (Feat. 식케이) (Prod. GroovyRoom)
+20180920,96,방탄소년단,Answer : Love Myself
+20180920,97,여자친구(GFRIEND),여름여름해 (Sunny Summer)
+20180920,98,모모랜드(MOMOLAND),뿜뿜
+20180920,99,Red Velvet (레드벨벳),빨간 맛 (Red Flavor)
+20180920,100,Sia(시아),Chandelier
+--------------------------------------------------
+20180921,1,임창정,하루도 그대를 사랑하지 않은 적이 없었다
+20180921,2,로이킴,우리 그만하자
+20180921,3,선미,사이렌(Siren)
+20180921,4,정승환,잘 지내요
+20180921,5,바이브(Vibe),가을 타나 봐
+20180921,6,펀치 (Punch),헤어지는 중
+20180921,7,오마이걸(OH MY GIRL),불꽃놀이 (Remember Me)
+20180921,8,숀(SHAUN),Way Back Home
+20180921,9,우주소녀,부탁해
+20180921,10,HAON(김하온),NOAH (Feat. 박재범, Hoody)
+20180921,11,스탠딩 에그(Standing Egg),사랑에 아파본 적 있나요
+20180921,12,벤,열애중
+20180921,13,모트(Motte),도망가지마
+20180921,14,폴킴(Paul Kim),모든 날, 모든 순간 (Every day, Every Moment)
+20180921,15,(여자)아이들,한(一)
+20180921,16,GOT7 (갓세븐),Lullaby
+20180921,17,소녀시대-Oh!GG,몰랐니 (Lil’ Touch)
+20180921,18,10cm(십센치),매트리스
+20180921,19,기리보이,flex (Prod. By 기리보이)
+20180921,20,Red Velvet (레드벨벳),Power Up
+20180921,21,로이킴,왜 몰랐을까
+20180921,22,방탄소년단,IDOL
+20180921,23,빈첸(VINXEN),별(feat.김종완 of 넬)(prod.BOYCOLD)
+20180921,24,TWICE (트와이스),Dance The Night Away
+20180921,25,BLACKPINK,뚜두뚜두 (DDU-DU DDU-DU)
+20180921,26,빈첸(VINXEN),유재석(prod.진대호)
+20180921,27,폴킴(Paul Kim),비
+20180921,28,지코(Zico),SoulMate (Feat. 아이유)
+20180921,29,마마무(Mamamoo),너나 해 (Egotistic)
+20180921,30,BLACKPINK,Forever Young
+20180921,31,로이킴,그때 헤어지면 돼
+20180921,32,양다일,미안해
+20180921,33,백지영,See You Again (Feat. 리처드 용재 오닐)
+20180921,34,닐로(Nil_O),지나오다
+20180921,35,승리,셋 셀테니 (1, 2, 3!)
+20180921,36,볼빨간사춘기,여행
+20180921,37,태연 (TAEYEON),Page 0
+20180921,38,Apink (에이핑크),1도 없어
+20180921,39,iKON,죽겠다 (KILLING ME)
+20180921,40,박재범(Jay Park),V
+20180921,41,청하,Love U
+20180921,42,멜로망스(MeloMance),동화
+20180921,43,저스디스(JUSTHIS),IndiGO
+20180921,44,iKON,사랑을 했다 (LOVE SCENARIO)
+20180921,45,멜로망스(MeloMance),좋은 날
+20180921,46,닐로(Nil_O),넋두리
+20180921,47,임창정,노래방
+20180921,48,장덕철,그날처럼
+20180921,49,방탄소년단,Euphoria
+20180921,50,Charlie Puth(찰리 푸스),Done For Me
+20180921,51,국.슈 (국프의 핫이슈),Rumor
+20180921,52,아이유(IU),밤편지
+20180921,53,로꼬,주지마
+20180921,54,박지민,April Fools (0401)
+20180921,55,Imagine Dragons(이매진 드래곤스),Thunder
+20180921,56,먼데이 키즈(Monday Kiz),가을 안부
+20180921,57,Troye Sivan(트로이 시반),Youth
+20180921,58,방탄소년단,I'm Fine
+20180921,59,하은(라코스테남),열애중(답가)
+20180921,60,드림캐쳐(Dreamcatcher),What
+20180921,61,헤이즈(HEIZE),비도 오고 그래서 (Feat. 신용재)
+20180921,62,(여자)아이들,LATATA
+20180921,63,세정 (구구단),정인 (情人)
+20180921,64,10cm(십센치),폰서트
+20180921,65,Fitz & The Tantrums,Handclap
+20180921,66,비투비,너 없인 안 된다
+20180921,67,다비치,마치 우린 없었던 사이 (Prod. 정키)
+20180921,68,여자친구(GFRIEND),밤 (Time for the moon night)
+20180921,69,임창정,나눠갖지 말아요
+20180921,70,청하,Roller Coaster
+20180921,71,멜로망스(MeloMance),선물
+20180921,72,용준형,소나기 (Feat. 10cm)
+20180921,73,HAON(김하온),붕붕 (Feat. 식케이) (Prod. GroovyRoom)
+20180921,74,이수현,소리
+20180921,75,크러쉬(Crush),Cereal (Feat. ZICO)
+20180921,76,Ed Sheeran(에드 시런),Shape Of You
+20180921,77,에일리(Ailee),첫눈처럼 너에게 가겠다
+20180921,78,우원재,시차 (We Are) (Feat. 로꼬 & GRAY)
+20180921,79,Camila Cabello(카밀라 카베요),Havana (feat. Young Thug)
+20180921,80,Sia(시아),Chandelier
+20180921,81,멜로망스(MeloMance),You
+20180921,82,세븐틴(Seventeen),A-TEEN
+20180921,83,Marshmello(마시멜로),FRIENDS
+20180921,84,TWICE (트와이스),What is Love?
+20180921,85,모모랜드(MOMOLAND),뿜뿜
+20180921,86,마마무(Mamamoo),별이 빛나는 밤
+20180921,87,이수,My Way
+20180921,88,방탄소년단,Answer : Love Myself
+20180921,89,방탄소년단,FAKE LOVE
+20180921,90,모모랜드(MOMOLAND),BAAM
+20180921,91,우주소녀,아이야
+20180921,92,여자친구(GFRIEND),여름여름해 (Sunny Summer)
+20180921,93,김동률,노래
+20180921,94,박원,이방인
+20180921,95,백현(BAEKHYUN),YOUNG
+20180921,96,임창정,이젠 그러려고
+20180921,97,유성은,Hello
+20180921,98,BLACKPINK,마지막처럼
+20180921,99,임창정,지금이라 부르던 그때
+20180921,100,NCT DREAM,We Go Up
+--------------------------------------------------
+20180922,1,임창정,하루도 그대를 사랑하지 않은 적이 없었다
+20180922,2,로이킴,우리 그만하자
+20180922,3,선미,사이렌(Siren)
+20180922,4,정승환,잘 지내요
+20180922,5,바이브(Vibe),가을 타나 봐
+20180922,6,펀치 (Punch),헤어지는 중
+20180922,7,숀(SHAUN),Way Back Home
+20180922,8,오마이걸(OH MY GIRL),불꽃놀이 (Remember Me)
+20180922,9,HAON(김하온),NOAH (Feat. 박재범, Hoody)
+20180922,10,소녀시대-Oh!GG,몰랐니 (Lil’ Touch)
+20180922,11,(여자)아이들,한(一)
+20180922,12,벤,열애중
+20180922,13,폴킴(Paul Kim),모든 날, 모든 순간 (Every day, Every Moment)
+20180922,14,스탠딩 에그(Standing Egg),사랑에 아파본 적 있나요
+20180922,15,Red Velvet (레드벨벳),Power Up
+20180922,16,기리보이,flex (Prod. By 기리보이)
+20180922,17,10cm(십센치),매트리스
+20180922,18,BLACKPINK,뚜두뚜두 (DDU-DU DDU-DU)
+20180922,19,모트(Motte),도망가지마
+20180922,20,방탄소년단,IDOL
+20180922,21,우주소녀,부탁해
+20180922,22,TWICE (트와이스),Dance The Night Away
+20180922,23,승리,셋 셀테니 (1, 2, 3!)
+20180922,24,마마무(Mamamoo),너나 해 (Egotistic)
+20180922,25,로이킴,왜 몰랐을까
+20180922,26,빈첸(VINXEN),별(feat.김종완 of 넬)(prod.BOYCOLD)
+20180922,27,폴킴(Paul Kim),비
+20180922,28,지코(Zico),SoulMate (Feat. 아이유)
+20180922,29,닐로(Nil_O),지나오다
+20180922,30,BLACKPINK,Forever Young
+20180922,31,빈첸(VINXEN),유재석(prod.진대호)
+20180922,32,볼빨간사춘기,여행
+20180922,33,iKON,죽겠다 (KILLING ME)
+20180922,34,청하,Love U
+20180922,35,GOT7 (갓세븐),Lullaby
+20180922,36,로이킴,그때 헤어지면 돼
+20180922,37,양다일,미안해
+20180922,38,Apink (에이핑크),1도 없어
+20180922,39,백지영,See You Again (Feat. 리처드 용재 오닐)
+20180922,40,태연 (TAEYEON),Page 0
+20180922,41,방탄소년단,I'm Fine
+20180922,42,멜로망스(MeloMance),동화
+20180922,43,박재범(Jay Park),V
+20180922,44,저스디스(JUSTHIS),IndiGO
+20180922,45,iKON,사랑을 했다 (LOVE SCENARIO)
+20180922,46,방탄소년단,FAKE LOVE
+20180922,47,Charlie Puth(찰리 푸스),Done For Me
+20180922,48,멜로망스(MeloMance),좋은 날
+20180922,49,방탄소년단,Euphoria
+20180922,50,박지민,April Fools (0401)
+20180922,51,먼데이 키즈(Monday Kiz),가을 안부
+20180922,52,(여자)아이들,LATATA
+20180922,53,비투비,너 없인 안 된다
+20180922,54,Sia(시아),Chandelier
+20180922,55,아이유(IU),밤편지
+20180922,56,다비치,마치 우린 없었던 사이 (Prod. 정키)
+20180922,57,Fitz & The Tantrums,Handclap
+20180922,58,멜로망스(MeloMance),You
+20180922,59,모모랜드(MOMOLAND),BAAM
+20180922,60,국.슈 (국프의 핫이슈),Rumor
+20180922,61,헤이즈(HEIZE),비도 오고 그래서 (Feat. 신용재)
+20180922,62,10cm(십센치),폰서트
+20180922,63,HAON(김하온),붕붕 (Feat. 식케이) (Prod. GroovyRoom)
+20180922,64,세븐틴(Seventeen),A-TEEN
+20180922,65,Camila Cabello(카밀라 카베요),Havana (feat. Young Thug)
+20180922,66,크러쉬(Crush),Cereal (Feat. ZICO)
+20180922,67,로꼬,주지마
+20180922,68,멜로망스(MeloMance),선물
+20180922,69,여자친구(GFRIEND),밤 (Time for the moon night)
+20180922,70,닐로(Nil_O),넋두리
+20180922,71,Ed Sheeran(에드 시런),Shape Of You
+20180922,72,용준형,소나기 (Feat. 10cm)
+20180922,73,Imagine Dragons(이매진 드래곤스),Thunder
+20180922,74,마마무(Mamamoo),별이 빛나는 밤
+20180922,75,하은(라코스테남),열애중(답가)
+20180922,76,TWICE (트와이스),What is Love?
+20180922,77,청하,Roller Coaster
+20180922,78,NCT DREAM,We Go Up
+20180922,79,방탄소년단,DNA
+20180922,80,이수현,소리
+20180922,81,모모랜드(MOMOLAND),뿜뿜
+20180922,82,박원,이방인
+20180922,83,Marshmello(마시멜로),FRIENDS
+20180922,84,장덕철,그날처럼
+20180922,85,백현(BAEKHYUN),YOUNG
+20180922,86,에일리(Ailee),첫눈처럼 너에게 가겠다
+20180922,87,임창정,노래방
+20180922,88,BLACKPINK,마지막처럼
+20180922,89,우원재,시차 (We Are) (Feat. 로꼬 & GRAY)
+20180922,90,이수,My Way
+20180922,91,여자친구(GFRIEND),여름여름해 (Sunny Summer)
+20180922,92,스웨덴세탁소,그 여름
+20180922,93,Troye Sivan(트로이 시반),Youth
+20180922,94,임창정,나눠갖지 말아요
+20180922,95,김동률,노래
+20180922,96,방탄소년단,Answer : Love Myself
+20180922,97,Red Velvet (레드벨벳),빨간 맛 (Red Flavor)
+20180922,98,거미,지워져
+20180922,99,기억 조작단,너에게 닿기를 (To reach you)
+20180922,100,볼빨간사춘기,Dejavu
+--------------------------------------------------
+20180923,1,임창정,하루도 그대를 사랑하지 않은 적이 없었다
+20180923,2,로이킴,우리 그만하자
+20180923,3,선미,사이렌(Siren)
+20180923,4,정승환,잘 지내요
+20180923,5,펀치 (Punch),헤어지는 중
+20180923,6,바이브(Vibe),가을 타나 봐
+20180923,7,숀(SHAUN),Way Back Home
+20180923,8,HAON(김하온),NOAH (Feat. 박재범, Hoody)
+20180923,9,오마이걸(OH MY GIRL),불꽃놀이 (Remember Me)
+20180923,10,벤,열애중
+20180923,11,(여자)아이들,한(一)
+20180923,12,폴킴(Paul Kim),모든 날, 모든 순간 (Every day, Every Moment)
+20180923,13,기리보이,flex (Prod. By 기리보이)
+20180923,14,스탠딩 에그(Standing Egg),사랑에 아파본 적 있나요
+20180923,15,Red Velvet (레드벨벳),Power Up
+20180923,16,방탄소년단,IDOL
+20180923,17,모트(Motte),도망가지마
+20180923,18,소녀시대-Oh!GG,몰랐니 (Lil’ Touch)
+20180923,19,10cm(십센치),매트리스
+20180923,20,BLACKPINK,뚜두뚜두 (DDU-DU DDU-DU)
+20180923,21,TWICE (트와이스),Dance The Night Away
+20180923,22,우주소녀,부탁해
+20180923,23,로이킴,왜 몰랐을까
+20180923,24,지코(Zico),SoulMate (Feat. 아이유)
+20180923,25,승리,셋 셀테니 (1, 2, 3!)
+20180923,26,iKON,죽겠다 (KILLING ME)
+20180923,27,마마무(Mamamoo),너나 해 (Egotistic)
+20180923,28,로이킴,그때 헤어지면 돼
+20180923,29,폴킴(Paul Kim),비
+20180923,30,닐로(Nil_O),지나오다
+20180923,31,빈첸(VINXEN),별(feat.김종완 of 넬)(prod.BOYCOLD)
+20180923,32,기리보이,키보드 (Prod. By Hansen)
+20180923,33,볼빨간사춘기,여행
+20180923,34,GOT7 (갓세븐),Lullaby
+20180923,35,빈첸(VINXEN),유재석(prod.진대호)
+20180923,36,백지영,See You Again (Feat. 리처드 용재 오닐)
+20180923,37,BLACKPINK,Forever Young
+20180923,38,멜로망스(MeloMance),동화
+20180923,39,저스디스(JUSTHIS),IndiGO
+20180923,40,양다일,미안해
+20180923,41,Apink (에이핑크),1도 없어
+20180923,42,방탄소년단,I'm Fine
+20180923,43,iKON,사랑을 했다 (LOVE SCENARIO)
+20180923,44,태연 (TAEYEON),Page 0
+20180923,45,청하,Love U
+20180923,46,멜로망스(MeloMance),좋은 날
+20180923,47,로꼬,주지마
+20180923,48,국.슈 (국프의 핫이슈),Rumor
+20180923,49,방탄소년단,Euphoria
+20180923,50,Charlie Puth(찰리 푸스),Done For Me
+20180923,51,Troye Sivan(트로이 시반),Youth
+20180923,52,아이유(IU),밤편지
+20180923,53,여자친구(GFRIEND),밤 (Time for the moon night)
+20180923,54,박재범(Jay Park),V
+20180923,55,Camila Cabello(카밀라 카베요),Havana (feat. Young Thug)
+20180923,56,하은(라코스테남),열애중(답가)
+20180923,57,먼데이 키즈(Monday Kiz),가을 안부
+20180923,58,박원,이방인
+20180923,59,비투비,너 없인 안 된다
+20180923,60,(여자)아이들,LATATA
+20180923,61,닐로(Nil_O),넋두리
+20180923,62,멜로망스(MeloMance),You
+20180923,63,박지민,April Fools (0401)
+20180923,64,용준형,소나기 (Feat. 10cm)
+20180923,65,장덕철,그날처럼
+20180923,66,모모랜드(MOMOLAND),BAAM
+20180923,67,세븐틴(Seventeen),A-TEEN
+20180923,68,Ed Sheeran(에드 시런),Shape Of You
+20180923,69,청하,Roller Coaster
+20180923,70,HAON(김하온),붕붕 (Feat. 식케이) (Prod. GroovyRoom)
+20180923,71,크러쉬(Crush),Cereal (Feat. ZICO)
+20180923,72,멜로망스(MeloMance),선물
+20180923,73,여자친구(GFRIEND),여름여름해 (Sunny Summer)
+20180923,74,Sia(시아),Chandelier
+20180923,75,Fitz & The Tantrums,Handclap
+20180923,76,다비치,마치 우린 없었던 사이 (Prod. 정키)
+20180923,77,10cm(십센치),폰서트
+20180923,78,Imagine Dragons(이매진 드래곤스),Thunder
+20180923,79,우원재,시차 (We Are) (Feat. 로꼬 & GRAY)
+20180923,80,기리보이,Skyblue (Prod. By 기리보이) (Feat. The Quiett, BewhY)
+20180923,81,백현(BAEKHYUN),YOUNG
+20180923,82,에일리(Ailee),첫눈처럼 너에게 가겠다
+20180923,83,Marshmello(마시멜로),FRIENDS
+20180923,84,TWICE (트와이스),What is Love?
+20180923,85,이수,My Way
+20180923,86,임창정,노래방
+20180923,87,임창정,나눠갖지 말아요
+20180923,88,방탄소년단,FAKE LOVE
+20180923,89,이수현,소리
+20180923,90,방탄소년단,Answer : Love Myself
+20180923,91,세정 (구구단),정인 (情人)
+20180923,92,김동률,노래
+20180923,93,모모랜드(MOMOLAND),뿜뿜
+20180923,94,방탄소년단,DNA
+20180923,95,기리보이,hook송 (Prod. By sec paul)
+20180923,96,마마무(Mamamoo),별이 빛나는 밤
+20180923,97,Red Velvet (레드벨벳),빨간 맛 (Red Flavor)
+20180923,98,기리보이,I4P.KR (Prod. By 바이빈)
+20180923,99,헤이즈(HEIZE),비도 오고 그래서 (Feat. 신용재)
+20180923,100,기리보이,키스 (Prod. By taalthechoi) (Feat. 염따)
+--------------------------------------------------
+20180924,1,임창정,하루도 그대를 사랑하지 않은 적이 없었다
+20180924,2,로이킴,우리 그만하자
+20180924,3,선미,사이렌(Siren)
+20180924,4,정승환,잘 지내요
+20180924,5,펀치 (Punch),헤어지는 중
+20180924,6,바이브(Vibe),가을 타나 봐
+20180924,7,숀(SHAUN),Way Back Home
+20180924,8,벤,열애중
+20180924,9,10cm(십센치),Perfect
+20180924,10,HAON(김하온),NOAH (Feat. 박재범, Hoody)
+20180924,11,오마이걸(OH MY GIRL),불꽃놀이 (Remember Me)
+20180924,12,폴킴(Paul Kim),모든 날, 모든 순간 (Every day, Every Moment)
+20180924,13,(여자)아이들,한(一)
+20180924,14,기리보이,flex (Prod. By 기리보이)
+20180924,15,스탠딩 에그(Standing Egg),사랑에 아파본 적 있나요
+20180924,16,모트(Motte),도망가지마
+20180924,17,방탄소년단,IDOL
+20180924,18,GOT7 (갓세븐),Lullaby
+20180924,19,10cm(십센치),매트리스
+20180924,20,Red Velvet (레드벨벳),Power Up
+20180924,21,소녀시대-Oh!GG,몰랐니 (Lil’ Touch)
+20180924,22,BLACKPINK,뚜두뚜두 (DDU-DU DDU-DU)
+20180924,23,TWICE (트와이스),Dance The Night Away
+20180924,24,우주소녀,부탁해
+20180924,25,로이킴,왜 몰랐을까
+20180924,26,승리,셋 셀테니 (1, 2, 3!)
+20180924,27,폴킴(Paul Kim),비
+20180924,28,저스디스(JUSTHIS),IndiGO
+20180924,29,닐로(Nil_O),지나오다
+20180924,30,로이킴,그때 헤어지면 돼
+20180924,31,지코(Zico),SoulMate (Feat. 아이유)
+20180924,32,마마무(Mamamoo),너나 해 (Egotistic)
+20180924,33,멜로망스(MeloMance),좋은 날
+20180924,34,BLACKPINK,Forever Young
+20180924,35,백지영,See You Again (Feat. 리처드 용재 오닐)
+20180924,36,기리보이,키보드 (Prod. By Hansen)
+20180924,37,볼빨간사춘기,여행
+20180924,38,빈첸(VINXEN),별(feat.김종완 of 넬)(prod.BOYCOLD)
+20180924,39,양다일,미안해
+20180924,40,빈첸(VINXEN),유재석(prod.진대호)
+20180924,41,iKON,죽겠다 (KILLING ME)
+20180924,42,멜로망스(MeloMance),동화
+20180924,43,방탄소년단,I'm Fine
+20180924,44,벤,If You Were Me
+20180924,45,Apink (에이핑크),1도 없어
+20180924,46,아이유(IU),밤편지
+20180924,47,청하,Love U
+20180924,48,태연 (TAEYEON),Page 0
+20180924,49,박재범(Jay Park),V
+20180924,50,Charlie Puth(찰리 푸스),Done For Me
+20180924,51,먼데이 키즈(Monday Kiz),가을 안부
+20180924,52,iKON,사랑을 했다 (LOVE SCENARIO)
+20180924,53,(여자)아이들,LATATA
+20180924,54,모모랜드(MOMOLAND),BAAM
+20180924,55,국.슈 (국프의 핫이슈),Rumor
+20180924,56,Troye Sivan(트로이 시반),Youth
+20180924,57,방탄소년단,Euphoria
+20180924,58,세븐틴(Seventeen),A-TEEN
+20180924,59,하은(라코스테남),열애중(답가)
+20180924,60,비투비,너 없인 안 된다
+20180924,61,방탄소년단,FAKE LOVE
+20180924,62,로꼬,주지마
+20180924,63,에일리(Ailee),첫눈처럼 너에게 가겠다
+20180924,64,닐로(Nil_O),넋두리
+20180924,65,멜로망스(MeloMance),선물
+20180924,66,박지민,April Fools (0401)
+20180924,67,청하,Roller Coaster
+20180924,68,박원,이방인
+20180924,69,Fitz & The Tantrums,Handclap
+20180924,70,HAON(김하온),붕붕 (Feat. 식케이) (Prod. GroovyRoom)
+20180924,71,이수현,소리
+20180924,72,Sia(시아),Chandelier
+20180924,73,Imagine Dragons(이매진 드래곤스),Thunder
+20180924,74,헤이즈(HEIZE),비도 오고 그래서 (Feat. 신용재)
+20180924,75,백현(BAEKHYUN),YOUNG
+20180924,76,용준형,소나기 (Feat. 10cm)
+20180924,77,기리보이,Skyblue (Prod. By 기리보이) (Feat. The Quiett, BewhY)
+20180924,78,BLACKPINK,마지막처럼
+20180924,79,방탄소년단,DNA
+20180924,80,TWICE (트와이스),What is Love?
+20180924,81,Camila Cabello(카밀라 카베요),Havana (feat. Young Thug)
+20180924,82,10cm(십센치),폰서트
+20180924,83,여자친구(GFRIEND),밤 (Time for the moon night)
+20180924,84,방탄소년단,Answer : Love Myself
+20180924,85,크러쉬(Crush),Cereal (Feat. ZICO)
+20180924,86,우원재,시차 (We Are) (Feat. 로꼬 & GRAY)
+20180924,87,멜로망스(MeloMance),You
+20180924,88,장덕철,그날처럼
+20180924,89,Ed Sheeran(에드 시런),Shape Of You
+20180924,90,기리보이,hook송 (Prod. By sec paul)
+20180924,91,이수,My Way
+20180924,92,여자친구(GFRIEND),여름여름해 (Sunny Summer)
+20180924,93,모모랜드(MOMOLAND),뿜뿜
+20180924,94,다비치,마치 우린 없었던 사이 (Prod. 정키)
+20180924,95,Marshmello(마시멜로),FRIENDS
+20180924,96,마마무(Mamamoo),별이 빛나는 밤
+20180924,97,세정 (구구단),정인 (情人)
+20180924,98,NCT DREAM,We Go Up
+20180924,99,기리보이,I4P.KR (Prod. By 바이빈)
+20180924,100,임창정,노래방
+--------------------------------------------------
+20180925,1,임창정,하루도 그대를 사랑하지 않은 적이 없었다
+20180925,2,로이킴,우리 그만하자
+20180925,3,선미,사이렌(Siren)
+20180925,4,펀치 (Punch),헤어지는 중
+20180925,5,바이브(Vibe),가을 타나 봐
+20180925,6,정승환,잘 지내요
+20180925,7,벤,열애중
+20180925,8,숀(SHAUN),Way Back Home
+20180925,9,HAON(김하온),NOAH (Feat. 박재범, Hoody)
+20180925,10,오마이걸(OH MY GIRL),불꽃놀이 (Remember Me)
+20180925,11,폴킴(Paul Kim),모든 날, 모든 순간 (Every day, Every Moment)
+20180925,12,(여자)아이들,한(一)
+20180925,13,기리보이,flex (Prod. By 기리보이)
+20180925,14,10cm(십센치),Perfect
+20180925,15,스탠딩 에그(Standing Egg),사랑에 아파본 적 있나요
+20180925,16,모트(Motte),도망가지마
+20180925,17,10cm(십센치),매트리스
+20180925,18,BLACKPINK,뚜두뚜두 (DDU-DU DDU-DU)
+20180925,19,방탄소년단,IDOL
+20180925,20,GOT7 (갓세븐),Lullaby
+20180925,21,Red Velvet (레드벨벳),Power Up
+20180925,22,소녀시대-Oh!GG,몰랐니 (Lil’ Touch)
+20180925,23,TWICE (트와이스),Dance The Night Away
+20180925,24,볼빨간사춘기,여행
+20180925,25,우주소녀,부탁해
+20180925,26,로이킴,왜 몰랐을까
+20180925,27,마마무(Mamamoo),너나 해 (Egotistic)
+20180925,28,승리,셋 셀테니 (1, 2, 3!)
+20180925,29,빈첸(VINXEN),별(feat.김종완 of 넬)(prod.BOYCOLD)
+20180925,30,저스디스(JUSTHIS),IndiGO
+20180925,31,지코(Zico),SoulMate (Feat. 아이유)
+20180925,32,닐로(Nil_O),지나오다
+20180925,33,로이킴,그때 헤어지면 돼
+20180925,34,폴킴(Paul Kim),비
+20180925,35,BLACKPINK,Forever Young
+20180925,36,빈첸(VINXEN),유재석(prod.진대호)
+20180925,37,Apink (에이핑크),1도 없어
+20180925,38,백지영,See You Again (Feat. 리처드 용재 오닐)
+20180925,39,아이유(IU),밤편지
+20180925,40,태연 (TAEYEON),Page 0
+20180925,41,양다일,미안해
+20180925,42,멜로망스(MeloMance),좋은 날
+20180925,43,Charlie Puth(찰리 푸스),Done For Me
+20180925,44,청하,Love U
+20180925,45,기리보이,키보드 (Prod. By Hansen)
+20180925,46,iKON,사랑을 했다 (LOVE SCENARIO)
+20180925,47,iKON,죽겠다 (KILLING ME)
+20180925,48,멜로망스(MeloMance),동화
+20180925,49,하은(라코스테남),열애중(답가)
+20180925,50,박재범(Jay Park),V
+20180925,51,Fitz & The Tantrums,Handclap
+20180925,52,Camila Cabello(카밀라 카베요),Havana (feat. Young Thug)
+20180925,53,멜로망스(MeloMance),선물
+20180925,54,로꼬,주지마
+20180925,55,비투비,너 없인 안 된다
+20180925,56,방탄소년단,I'm Fine
+20180925,57,방탄소년단,Euphoria
+20180925,58,먼데이 키즈(Monday Kiz),가을 안부
+20180925,59,닐로(Nil_O),넋두리
+20180925,60,국.슈 (국프의 핫이슈),Rumor
+20180925,61,모모랜드(MOMOLAND),BAAM
+20180925,62,세정 (구구단),정인 (情人)
+20180925,63,(여자)아이들,LATATA
+20180925,64,에일리(Ailee),첫눈처럼 너에게 가겠다
+20180925,65,용준형,소나기 (Feat. 10cm)
+20180925,66,장덕철,그날처럼
+20180925,67,Imagine Dragons(이매진 드래곤스),Thunder
+20180925,68,Ed Sheeran(에드 시런),Shape Of You
+20180925,69,여자친구(GFRIEND),밤 (Time for the moon night)
+20180925,70,멜로망스(MeloMance),You
+20180925,71,Sia(시아),Chandelier
+20180925,72,헤이즈(HEIZE),비도 오고 그래서 (Feat. 신용재)
+20180925,73,박지민,April Fools (0401)
+20180925,74,우원재,시차 (We Are) (Feat. 로꼬 & GRAY)
+20180925,75,Troye Sivan(트로이 시반),Youth
+20180925,76,HAON(김하온),붕붕 (Feat. 식케이) (Prod. GroovyRoom)
+20180925,77,Marshmello(마시멜로),FRIENDS
+20180925,78,10cm(십센치),폰서트
+20180925,79,이수현,소리
+20180925,80,박원,이방인
+20180925,81,마마무(Mamamoo),별이 빛나는 밤
+20180925,82,청하,Roller Coaster
+20180925,83,임창정,노래방
+20180925,84,방탄소년단,FAKE LOVE
+20180925,85,TWICE (트와이스),What is Love?
+20180925,86,다비치,마치 우린 없었던 사이 (Prod. 정키)
+20180925,87,모모랜드(MOMOLAND),뿜뿜
+20180925,88,크러쉬(Crush),Cereal (Feat. ZICO)
+20180925,89,벤,If You Were Me
+20180925,90,방탄소년단,Answer : Love Myself
+20180925,91,방탄소년단,DNA
+20180925,92,이수,My Way
+20180925,93,Red Velvet (레드벨벳),빨간 맛 (Red Flavor)
+20180925,94,백현(BAEKHYUN),YOUNG
+20180925,95,기리보이,Skyblue (Prod. By 기리보이) (Feat. The Quiett, BewhY)
+20180925,96,여자친구(GFRIEND),여름여름해 (Sunny Summer)
+20180925,97,세븐틴(Seventeen),A-TEEN
+20180925,98,BLACKPINK,마지막처럼
+20180925,99,임창정,나눠갖지 말아요
+20180925,100,NCT DREAM,We Go Up
+--------------------------------------------------
+20180926,1,임창정,하루도 그대를 사랑하지 않은 적이 없었다
+20180926,2,로이킴,우리 그만하자
+20180926,3,선미,사이렌(Siren)
+20180926,4,정승환,잘 지내요
+20180926,5,펀치 (Punch),헤어지는 중
+20180926,6,바이브(Vibe),가을 타나 봐
+20180926,7,벤,열애중
+20180926,8,숀(SHAUN),Way Back Home
+20180926,9,폴킴(Paul Kim),모든 날, 모든 순간 (Every day, Every Moment)
+20180926,10,HAON(김하온),NOAH (Feat. 박재범, Hoody)
+20180926,11,오마이걸(OH MY GIRL),불꽃놀이 (Remember Me)
+20180926,12,기리보이,flex (Prod. By 기리보이)
+20180926,13,(여자)아이들,한(一)
+20180926,14,BLACKPINK,뚜두뚜두 (DDU-DU DDU-DU)
+20180926,15,스탠딩 에그(Standing Egg),사랑에 아파본 적 있나요
+20180926,16,Red Velvet (레드벨벳),Power Up
+20180926,17,우주소녀,부탁해
+20180926,18,TWICE (트와이스),Dance The Night Away
+20180926,19,방탄소년단,IDOL
+20180926,20,10cm(십센치),매트리스
+20180926,21,모트(Motte),도망가지마
+20180926,22,소녀시대-Oh!GG,몰랐니 (Lil’ Touch)
+20180926,23,승리,셋 셀테니 (1, 2, 3!)
+20180926,24,마마무(Mamamoo),너나 해 (Egotistic)
+20180926,25,로이킴,왜 몰랐을까
+20180926,26,지코(Zico),SoulMate (Feat. 아이유)
+20180926,27,로이킴,그때 헤어지면 돼
+20180926,28,볼빨간사춘기,여행
+20180926,29,GOT7 (갓세븐),Lullaby
+20180926,30,닐로(Nil_O),지나오다
+20180926,31,저스디스(JUSTHIS),IndiGO
+20180926,32,BLACKPINK,Forever Young
+20180926,33,양다일,미안해
+20180926,34,Apink (에이핑크),1도 없어
+20180926,35,폴킴(Paul Kim),비
+20180926,36,청하,Love U
+20180926,37,멜로망스(MeloMance),동화
+20180926,38,iKON,죽겠다 (KILLING ME)
+20180926,39,iKON,사랑을 했다 (LOVE SCENARIO)
+20180926,40,Charlie Puth(찰리 푸스),Done For Me
+20180926,41,빈첸(VINXEN),유재석(prod.진대호)
+20180926,42,10cm(십센치),Perfect
+20180926,43,백지영,See You Again (Feat. 리처드 용재 오닐)
+20180926,44,멜로망스(MeloMance),선물
+20180926,45,로꼬,주지마
+20180926,46,빈첸(VINXEN),별(feat.김종완 of 넬)(prod.BOYCOLD)
+20180926,47,장덕철,그날처럼
+20180926,48,아이유(IU),밤편지
+20180926,49,Camila Cabello(카밀라 카베요),Havana (feat. Young Thug)
+20180926,50,태연 (TAEYEON),Page 0
+20180926,51,기리보이,키보드 (Prod. By Hansen)
+20180926,52,비투비,너 없인 안 된다
+20180926,53,방탄소년단,I'm Fine
+20180926,54,먼데이 키즈(Monday Kiz),가을 안부
+20180926,55,박재범(Jay Park),V
+20180926,56,방탄소년단,Euphoria
+20180926,57,멜로망스(MeloMance),좋은 날
+20180926,58,박지민,April Fools (0401)
+20180926,59,여자친구(GFRIEND),밤 (Time for the moon night)
+20180926,60,하은(라코스테남),열애중(답가)
+20180926,61,10cm(십센치),폰서트
+20180926,62,Fitz & The Tantrums,Handclap
+20180926,63,멜로망스(MeloMance),You
+20180926,64,우원재,시차 (We Are) (Feat. 로꼬 & GRAY)
+20180926,65,청하,Roller Coaster
+20180926,66,Ed Sheeran(에드 시런),Shape Of You
+20180926,67,Troye Sivan(트로이 시반),Youth
+20180926,68,방탄소년단,FAKE LOVE
+20180926,69,국.슈 (국프의 핫이슈),Rumor
+20180926,70,(여자)아이들,LATATA
+20180926,71,벤,If You Were Me
+20180926,72,모모랜드(MOMOLAND),BAAM
+20180926,73,Sia(시아),Chandelier
+20180926,74,에일리(Ailee),첫눈처럼 너에게 가겠다
+20180926,75,헤이즈(HEIZE),비도 오고 그래서 (Feat. 신용재)
+20180926,76,닐로(Nil_O),넋두리
+20180926,77,크러쉬(Crush),Cereal (Feat. ZICO)
+20180926,78,TWICE (트와이스),What is Love?
+20180926,79,Imagine Dragons(이매진 드래곤스),Thunder
+20180926,80,진영,이 사랑을
+20180926,81,Red Velvet (레드벨벳),빨간 맛 (Red Flavor)
+20180926,82,여자친구(GFRIEND),여름여름해 (Sunny Summer)
+20180926,83,마마무(Mamamoo),별이 빛나는 밤
+20180926,84,Marshmello(마시멜로),FRIENDS
+20180926,85,HAON(김하온),붕붕 (Feat. 식케이) (Prod. GroovyRoom)
+20180926,86,다비치,마치 우린 없었던 사이 (Prod. 정키)
+20180926,87,임창정,노래방
+20180926,88,이수,My Way
+20180926,89,방탄소년단,DNA
+20180926,90,임창정,나눠갖지 말아요
+20180926,91,용준형,소나기 (Feat. 10cm)
+20180926,92,BLACKPINK,마지막처럼
+20180926,93,세븐틴(Seventeen),A-TEEN
+20180926,94,백현(BAEKHYUN),YOUNG
+20180926,95,모모랜드(MOMOLAND),뿜뿜
+20180926,96,이수현,소리
+20180926,97,박원,이방인
+20180926,98,임한별,이별하러 가는 길
+20180926,99,방탄소년단,Answer : Love Myself
+20180926,100,방탄소년단,봄날
+--------------------------------------------------
+20180927,1,임창정,하루도 그대를 사랑하지 않은 적이 없었다
+20180927,2,로이킴,우리 그만하자
+20180927,3,선미,사이렌(Siren)
+20180927,4,정승환,잘 지내요
+20180927,5,바이브(Vibe),가을 타나 봐
+20180927,6,펀치 (Punch),헤어지는 중
+20180927,7,벤,열애중
+20180927,8,숀(SHAUN),Way Back Home
+20180927,9,기리보이,flex (Prod. By 기리보이)
+20180927,10,오마이걸(OH MY GIRL),불꽃놀이 (Remember Me)
+20180927,11,HAON(김하온),NOAH (Feat. 박재범, Hoody)
+20180927,12,폴킴(Paul Kim),모든 날, 모든 순간 (Every day, Every Moment)
+20180927,13,(여자)아이들,한(一)
+20180927,14,10cm(십센치),매트리스
+20180927,15,스탠딩 에그(Standing Egg),사랑에 아파본 적 있나요
+20180927,16,Red Velvet (레드벨벳),Power Up
+20180927,17,BLACKPINK,뚜두뚜두 (DDU-DU DDU-DU)
+20180927,18,소녀시대-Oh!GG,몰랐니 (Lil’ Touch)
+20180927,19,모트(Motte),도망가지마
+20180927,20,방탄소년단,IDOL
+20180927,21,우주소녀,부탁해
+20180927,22,TWICE (트와이스),Dance The Night Away
+20180927,23,로이킴,왜 몰랐을까
+20180927,24,닐로(Nil_O),지나오다
+20180927,25,저스디스(JUSTHIS),IndiGO
+20180927,26,GOT7 (갓세븐),Lullaby
+20180927,27,지코(Zico),SoulMate (Feat. 아이유)
+20180927,28,폴킴(Paul Kim),비
+20180927,29,마마무(Mamamoo),너나 해 (Egotistic)
+20180927,30,로이킴,그때 헤어지면 돼
+20180927,31,승리,셋 셀테니 (1, 2, 3!)
+20180927,32,10cm(십센치),Perfect
+20180927,33,양다일,미안해
+20180927,34,BLACKPINK,Forever Young
+20180927,35,빈첸(VINXEN),별(feat.김종완 of 넬)(prod.BOYCOLD)
+20180927,36,Apink (에이핑크),1도 없어
+20180927,37,멜로망스(MeloMance),동화
+20180927,38,볼빨간사춘기,여행
+20180927,39,Charlie Puth(찰리 푸스),Done For Me
+20180927,40,태연 (TAEYEON),Page 0
+20180927,41,멜로망스(MeloMance),좋은 날
+20180927,42,iKON,죽겠다 (KILLING ME)
+20180927,43,빈첸(VINXEN),유재석(prod.진대호)
+20180927,44,청하,Love U
+20180927,45,아이유(IU),밤편지
+20180927,46,기리보이,키보드 (Prod. By Hansen)
+20180927,47,(여자)아이들,LATATA
+20180927,48,닐로(Nil_O),넋두리
+20180927,49,박재범(Jay Park),V
+20180927,50,먼데이 키즈(Monday Kiz),가을 안부
+20180927,51,방탄소년단,I'm Fine
+20180927,52,백지영,See You Again (Feat. 리처드 용재 오닐)
+20180927,53,다비치,마치 우린 없었던 사이 (Prod. 정키)
+20180927,54,비투비,너 없인 안 된다
+20180927,55,로꼬,주지마
+20180927,56,하은(라코스테남),열애중(답가)
+20180927,57,Troye Sivan(트로이 시반),Youth
+20180927,58,국.슈 (국프의 핫이슈),Rumor
+20180927,59,박지민,April Fools (0401)
+20180927,60,장덕철,그날처럼
+20180927,61,iKON,사랑을 했다 (LOVE SCENARIO)
+20180927,62,10cm(십센치),폰서트
+20180927,63,멜로망스(MeloMance),선물
+20180927,64,Sia(시아),Chandelier
+20180927,65,청하,Roller Coaster
+20180927,66,박원,이방인
+20180927,67,임한별,이별하러 가는 길
+20180927,68,크러쉬(Crush),Cereal (Feat. ZICO)
+20180927,69,방탄소년단,Euphoria
+20180927,70,HAON(김하온),붕붕 (Feat. 식케이) (Prod. GroovyRoom)
+20180927,71,백현(BAEKHYUN),YOUNG
+20180927,72,방탄소년단,FAKE LOVE
+20180927,73,여자친구(GFRIEND),밤 (Time for the moon night)
+20180927,74,Camila Cabello(카밀라 카베요),Havana (feat. Young Thug)
+20180927,75,이수현,소리
+20180927,76,Ed Sheeran(에드 시런),Shape Of You
+20180927,77,멜로망스(MeloMance),You
+20180927,78,세븐틴(Seventeen),A-TEEN
+20180927,79,Imagine Dragons(이매진 드래곤스),Thunder
+20180927,80,에일리(Ailee),첫눈처럼 너에게 가겠다
+20180927,81,모모랜드(MOMOLAND),BAAM
+20180927,82,TWICE (트와이스),What is Love?
+20180927,83,마마무(Mamamoo),별이 빛나는 밤
+20180927,84,BLACKPINK,마지막처럼
+20180927,85,Marshmello(마시멜로),FRIENDS
+20180927,86,Fitz & The Tantrums,Handclap
+20180927,87,방탄소년단,Answer : Love Myself
+20180927,88,우원재,시차 (We Are) (Feat. 로꼬 & GRAY)
+20180927,89,모모랜드(MOMOLAND),뿜뿜
+20180927,90,여자친구(GFRIEND),여름여름해 (Sunny Summer)
+20180927,91,용준형,소나기 (Feat. 10cm)
+20180927,92,임창정,노래방
+20180927,93,이수,My Way
+20180927,94,Red Velvet (레드벨벳),빨간 맛 (Red Flavor)
+20180927,95,벤,If You Were Me
+20180927,96,MJ(써니사이드),첫사랑 two (Feat. 윤해솔)
+20180927,97,헤이즈(HEIZE),비도 오고 그래서 (Feat. 신용재)
+20180927,98,방탄소년단,DNA
+20180927,99,세정 (구구단),정인 (情人)
+20180927,100,NCT DREAM,We Go Up
+--------------------------------------------------
+20180928,1,임창정,하루도 그대를 사랑하지 않은 적이 없었다
+20180928,2,로이킴,우리 그만하자
+20180928,3,선미,사이렌(Siren)
+20180928,4,정승환,잘 지내요
+20180928,5,바이브(Vibe),가을 타나 봐
+20180928,6,펀치 (Punch),헤어지는 중
+20180928,7,벤,열애중
+20180928,8,숀(SHAUN),Way Back Home
+20180928,9,오마이걸(OH MY GIRL),불꽃놀이 (Remember Me)
+20180928,10,HAON(김하온),NOAH (Feat. 박재범, Hoody)
+20180928,11,폴킴(Paul Kim),모든 날, 모든 순간 (Every day, Every Moment)
+20180928,12,기리보이,flex (Prod. By 기리보이)
+20180928,13,스탠딩 에그(Standing Egg),사랑에 아파본 적 있나요
+20180928,14,(여자)아이들,한(一)
+20180928,15,모트(Motte),도망가지마
+20180928,16,Red Velvet (레드벨벳),Power Up
+20180928,17,BLACKPINK,뚜두뚜두 (DDU-DU DDU-DU)
+20180928,18,소녀시대-Oh!GG,몰랐니 (Lil’ Touch)
+20180928,19,10cm(십센치),매트리스
+20180928,20,우주소녀,부탁해
+20180928,21,방탄소년단,IDOL
+20180928,22,로이킴,왜 몰랐을까
+20180928,23,GOT7 (갓세븐),Lullaby
+20180928,24,10cm(십센치),Perfect
+20180928,25,폴킴(Paul Kim),비
+20180928,26,저스디스(JUSTHIS),IndiGO
+20180928,27,TWICE (트와이스),Dance The Night Away
+20180928,28,마마무(Mamamoo),너나 해 (Egotistic)
+20180928,29,승리,셋 셀테니 (1, 2, 3!)
+20180928,30,로이킴,그때 헤어지면 돼
+20180928,31,볼빨간사춘기,여행
+20180928,32,지코(Zico),SoulMate (Feat. 아이유)
+20180928,33,BLACKPINK,Forever Young
+20180928,34,닐로(Nil_O),지나오다
+20180928,35,백지영,See You Again (Feat. 리처드 용재 오닐)
+20180928,36,빈첸(VINXEN),별(feat.김종완 of 넬)(prod.BOYCOLD)
+20180928,37,Apink (에이핑크),1도 없어
+20180928,38,iKON,죽겠다 (KILLING ME)
+20180928,39,멜로망스(MeloMance),좋은 날
+20180928,40,태연 (TAEYEON),Page 0
+20180928,41,양다일,미안해
+20180928,42,기리보이,키보드 (Prod. By Hansen)
+20180928,43,먼데이 키즈(Monday Kiz),가을 안부
+20180928,44,장덕철,그날처럼
+20180928,45,임한별,이별하러 가는 길
+20180928,46,멜로망스(MeloMance),동화
+20180928,47,아이유(IU),밤편지
+20180928,48,이수현,소리
+20180928,49,방탄소년단,I'm Fine
+20180928,50,Charlie Puth(찰리 푸스),Done For Me
+20180928,51,박재범(Jay Park),V
+20180928,52,모모랜드(MOMOLAND),뿜뿜
+20180928,53,청하,Love U
+20180928,54,박지민,April Fools (0401)
+20180928,55,닐로(Nil_O),넋두리
+20180928,56,비투비,너 없인 안 된다
+20180928,57,멜로망스(MeloMance),선물
+20180928,58,로꼬,주지마
+20180928,59,빈첸(VINXEN),유재석(prod.진대호)
+20180928,60,Troye Sivan(트로이 시반),Youth
+20180928,61,박원,이방인
+20180928,62,세정 (구구단),정인 (情人)
+20180928,63,여자친구(GFRIEND),밤 (Time for the moon night)
+20180928,64,방탄소년단,Euphoria
+20180928,65,Camila Cabello(카밀라 카베요),Havana (feat. Young Thug)
+20180928,66,청하,Roller Coaster
+20180928,67,Imagine Dragons(이매진 드래곤스),Thunder
+20180928,68,멜로망스(MeloMance),You
+20180928,69,iKON,사랑을 했다 (LOVE SCENARIO)
+20180928,70,우원재,시차 (We Are) (Feat. 로꼬 & GRAY)
+20180928,71,(여자)아이들,LATATA
+20180928,72,10cm(십센치),폰서트
+20180928,73,HAON(김하온),붕붕 (Feat. 식케이) (Prod. GroovyRoom)
+20180928,74,하은(라코스테남),열애중(답가)
+20180928,75,Ed Sheeran(에드 시런),Shape Of You
+20180928,76,방탄소년단,FAKE LOVE
+20180928,77,TWICE (트와이스),What is Love?
+20180928,78,Fitz & The Tantrums,Handclap
+20180928,79,Sia(시아),Chandelier
+20180928,80,벤,If You Were Me
+20180928,81,다비치,마치 우린 없었던 사이 (Prod. 정키)
+20180928,82,이수,My Way
+20180928,83,BLACKPINK,마지막처럼
+20180928,84,국.슈 (국프의 핫이슈),Rumor
+20180928,85,Red Velvet (레드벨벳),빨간 맛 (Red Flavor)
+20180928,86,마마무(Mamamoo),별이 빛나는 밤
+20180928,87,용준형,소나기 (Feat. 10cm)
+20180928,88,여자친구(GFRIEND),여름여름해 (Sunny Summer)
+20180928,89,임창정,노래방
+20180928,90,Kid Milli,WHY DO FUCKBOIS HANG OUT ON THE NET
+20180928,91,모모랜드(MOMOLAND),BAAM
+20180928,92,Marshmello(마시멜로),FRIENDS
+20180928,93,세븐틴(Seventeen),A-TEEN
+20180928,94,크러쉬(Crush),Cereal (Feat. ZICO)
+20180928,95,헤이즈(HEIZE),비도 오고 그래서 (Feat. 신용재)
+20180928,96,에일리(Ailee),첫눈처럼 너에게 가겠다
+20180928,97,방탄소년단,DNA
+20180928,98,임창정,나눠갖지 말아요
+20180928,99,방탄소년단,Answer : Love Myself
+20180928,100,SUPER JUNIOR (슈퍼주니어),Animals
+--------------------------------------------------
+20180929,1,슬기(SEULGI),Wow Thing
+20180929,2,임창정,하루도 그대를 사랑하지 않은 적이 없었다
+20180929,3,로이킴,우리 그만하자
+20180929,4,선미,사이렌(Siren)
+20180929,5,바이브(Vibe),가을 타나 봐
+20180929,6,정승환,잘 지내요
+20180929,7,펀치 (Punch),헤어지는 중
+20180929,8,숀(SHAUN),Way Back Home
+20180929,9,벤,열애중
+20180929,10,오마이걸(OH MY GIRL),불꽃놀이 (Remember Me)
+20180929,11,HAON(김하온),NOAH (Feat. 박재범, Hoody)
+20180929,12,폴킴(Paul Kim),모든 날, 모든 순간 (Every day, Every Moment)
+20180929,13,기리보이,flex (Prod. By 기리보이)
+20180929,14,(여자)아이들,한(一)
+20180929,15,소녀시대-Oh!GG,몰랐니 (Lil’ Touch)
+20180929,16,Red Velvet (레드벨벳),Power Up
+20180929,17,스탠딩 에그(Standing Egg),사랑에 아파본 적 있나요
+20180929,18,방탄소년단,IDOL
+20180929,19,BLACKPINK,뚜두뚜두 (DDU-DU DDU-DU)
+20180929,20,10cm(십센치),매트리스
+20180929,21,황치열,행복해야해 (Please...)
+20180929,22,모트(Motte),도망가지마
+20180929,23,TWICE (트와이스),Dance The Night Away
+20180929,24,10cm(십센치),Perfect
+20180929,25,우주소녀,부탁해
+20180929,26,GOT7 (갓세븐),Lullaby
+20180929,27,로이킴,왜 몰랐을까
+20180929,28,마마무(Mamamoo),너나 해 (Egotistic)
+20180929,29,승리,셋 셀테니 (1, 2, 3!)
+20180929,30,저스디스(JUSTHIS),IndiGO
+20180929,31,볼빨간사춘기,여행
+20180929,32,지코(Zico),SoulMate (Feat. 아이유)
+20180929,33,닐로(Nil_O),지나오다
+20180929,34,BLACKPINK,Forever Young
+20180929,35,로이킴,그때 헤어지면 돼
+20180929,36,iKON,죽겠다 (KILLING ME)
+20180929,37,폴킴(Paul Kim),비
+20180929,38,Apink (에이핑크),1도 없어
+20180929,39,양다일,미안해
+20180929,40,아이유(IU),밤편지
+20180929,41,멜로망스(MeloMance),동화
+20180929,42,태연 (TAEYEON),Page 0
+20180929,43,Charlie Puth(찰리 푸스),Done For Me
+20180929,44,백지영,See You Again (Feat. 리처드 용재 오닐)
+20180929,45,청하,Love U
+20180929,46,Fitz & The Tantrums,Handclap
+20180929,47,Camila Cabello(카밀라 카베요),Havana (feat. Young Thug)
+20180929,48,박재범(Jay Park),V
+20180929,49,(여자)아이들,LATATA
+20180929,50,멜로망스(MeloMance),좋은 날
+20180929,51,iKON,사랑을 했다 (LOVE SCENARIO)
+20180929,52,방탄소년단,I'm Fine
+20180929,53,모모랜드(MOMOLAND),BAAM
+20180929,54,장덕철,그날처럼
+20180929,55,먼데이 키즈(Monday Kiz),가을 안부
+20180929,56,방탄소년단,FAKE LOVE
+20180929,57,로꼬,주지마
+20180929,58,Sia(시아),Chandelier
+20180929,59,빈첸(VINXEN),별(feat.김종완 of 넬)(prod.BOYCOLD)
+20180929,60,여자친구(GFRIEND),밤 (Time for the moon night)
+20180929,61,Ed Sheeran(에드 시런),Shape Of You
+20180929,62,다비치,마치 우린 없었던 사이 (Prod. 정키)
+20180929,63,빈첸(VINXEN),유재석(prod.진대호)
+20180929,64,비투비,너 없인 안 된다
+20180929,65,Troye Sivan(트로이 시반),Youth
+20180929,66,Marshmello(마시멜로),FRIENDS
+20180929,67,멜로망스(MeloMance),You
+20180929,68,청하,Roller Coaster
+20180929,69,임한별,이별하러 가는 길
+20180929,70,방탄소년단,Euphoria
+20180929,71,멜로망스(MeloMance),선물
+20180929,72,HAON(김하온),붕붕 (Feat. 식케이) (Prod. GroovyRoom)
+20180929,73,국.슈 (국프의 핫이슈),Rumor
+20180929,74,박지민,April Fools (0401)
+20180929,75,이수현,소리
+20180929,76,TWICE (트와이스),What is Love?
+20180929,77,하은(라코스테남),열애중(답가)
+20180929,78,여자친구(GFRIEND),여름여름해 (Sunny Summer)
+20180929,79,크러쉬(Crush),Cereal (Feat. ZICO)
+20180929,80,닐로(Nil_O),넋두리
+20180929,81,모모랜드(MOMOLAND),뿜뿜
+20180929,82,에일리(Ailee),첫눈처럼 너에게 가겠다
+20180929,83,마마무(Mamamoo),별이 빛나는 밤
+20180929,84,10cm(십센치),폰서트
+20180929,85,박원,이방인
+20180929,86,기리보이,키보드 (Prod. By Hansen)
+20180929,87,방탄소년단,Answer : Love Myself
+20180929,88,세븐틴(Seventeen),A-TEEN
+20180929,89,용준형,소나기 (Feat. 10cm)
+20180929,90,Imagine Dragons(이매진 드래곤스),Thunder
+20180929,91,이수,My Way
+20180929,92,헤이즈(HEIZE),비도 오고 그래서 (Feat. 신용재)
+20180929,93,임창정,나눠갖지 말아요
+20180929,94,BLACKPINK,마지막처럼
+20180929,95,방탄소년단,DNA
+20180929,96,임창정,노래방
+20180929,97,Red Velvet (레드벨벳),빨간 맛 (Red Flavor)
+20180929,98,우원재,시차 (We Are) (Feat. 로꼬 & GRAY)
+20180929,99,백현(BAEKHYUN),YOUNG
+20180929,100,세정 (구구단),정인 (情人)
+--------------------------------------------------
