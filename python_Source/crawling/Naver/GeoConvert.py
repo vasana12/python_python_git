@@ -1,7 +1,7 @@
 import urllib.request
 import datetime
 import json
-from Naver.config import *
+from crawling.Naver.config import *
 
 def get_request_url(url):
 

@@ -63,8 +63,11 @@ def GoobneAddress(result):
         rcv_data = wd.page_source
 
         soupData = BeautifulSoup(rcv_data, 'html.parser')
-
+        print('tbody=',soupData.findAll('tbody', attrs={'id':'store_list'}))
+        print('tbody_type=',type(soupData.findAll('tbody', attrs={'id':'store_list'})))
         for store_list in soupData.findAll('tbody', attrs={'id': 'store_list'}):
+            print('store_list=', store_list)
+            print('store_list_type=',type(store_list))
             for store_tr in store_list:
                 print(store_tr)
                 tr_tag = list(store_tr.strings)
