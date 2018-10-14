@@ -18,6 +18,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+          <entry key="csv" value="1" />
           <entry key="json" value="1" />
           <entry key="py" value="6" />
         </counts>
@@ -25,6 +26,7 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="JSON" value="1" />
+          <entry key="PLAIN_TEXT" value="1" />
           <entry key="Python" value="6" />
         </counts>
       </usages-collector>
@@ -49,14 +51,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/developmentP/ch02/chicken_Goobne.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="15" column="16" lean-forward="true" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+            <state relative-caret-position="304">
+              <caret line="97" column="25" selection-start-line="97" selection-start-column="25" selection-end-line="97" selection-end-column="25" />
               <folding>
                 <element signature="e#0#21#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/developmentP/ch02/goobne_1.csv">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="117">
+              <caret line="962" column="39" selection-start-line="962" selection-start-column="39" selection-end-line="962" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -77,7 +88,7 @@
         <entry file="file://$PROJECT_DIR$/crawling/Naver/snsNVC_jien_blog.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1136">
-              <caret line="109" column="34" lean-forward="true" selection-start-line="109" selection-start-column="34" selection-end-line="109" selection-end-column="34" />
+              <caret line="109" column="34" selection-start-line="109" selection-start-column="34" selection-end-line="109" selection-end-column="34" />
               <folding>
                 <element signature="e#0#21#0" expanded="true" />
               </folding>
@@ -89,7 +100,7 @@
         <entry file="file://$PROJECT_DIR$/crawling/Naver/문재인 naver_blog_DB.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="133">
-              <caret line="7" column="22" lean-forward="true" selection-start-line="2" selection-start-column="9" selection-end-line="7" selection-end-column="22" />
+              <caret line="7" column="22" selection-start-line="2" selection-start-column="9" selection-end-line="7" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -115,6 +126,11 @@
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>창원</find>
+    </findStrings>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -154,12 +170,6 @@
               <item name="python_Source" type="b2602c69:ProjectViewProjectNode" />
               <item name="python_Source" type="462c0819:PsiDirectoryNode" />
               <item name="developmentP" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python_Source" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python_Source" type="462c0819:PsiDirectoryNode" />
-              <item name="developmentP" type="462c0819:PsiDirectoryNode" />
-              <item name="ch02" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -273,11 +283,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="7" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13354531" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16216215" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
       <window_info anchor="bottom" id="Python Console" />
@@ -285,7 +294,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3291815" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.23131673" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.23131673" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -333,14 +342,14 @@
     <entry file="file://$PROJECT_DIR$/crawling/Naver/문재인 naver_blog_DB.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
-          <caret line="7" column="22" lean-forward="true" selection-start-line="2" selection-start-column="9" selection-end-line="7" selection-end-column="22" />
+          <caret line="7" column="22" selection-start-line="2" selection-start-column="9" selection-end-line="7" selection-end-column="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/crawling/Naver/snsNVC_jien_blog.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1136">
-          <caret line="109" column="34" lean-forward="true" selection-start-line="109" selection-start-column="34" selection-end-line="109" selection-end-column="34" />
+          <caret line="109" column="34" selection-start-line="109" selection-start-column="34" selection-end-line="109" selection-end-column="34" />
           <folding>
             <element signature="e#0#21#0" expanded="true" />
           </folding>
@@ -349,11 +358,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/developmentP/ch02/chicken_Goobne.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="15" column="16" lean-forward="true" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+        <state relative-caret-position="304">
+          <caret line="97" column="25" selection-start-line="97" selection-start-column="25" selection-end-line="97" selection-end-column="25" />
           <folding>
             <element signature="e#0#21#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/developmentP/ch02/goobne_1.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="962" column="39" selection-start-line="962" selection-start-column="39" selection-end-line="962" selection-end-column="39" />
         </state>
       </provider>
     </entry>
