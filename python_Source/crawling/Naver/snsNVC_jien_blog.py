@@ -1,7 +1,7 @@
 import urllib.request
 import datetime
 import json
-from Naver.config import *
+from crawling.Naver.config import *
 import cx_Oracle as oci
 import re
 
