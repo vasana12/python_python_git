@@ -1,0 +1,88 @@
+<html>
+<head>
+    <title>성적보기</title>
+</head>
+
+<script language="javascript">
+
+    function updateCheck()
+    {
+        var form = document.modifyform;
+
+         if( !form.kor.value)
+        {
+            alert("국어점수를 적어주세요");
+            form.kor.focus();
+            return;
+        }
+
+        if( !form.eng.value)
+        {
+            alert( "영어 성적을 적어주세요" );
+            form.eng.focus();
+            return;
+        }
+        if( !form.math.value )
+        {
+            alert("수학 성적을 적어주세요");
+            form.math.focus()
+            return;
+        }
+
+
+        form.submit();
+    }
+
+    function sungjuklist()
+    {
+
+            location.href='/listSungjuk?current_page={{current_page}}';
+
+    }
+</script>
+<br/><br/><br/>
+<!--
+장고 1.2 부터 post 로 값을 보내면 이런 에러가 나오는 경우가 있는데,
+CSAF 보안 때문에 추가.
+
+해결방법은 POST form 뒤에 {%csrf_token %}을 넣어주면 된다.
+예) <form action="method="post">{% csrf_token %}
+또는
+csrf 보안 처리가 안된 python코드 안에 django.views.decorators.csrf.csrf_exempt를 import 하고, @csrf_exempt로 데코레이션 하면 된다.
+예)
+-->
+
+<table cellspacing = 0 cellpadding = 5 border = 1 width="200" align="center">
+    <form name="modifyform" method="post" action="/updateSungjuk/"> {% csrf_token %}
+    <input type="hidden" name="current_page" value="{{current_page}}">
+    <input type="hidden" name="hakbun" value="{{hakbun}}">
+        <tr>
+            <td><b>학번</b></td>
+            <td>{{hakbun}}</td>
+        </tr>
+        <tr>
+            <td><b>이름</b></td>
+            <td>{{ sungjukData.irum }}</td>
+        </tr>
+        <tr>
+            <td><b>국어</b></td>
+            <td><input type="text" name="kor" size="10" maxlength="10" value="{{ SungjukData.kor }}"></td>
+        </tr>
+        <tr>
+            <td><b>영어</b></td>
+            <td><input type="text" name="eng" size="10" maxlength="10" value="{{ SungjukData.eng }}"></td>
+        </tr>
+          <tr>
+            <td><b>수학</b></td>
+            <td><input type="text" name="math" size="10" maxlength="10" value="{{ SungjukData.math}}"></td>
+        </tr>
+    </form>
+</table>
+<br/>
+<table cellspacing= "0" cellpadding="0" border="0" width="200" align="center">
+    <tr align="center"><td>
+        <input type="button" value="재등록" OnClick="javascript:updateCheck();">
+        <input type="button" value="목록" OnClick="javascript:sungjuklist();">
+    </td></tr>
+</table>
+</html>

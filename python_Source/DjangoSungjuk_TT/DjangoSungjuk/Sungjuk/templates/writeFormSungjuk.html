@@ -1,0 +1,71 @@
+<script language="javascript">
+    //자바 스크립트 시작
+    function writeCheck(){
+        var form = document.writeform;
+
+        if(!form.hakbun.value)
+        {
+            alert("학번을 적어주세요");
+            form.name.focus();
+            return;
+        }
+        if (!form.irum.value){
+            alert("이름을 적어주세요");
+            form.irum.focus();
+            return;
+        }
+        if (!form.kor.value){
+            alert("국어성적을 적어주세요");
+            form.kor.focus();
+            return;
+        }
+        if (!form.kor.value){
+            alert("영어성적을 적어주세요");
+            form.kor.focus();
+            return;
+        }
+        if (!form.kor.value){
+            alert("수학성적을 적어주세요");
+            form.kor.focus();
+            return;
+        }
+
+        form.submit();
+        }
+</script>
+
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html" charset = "utf-8">
+    <title>게시판 글쓰기</title>
+</head>
+<table width="200" border="1" cellspacing="0" cellpadding="5" align="center">
+    <form name="writeform" method="post" action="/writeSungjuk/">
+        <tr>
+            <td><b>학번</b></td>
+            <td><input type ="text" name="hakbun" size="10" maxlength="10"></td>
+        </tr>
+        <tr>
+            <td><b>이름</b></td>
+            <td><input type ="text" name="irum" size="10" maxlength="10"></td>
+        </tr>
+        <tr>
+            <td><b>국어</b></td>
+            <td><input type ="text" name="kor" size="10" maxlength="10"></td>
+        </tr>
+        <tr>
+            <td><b>영어</b></td>
+            <td><input type ="text" name="eng" size="10" maxlength="10"></td>
+        </tr>
+        <tr>
+            <td><b>수학</b></td>
+            <td><input type ="text" name="math" size="10" maxlength="10"></td>
+        </tr>
+    </form>
+</table>
+<table width="200" border="1" cellspacing="0" cellpadiing="0" align="center">
+    <tr align="center">
+        <td><input type="button" value="등록" OnClick="javascript:writeCheck();"></td>
+    </tr>
+</table>
+</html>

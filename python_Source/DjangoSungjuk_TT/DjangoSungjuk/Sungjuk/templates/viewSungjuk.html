@@ -1,0 +1,67 @@
+<html>
+<head>
+    <title>글보기</title>
+</head>
+<script language="javascript">
+    function sungjuklist()
+    {
+
+            location.href= '/listSungjuk?current_page={{current_page}}';
+
+    }
+
+    function sungjukmodify()
+    {
+        location.href='/updateFormSungjuk?hakbun={{hakbun}}&current_page={{current_page}}';
+    }
+
+    function sungjukdelete()
+    {
+        location.href='/deleteSungjuk?hakbun={{hakbun}}&current_page={{current_page}}';
+    }
+</script>
+
+<table cellspacing = 0 cellpadding="5" border="1" width="200" align="center">
+    <tr>
+        <td width="100"><b>학번</b></td>
+        <td width="100">{{sungjukData.hakbun}} </td>
+    </tr>
+    <tr>
+        <td><b> 이름 </b></td>
+        <td> {{sungjukData.irum}} </td>
+    </tr>
+    <tr>
+        <td><b>국어</b></td>
+        <td> {{ sungjukData.kor }}</td>
+    </tr>
+    <tr>
+        <td><b>영어</b></td>
+        <td> {{ sungjukData.eng }}</td>
+    </tr>
+    <tr>
+        <td><b>수학</b></td>
+        <td> {{ sungjukData.math }}</td>
+    </tr>
+    </tr>
+        <tr>
+        <td><b>총점</b></td>
+        <td> {{ sungjukData.tot }}</td>
+    </tr>
+        <tr>
+        <td><b>평균</b></td>
+        <td> {{ sungjukData.avg }}</td>
+    </tr>
+    <tr>
+        <td><b>등급</b></td>
+        <td> {{ sungjukData.grade }}</td>
+    </tr>
+</table>
+
+<table cellspacing = "0" cellpadding="0" border="0" width="200" align="center">
+    <tr align="center"><td>
+        <input type = "button" value="수정" OnClick="javascript:sungjukmodify()">
+        <input type = "button" value="목록" OnClick="javascript:sungjuklist()">
+        <input type = "button" value="삭제" OnClick="javascript:sungjukdelete()">
+    </td></tr>
+</table>
+</html>

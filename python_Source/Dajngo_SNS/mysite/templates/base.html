@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+    {% load static %}
+
+    <link rel="stylesheet" href="{% static 'admin/css/base.css' %}" />
+    <title>{% block title %}My Amazing Site{% endblock %}</title>
+</head>
+<body>
+    <div id="sidebar">
+        {% block sidebar %}
+        <!--(1)  ,#클래스 상속받는것처럼 html문서도 상속받을 수 있게 장고프로그램에서 제공함. -->
+        <ul>
+            <li><a href="/">Project_Home</a></li>
+            <li><a href="/admin/">Admin</a></li>
+        </ul>
+        {% endblock %}
+        <!--(1)부터 여기까지 block sidebar을 재정의하지 않아도 적용된다.-->
+        <br>
+    </div>
+    <div id="content">
+        {% block content %}{% endblock %}
+    </div>
+
+</body>
+</html>

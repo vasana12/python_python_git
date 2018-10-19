@@ -1,0 +1,15 @@
+{% extends "base.html" %}
+
+{% block content %}
+    <h2>Django Application</h2>
+    <ul>
+        {% for appname in object_list %} <!-- views 에서 object_list 에 polls, books 추가됨 -->
+            {% with appname|add:":"|add:"index" as urlvar %}
+                              <!--polls:index-->
+                <li><a href="{% url urlvar %}">{{ appname }}</a></li>
+                            <!--url polls:index-->
+                            <!--url books:index-->
+            {% endwith %}
+        {% endfor %}
+    </ul>
+{% endblock content %}
