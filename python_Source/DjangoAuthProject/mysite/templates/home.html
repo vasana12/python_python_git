@@ -1,0 +1,68 @@
+{% extends "base.html" %}
+
+{% block title %}home.html{% endblock %}
+{% load staticfiles %}
+{% block extrastyle %}{% static "css/home.css" %}{% endblock %}
+
+{% block content }
+
+<div id="contetn_home">
+    <div id="homeimg">
+        <a href="/"><img src="{% static 'img/django-actor-big.jpg' %}" style="height:256px;"/></a>
+        <h4 style="margin: 5px 0;">This is Django powered web site.</h4>
+    </div>
+    <hr style="margin: 5px 0;">
+    <h2>Select Application</h2>
+    <table id="appList">
+        <!--<tr>-->
+            <!--<td><b><i><a href="{% url 'bookmark:index' %}">Bookmark</a></i></b></td>-->
+            <!--<td>You can stor your own bookmarks by Bookmark application. it's also possible to update or delete yout bookmarks.</td>-->
+            <!--<td class="Edit"><i><a href="{% url 'bookmark:add' %}">Add</a></i></td>-->
+            <!--<td class="Edit"><i><a href="{% url 'bookmark:change' %}">Change</a></i></td>-->
+        <!--</tr>-->
+         <tr>
+            <td><b><i><a href="#">Bookmark</a></i></b></td>
+            <td>You can stor your own bookmarks by Bookmark application. it's also possible to update or delete yout bookmarks.</td>
+            <td class="Edit"><i><a href="#">Add</a></i></td>
+            <td class="Edit"><i><a href="#">Change</a></i></td>
+        </tr>
+
+        <!--<tr>-->
+            <!--<td><b><i><a href="{% url 'blog:index' %}">Blog</a></i></b></td>-->
+            <!--<td>This application makes it possible to log daily evenets or write your own interests such as hobbies, techniques, etc.</td>-->
+            <!--<td class="Edit"><i><a href="{% url 'blog:add' %}">Add</a></i></td>-->
+            <!--<td class="Edit"><i><a href="{% url 'blog:change' %}">Change</a></i></td>-->
+        <!--</tr>-->
+        <tr>
+            <td><b><i><a href="#">Blog</a></i></b></td>
+            <td>This application makes it possible to log daily evenets or write your own interests such as hobbies, techniques, etc.</td>
+            <td class="Edit"><i><a href="#">Add</a></i></td>
+            <td class="Edit"><i><a href="#">Change</a></i></td>
+        </tr>
+
+        <tr>
+            <td><b><i><a href="#">Phote</a></i></b></td>
+            <td>You can write your won post and share to others. Donec id elit non mi porta gravida at eget metus.
+                Fusce dapibus, tellus ac cursus commodo</td>
+            <td class="Edit"><i><a href="#">Add</a></i></td>
+            <td class="Edit"><i><a href="#">Change</a></i></td>
+        </tr>
+    </table>
+</div>
+{% endblock content %}
+
+{% block footer %}
+<div id="footer">
+    @ BigPieissmall 2018
+</div>
+{% endblock footer %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+</body>
+</html>
