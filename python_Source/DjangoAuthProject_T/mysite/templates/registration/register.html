@@ -1,0 +1,45 @@
+{% extends "base.html" %}
+
+{% block title %}register.html{% endblock %}
+
+{% load staticfiles %} <!--staticfile 들을 load할수있는 기능 / static 폴더안에 기능들 정리할수있음 (css,javascript등), 어떻게쓸수있는가? settings에서 STATICFILES_DIRS = [os.path.join(BASE_DIR, 'static')] 설정해주었기떄문-->
+{% block extrastyle %}{% static "css/forms.css" %}{% endblock %}
+
+{% block content %} <!--base 에 상속받아 오버라이딩하는과정-->
+<div id="content">
+    <h1>New User Registration</h1>
+    <!-- '.'은 현재 url을 의미한다. -->
+    <form method="post" action="."> <!--{% csrf_token %} {% csrf_token %}  : 해킹방지기능 장고 post형식인경우 반드시 필요함-->
+        {% csrf_token %}
+        {% if form.errors %}
+            <p class="errornote">Wrong! Please correct the error(s) below.</p>
+        {% endif %}
+
+        <p>Please enter your username etc.</p>
+
+        <fieldset class="aligned">
+
+            <div class="form-row">
+                {{ form.username.label_tag }} {{ form.username }}  <!--label_tag : 만약 username이 kim 이면 kim: 이라고 표현가능하게 할 수 있는 기능-->
+            </div>
+
+            <div class="form-row">
+                {{ form.password1.label_tag }} {{ form.password1 }}
+            </div>
+
+            <div class="form-row">
+                {{ form.password2.label_tag }} {{ form.password2 }}
+            </div>
+
+        </fieldset>
+
+        <div class="submit-row">
+            <input type="submit" value="Register">
+        </div>
+
+        <script type="text/javascript">document.getElementById("id_username").focus();</script> <!--id_username 을찾아 focus로 이동-->
+
+    </form>
+
+</div>
+{% endblock %}

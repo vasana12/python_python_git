@@ -1,0 +1,30 @@
+{% extends "base.html" %}
+
+{% block title %}post_detail.html{% endblock %}
+
+{% block content %}
+<div id="content">
+    <h2>{{ object.title }}</h2>
+    <p class="other_posts">
+        {% if obejct.get_previous_by_modify_date %}
+            <a href="{{ object.get_previous_post.get_absolute_url }}" title="'View previous post">
+                -- {{ object.get_previous_post }}
+            </a>
+        {% endif %}
+
+        {% if obejct.get_next_by_modify_date %}
+            | <a href="{{ object.get_next_post.get_absolute_url }}" title="'View next post">
+                -- {{ object.get_next_post }}
+            </a>
+        {% endif %}
+    </p>
+    <!-- j F Y는 날짜 표현하는 방식 -->
+    <p class="date">{{ object.modify_date|date:"j F Y" }}</p>
+    <br/>
+
+    <div class="body">
+        {{ object.content | linebreaks }}
+    </div>
+    <br/>
+</div>
+{% endblock %}
